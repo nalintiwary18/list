@@ -1,0 +1,16 @@
+{
+  "name": "target-ai-startups",
+  "version": "1.0.0",
+  "description": "355 Funded AI Startups Outreach Desk & Directory Viewer by Kumar Nalin",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "jobsearch",
+    "ai-startups",
+    "outreach",
+    "crm"
+  ],
+  "author": "Kumar Nalin"
+}

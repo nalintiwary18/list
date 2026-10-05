@@ -1,0 +1,3195 @@
+ID 1: Portkey.ai
+  Website: https://portkey.ai
+  Sector: AI Infrastructure / LLMOps
+  Size: 15-25 | Funding: Seed $3M (Lightspeed, prominent angel investors)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://portkey.ai/careers | Email: rohit@portkey.ai
+  Founder: Rohit Agarwal (Co-Founder) & Ayush Garg (Co-Founder)
+  Hook: Building low-latency Next.js observability dashboards + FastAPI gateways for LLM routing, evals, and agent fallback.
+
+ID 2: Bolna.ai
+  Website: https://bolna.ai
+  Sector: Voice AI & Conversational Agents
+  Size: 10-20 | Funding: Seed $2.5M (Y Combinator W24, General Catalyst)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://bolna.ai/careers | Email: abhinav@bolna.ai
+  Founder: Abhinav Pathak (Co-Founder) & Prateek Sachan (Co-Founder)
+  Hook: Ultra low-latency WebSocket audio pipelines + streaming FastAPI backends for real-time multilingual voice agents.
+
+ID 3: Mem0
+  Website: https://mem0.ai
+  Sector: Memory Layer for LLMs & AI Agents
+  Size: 10-20 | Funding: Seed $3.5M (Y Combinator S23, Peak XV Surge)
+  Location: Fully Remote (India)
+  Career: https://mem0.ai/careers | Email: taranjeet@mem0.ai
+  Founder: Taranjeet Singh (Co-Founder) & Deshraj Yadav (Co-Founder)
+  Hook: Hybrid vector/graph retrieval pipelines + custom embedding sync for long-term memory in autonomous agent systems.
+
+ID 4: TrueFoundry
+  Website: https://truefoundry.com
+  Sector: LLM & ML Deployment Infrastructure
+  Size: 30-50 | Funding: Series A $5.3M (Eniac Ventures, Peak XV)
+  Location: Remote / Hybrid (Bangalore / Delhi-NCR)
+  Career: https://truefoundry.com/careers | Email: abhishek@truefoundry.com
+  Founder: Abhishek Choudhary (Co-Founder & CTO) & Nikunj Bajaj (CEO)
+  Hook: Kubernetes-native model serving pipelines, vLLM acceleration gateways, and full-stack developer monitoring consoles.
+
+ID 5: Sarvam AI
+  Website: https://sarvam.ai
+  Sector: Indian Sovereign LLMs & Speech Models
+  Size: 30-60 | Funding: Series A $41M (Lightspeed, Peak XV, Khosla)
+  Location: Remote / Bangalore
+  Career: https://sarvam.ai/careers | Email: vivek@sarvam.ai
+  Founder: Vivek Raghavan (Co-Founder) & Pratyush Kumar (Co-Founder)
+  Hook: Indic language tokenizers, high-throughput fine-tuning pipelines, and Next.js enterprise evaluation playgrounds.
+
+ID 6: Agno (formerly Phidata)
+  Website: https://www.agno.com
+  Sector: Multi-Modal AI Agent Framework
+  Size: 10-20 | Funding: Seed $2.8M (Top-tier Silicon Valley & Indian VCs)
+  Location: Fully Remote (India)
+  Career: https://www.agno.com/careers | Email: ashpreet@agno.com
+  Founder: Ashpreet Bedi (Founder & CEO)
+  Hook: Multi-modal agent orchestration with persistent memory, tool-calling APIs in FastAPI, and interactive agent control UIs.
+
+ID 7: Respan (formerly Keywords AI)
+  Website: https://www.respan.ai
+  Sector: LLM Observability & Evaluation Platform
+  Size: 10-20 | Funding: Seed $2.5M (Y Combinator W24)
+  Location: Fully Remote (India)
+  Career: https://www.respan.ai/careers | Email: frank@respan.ai
+  Founder: Frank Liu (Co-Founder & CEO)
+  Hook: High-throughput trace logging, real-time cost tracking dashboards in Next.js, and automated eval benchmarks for LLM outputs.
+
+ID 8: Composio
+  Website: https://composio.dev
+  Sector: Tool Ecosystem for AI Agents
+  Size: 15-30 | Funding: Series A $24M (Lightspeed, Elevation)
+  Location: Remote / Bangalore
+  Career: https://composio.dev/careers | Email: karan@composio.dev
+  Founder: Karan Vaidya (Co-Founder & CEO) & Soham Ganatra (Co-Founder)
+  Hook: Building 100+ authenticated third-party tool integrations in Python/FastAPI and sub-second tool routing for agent frameworks.
+
+ID 9: GigaML
+  Website: https://gigaml.com
+  Sector: Enterprise On-Prem LLM Fine-Tuning
+  Size: 10-20 | Funding: Seed $3.6M (Y Combinator S23, Nexus VP)
+  Location: Fully Remote (India)
+  Career: https://gigaml.com/careers | Email: varun@gigaml.com
+  Founder: Varun Godbole (Co-Founder & CEO) & Esha Manideep (Co-Founder)
+  Hook: On-premise LoRA fine-tuning pipelines, quantization optimizations, and private enterprise LLM inference APIs.
+
+ID 10: Plotline
+  Website: https://plotline.so
+  Sector: In-App AI Personalization & Micro-Experiences
+  Size: 15-30 | Funding: Seed $2.6M (Peak XV Surge)
+  Location: Remote / Bangalore
+  Career: https://plotline.so/careers | Email: shubham@plotline.so
+  Founder: Shubham Agarwal (Co-Founder) & Adit Kabra (Co-Founder)
+  Hook: Lightweight client SDKs, dynamic JSON schema validation, and real-time nudges powered by user behavioral embeddings.
+
+ID 11: Questera (Quest Labs)
+  Website: https://questlabs.ai
+  Sector: AI Gamification & User Growth SDKs
+  Size: 15-30 | Funding: Seed $1.5M (Y Combinator W24)
+  Location: Remote / Bangalore
+  Career: https://questlabs.ai/careers | Email: subhash@questlabs.ai
+  Founder: Subhash Choudhary (Founder & CEO)
+  Hook: React/Next.js pre-built gamified UI components + edge-cached personalization rules for fast onboarding funnels.
+
+ID 12: Beatoven.ai
+  Website: https://beatoven.ai
+  Sector: Generative AI Music & Soundtrack Studio
+  Size: 12-25 | Funding: Pre-Series A $1.3M (Capital A, Entrepreneur First)
+  Location: Remote / Delhi-NCR / Bangalore
+  Career: https://beatoven.ai/careers | Email: mansoor@beatoven.ai
+  Founder: Mansoor Rahimatkhan (Co-Founder) & Gaurav Doiphode (Co-Founder)
+  Hook: Web audio API multi-track timeline editing in React + diffusion-based audio stem generation backends.
+
+ID 13: Murf.ai
+  Website: https://murf.ai
+  Sector: AI Voice Generation & Audio Studio
+  Size: 60-90 | Funding: Series A $10M (Matrix Partners, Elevation)
+  Location: Fully Remote (India) / Delhi-NCR friendly
+  Career: https://murf.ai/careers | Email: ankur@murf.ai
+  Founder: Ankur Edkie (CEO) & Sneha Roy (Co-Founder)
+  Hook: Web-based audio timeline editor in Next.js paired with deep learning voice generation pipelines and low-latency audio streaming.
+
+ID 14: Vodex.ai
+  Website: https://vodex.ai
+  Sector: GenAI Outbound Voice Agents for Enterprise
+  Size: 20-40 | Funding: Seed $2M (Unicorn India Ventures)
+  Location: Remote / Bangalore
+  Career: https://vodex.ai/careers | Email: anshuman@vodex.ai
+  Founder: Anshuman Sen (Co-Founder & CEO) & Navneet Gupta (Co-Founder)
+  Hook: Sub-500ms conversational turnarounds using streaming STT/TTS models, FastAPI orchestrators, and telephony SIP trunking.
+
+ID 15: Floworks
+  Website: https://floworks.ai
+  Sector: Autonomous AI Coworkers for Sales & CRM
+  Size: 12-25 | Funding: Seed $1.5M (Y Combinator W23, SenseAI)
+  Location: Remote / Bangalore
+  Career: https://floworks.ai/careers | Email: sarthak@floworks.ai
+  Founder: Sarthak Shrivastava (Co-Founder) & Sudipta Biswas (Co-Founder)
+  Hook: Al synchronization pipelines across Salesforce/HubSpot, natural language function dispatching, and agent feedback loops.
+
+ID 16: Pipeshift
+  Website: https://pipeshift.com
+  Sector: Fine-Tuning & Open-Weight LLM Infrastructure
+  Size: 8-16 | Funding: Seed $1.8M (Y Combinator W24, SenseAI)
+  Location: Fully Remote (India)
+  Career: https://pipeshift.com/careers | Email: arko@pipeshift.com
+  Founder: Arko Chattopadhyay (Co-Founder & CEO)
+  Hook: Distributed fine-tuning jobs on cloud GPUs, automated loss tracking, and serverless LLM inference endpoints.
+
+ID 17: LLUMO AI
+  Website: https://llumo.ai
+  Sector: LLM Compression, Cost & Latency Optimization
+  Size: 10-20 | Funding: Seed $1.2M (SenseAI Ventures)
+  Location: Remote / Delhi-NCR friendly
+  Career: https://llumo.ai/careers | Email: akshat@llumo.ai
+  Founder: Akshat Anand (CTO) & Shivam Gupta (CEO)
+  Hook: Prompt compression algorithms, semantic token caching, and automated LLM quality evaluation benchmarks.
+
+ID 18: Two AI (Sutra)
+  Website: https://two.ai
+  Sector: Multilingual Frontier AI & GenAI Platform
+  Size: 25-50 | Funding: Seed $20M (Jio, Smilegate)
+  Location: Remote / Bangalore / Global
+  Career: https://two.ai/careers | Email: pranav@two.ai
+  Founder: Pranav Mistry (Founder & CEO)
+  Hook: Multi-dialect LLM training datasets, real-time WebRTC avatar rendering, and high-performance multilingual inferencing.
+
+ID 19: Slang Labs
+  Website: https://slanglabs.in
+  Sector: In-App Multilingual Voice Assistant SDKs
+  Size: 20-40 | Funding: Pre-Series A $1.5M (Google Assistant Fund)
+  Location: Remote / Bangalore
+  Career: https://slanglabs.in/careers | Email: kumar@slanglabs.in
+  Founder: Kumar Rangarajan (Co-Founder & CEO)
+  Hook: In-app voice copilots in React Native/Web, phonetic ASR corrections, and domain-specific intent classification models.
+
+ID 20: Gnani.ai
+  Website: https://gnani.ai
+  Sector: Conversational Speech AI & Indic Voice Automation
+  Size: 45-75 | Funding: Series A $4M (Info Edge Ventures, Samsung)
+  Location: Remote / Bangalore
+  Career: https://gnani.ai/careers | Email: ganesh@gnani.ai
+  Founder: Ganesh Gopalan (Co-Founder & CEO)
+  Hook: Building low-latency telephony voice bot gateways, acoustic model pipelines, and omnichannel analytics dashboards.
+
+ID 21: CoRover.ai
+  Website: https://corover.ai
+  Sector: Sovereign Conversational AI & BharatGPT
+  Size: 45-75 | Funding: Series A $4M (Accenture, Indian Angel Network)
+  Location: Delhi-NCR (Noida) / Bangalore
+  Career: https://corover.ai/careers | Email: ankush@corover.mobi
+  Founder: Ankush Sabharwal (Founder & CEO)
+  Hook: BharatGPT enterprise multi-modal chatbot integrations, Indic speech recognition, and high-concurrency government portal bots.
+
+ID 22: SiftHub
+  Website: https://sifthub.io
+  Sector: AI-Powered Sales Knowledge & Search Platform
+  Size: 15-30 | Funding: Seed $5.5M (Matrix Partners India)
+  Location: Remote / Bangalore
+  Career: https://sifthub.io/careers | Email: manhal@sifthub.io
+  Founder: Manhal Kamalakannan (Founder & CEO)
+  Hook: Hybrid semantic search across Slack, Google Drive, and Notion with citation-grounded RAG generation in Next.js.
+
+ID 23: Segwise
+  Website: https://segwise.ai
+  Sector: AI Observability & Anomaly Detection for Apps
+  Size: 10-20 | Funding: Seed $1.6M (Powerhouse Ventures)
+  Location: Remote / Bangalore
+  Career: https://segwise.ai/careers | Email: brijesh@segwise.ai
+  Founder: Brijesh Bharadwaj (Co-Founder) & Shobhit Gupta (Co-Founder)
+  Hook: Automated funnel drop-off analysis using time-series anomaly detection, root-cause reasoning agents, and Next.js charts.
+
+ID 24: Houseware
+  Website: https://houseware.io
+  Sector: Composable Revenue Analytics & AI Workflows
+  Size: 12-25 | Funding: Seed $2.1M (Tanglin Venture Partners)
+  Location: Remote / Bangalore
+  Career: https://houseware.io/careers | Email: divyansh@houseware.io
+  Founder: Divyansh Saini (Co-Founder & CEO)
+  Hook: Warehouse-native semantic layers on Snowflake/BigQuery with natural language text-to-SQL generation and data apps.
+
+ID 25: Chaos Genius
+  Website: https://chaosgenius.io
+  Sector: Snowflake & Presto Data Warehouse Cost AI
+  Size: 10-20 | Funding: Seed $3.3M (Elevation Capital, YC)
+  Location: Remote / Bangalore
+  Career: https://chaosgenius.io/careers | Email: preetish@chaosgenius.io
+  Founder: Preetish Kakkar (Co-Founder & CEO)
+  Hook: Automated query profiling, cost anomaly alerts, and query optimization recommendations for cloud data warehouses.
+
+ID 26: Superalign
+  Website: https://superalign.ai
+  Sector: Safety, Evaluation & Alignment for LLMs
+  Size: 8-15 | Funding: Seed $1.5M (Peak XV Surge)
+  Location: Remote / Bangalore
+  Career: https://superalign.ai/careers | Email: team@superalign.ai
+  Founder: Founding Engineering Team
+  Hook: Automated red-teaming benchmarks, hallucination detection heuristics, and RLHF evaluation harnesses in FastAPI.
+
+ID 27: Kroop AI
+  Website: https://kroop.ai
+  Sector: Deepfake Detection & Synthetic Voice Forensics
+  Size: 10-20 | Funding: Seed $500K (Indian Angel Network)
+  Location: Remote / Delhi-NCR friendly
+  Career: https://kroop.ai/careers | Email: jyoti@kroop.ai
+  Founder: Dr. Jyoti Joshi (Founder & CEO)
+  Hook: Audio-visual spoofing detection models, real-time video stream inspection, and automated forensic report generation.
+
+ID 28: Karya
+  Website: https://karya.in
+  Sector: Ethical AI Training Data & Indic Speech Datasets
+  Size: 25-45 | Funding: Seed $5M (Google.org, philanthropies)
+  Location: Remote / Bangalore
+  Career: https://karya.in/careers | Email: manu@karya.in
+  Founder: Manu Chopra (Founder & CEO)
+  Hook: Offline-first mobile data collection apps with automated audio validation and worker micropayment ledgers.
+
+ID 29: HyperVerge
+  Website: https://hyperverge.co
+  Sector: AI Computer Vision & Identity Verification
+  Size: 60-90 | Funding: Series A $5M (NEA, Milliways Ventures)
+  Location: Remote / Bangalore
+  Career: https://hyperverge.co/careers | Email: kedar@hyperverge.co
+  Founder: Kedar Kulkarni (Co-Founder & CEO)
+  Hook: Sub-second facial liveness detection, optical document parsing, and fraud prevention pipelines on edge devices.
+
+ID 30: OnFinance AI
+  Website: https://onfinance.ai
+  Sector: Financial LLM Copilot & Wealth Evals
+  Size: 10-20 | Funding: Seed $1M (Silverneedle Ventures)
+  Location: Remote / Bangalore
+  Career: https://onfinance.ai/careers | Email: kunal@onfinance.ai
+  Founder: Kunal Sangwan (Co-Founder) & Anuj Srivastava (Co-Founder)
+  Hook: Financial document parsing (10-K, annual reports), domain-specific RAG with tabular reasoning, and compliance audits.
+
+ID 31: Rowboat Labs
+  Website: https://rowboatlabs.com
+  Sector: Local Knowledge Graph AI Coworker
+  Size: 8-16 | Funding: Seed $2M (Y Combinator S24)
+  Location: Remote / Bangalore
+  Career: https://rowboatlabs.com/careers | Email: founders@rowboatlabs.com
+  Founder: Founding Engineering Team
+  Hook: Local-first SQLite + vector database embeddings, automated email/meeting summarization, and offline knowledge sync.
+
+ID 32: Ressl AI
+  Website: https://ressl.ai
+  Sector: Autonomous Agent Benchmarking & Deployment
+  Size: 6-12 | Funding: Seed $1.5M (Y Combinator W25)
+  Location: Remote / Bangalore
+  Career: https://ressl.ai/careers | Email: founders@ressl.ai
+  Founder: Founding Engineering Team
+  Hook: Multi-agent evaluation sandboxes, deterministic trajectory replay, and agent safety guardrails in Python/FastAPI.
+
+ID 33: LimeChat
+  Website: https://limechat.ai
+  Sector: Conversational E-Commerce & Level-3 AI Support
+  Size: 35-65 | Funding: Seed $5.2M (Stellaris Venture Partners, Pi Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://limechat.ai/careers | Email: nikhil@limechat.ai
+  Founder: Nikhil Gupta (Co-Founder & CEO) & Aniket Bajpai (Co-Founder)
+  Hook: Autonomous conversational agents on WhatsApp with Shopify/WooCommerce catalog sync and intent routing pipelines.
+
+ID 34: Scalenut
+  Website: https://scalenut.com
+  Sector: AI SEO & Guided Content Generation Engine
+  Size: 40-70 | Funding: Series A $3.1M (Saama Capital, Amit Singhal)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://scalenut.com/careers | Email: mayank@scalenut.com
+  Founder: Mayank Jain (Co-Founder) & Gaurav Goyal (Co-Founder)
+  Hook: Semantic NLP document scoring, SERP competitive analysis pipelines, and structured long-form content generation in Next.js.
+
+ID 35: Kaagaz
+  Website: https://kaagaz.app
+  Sector: AI Document Scanner, OCR & Workflow OS
+  Size: 20-35 | Funding: Seed $1.5M (Y Combinator W22, Pravega)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://kaagaz.app/careers | Email: gaurav@kaagaz.app
+  Founder: Gaurav Shrishrimal (Co-Founder & CEO)
+  Hook: Edge computer vision for edge distortion correction, multi-language OCR pipelines, and cloud document organization.
+
+ID 36: SureBright
+  Website: https://surebright.com
+  Sector: AI-Powered Embedded Warranty & Claim Engine
+  Size: 10-20 | Funding: Seed $2.5M (Y Combinator, angel syndicates)
+  Location: Delhi-NCR (New Delhi) / Remote
+  Career: https://surebright.com/careers | Email: founders@surebright.com
+  Founder: Founding Team
+  Hook: Automated claims assessment with computer vision receipt parsing and high-throughput merchant checkout plugins.
+
+ID 37: Waybill
+  Website: https://waybill.com
+  Sector: AI Hardware Procurement & Supply Chain Agent
+  Size: 8-15 | Funding: Seed $2M (Y Combinator S24)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://waybill.com/careers | Email: founders@waybill.com
+  Founder: Founding Engineering Team
+  Hook: Automated BOM parsing from CAD files, supplier RFQ automation agents, and tariff classification pipelines.
+
+ID 38: Tune AI
+  Website: https://tune.app
+  Sector: Developer Framework for LLM Fine-Tuning & Orchestration
+  Size: 10-20 | Funding: Seed $1.5M (Accel Atoms)
+  Location: Remote / Bangalore
+  Career: https://tune.app/careers | Email: founders@tune.app
+  Founder: Founding Team
+  Hook: LLM fine-tuning APIs in Python, dataset formatting pipelines, and evaluation metrics dashboards for open-source weights.
+
+ID 39: Arivihan
+  Website: https://arivihan.com
+  Sector: AI-Based 1-on-1 Automated Video Tutoring
+  Size: 15-30 | Funding: Seed $1M (Accel Atoms)
+  Location: Remote / Delhi-NCR friendly
+  Career: https://arivihan.com/careers | Email: founders@arivihan.com
+  Founder: Founding Team
+  Hook: Interactive video streaming engines, real-time voice-driven doubt resolution, and adaptive curriculum pathways.
+
+ID 40: K-Dense
+  Website: https://kdense.ai
+  Sector: Autonomous Enterprise AI Agents & Workflow Automation
+  Size: 10-20 | Funding: Seed $2M (Accel Atoms AI Cohort, Google AIFF)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://kdense.ai/careers | Email: founders@kdense.ai
+  Founder: Founding Team
+  Hook: Autonomous agent execution graphs, multi-step tool planners, and enterprise API authentication wrappers.
+
+ID 41: Zaperon
+  Website: https://zaperon.com
+  Sector: AI Identity Governance & Zero-Trust Cybersecurity
+  Size: 15-30 | Funding: Seed $1M (Inflection Point Ventures)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://zaperon.com/careers | Email: vineet@zaperon.com
+  Founder: Vineet Gupta (Co-Founder) & Sachin Aggarwal (Co-Founder)
+  Hook: Passwordless biometric authentication, continuous user behavior anomaly detection, and access governance dashboards.
+
+ID 42: Sherlocks.ai
+  Website: https://sherlocks.ai
+  Sector: AI Agents for Automated Data Investigation & Root Cause
+  Size: 8-15 | Funding: Seed $1.2M (SenseAI Ventures)
+  Location: Remote / Bangalore
+  Career: https://sherlocks.ai/careers | Email: founders@sherlocks.ai
+  Founder: Founding Team
+  Hook: Automated SQL metric anomaly analysis, hypothesis testing with LLM reasoning, and narrative report generation.
+
+ID 43: CureSkin
+  Website: https://cureskin.com
+  Sector: Computer Vision AI for Dermatology & Skincare
+  Size: 40-70 | Funding: Series A $5M (JSW Ventures, Y Combinator)
+  Location: Remote / Bangalore
+  Career: https://cureskin.com/careers | Email: gopinath@cureskin.com
+  Founder: Gopinath Jaganmohan (Co-Founder & CTO)
+  Hook: High-accuracy skin lesion classification, treatment plan tracking algorithms, and mobile camera normalization pipelines.
+
+ID 44: August AI
+  Website: https://august.ai
+  Sector: AI Clinical Intelligence & Primary Care Assistance
+  Size: 10-20 | Funding: Seed $3M (Peak XV Surge 12)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://august.ai/careers | Email: anuruddh@august.ai
+  Founder: Anuruddh Mishra (Founder & CEO)
+  Hook: Medical conversational reasoning with verified clinical citations, symptom triage workflows, and patient EHR sync.
+
+ID 45: HiLoop
+  Website: https://hiloop.ai
+  Sector: Infrastructure for Training & Evaluating Open-Weight Models
+  Size: 8-16 | Funding: Seed $2.5M (Peak XV Surge 12)
+  Location: Fully Remote (India)
+  Career: https://hiloop.ai/careers | Email: karan@hiloop.ai
+  Founder: Karan Brar (Co-Founder)
+  Hook: Automated dataset cleaning pipelines, RLHF evaluation harnesses, and multi-model benchmark tracking dashboards.
+
+ID 46: Reinforce Labs
+  Website: https://reinforcelabs.ai
+  Sector: Automated Red-Teaming & Security Evals for Enterprise AI
+  Size: 8-15 | Funding: Seed $2.5M (Peak XV Surge 12)
+  Location: Remote / Bangalore
+  Career: https://reinforcelabs.ai/careers | Email: anish@reinforcelabs.ai
+  Founder: Anish Das Sarma (Founder & CEO)
+  Hook: Prompt injection vulnerability testing suites, adversarial attack generators, and enterprise AI firewall proxies.
+
+ID 47: Kindling
+  Website: https://kindling.ai
+  Sector: AI Storytelling & Strategic Communications Platform
+  Size: 6-12 | Funding: Seed $1.8M (Peak XV Surge 12)
+  Location: Remote / Bangalore
+  Career: https://kindling.ai/careers | Email: sachin@kindling.ai
+  Founder: Sachin Shah (Co-Founder)
+  Hook: Interactive narrative generators, tone-adaptive copy editors in Next.js, and multi-format media distribution pipelines.
+
+ID 48: Rosella
+  Website: https://rosella.ai
+  Sector: AI-Native Commercial Insurance Brokerage Engine
+  Size: 8-15 | Funding: Seed $2M (Peak XV Surge 12)
+  Location: Remote / Bangalore
+  Career: https://rosella.ai/careers | Email: founders@rosella.ai
+  Founder: Founding Engineering Team
+  Hook: Policy comparison semantic parsers, commercial risk exposure scoring, and carrier quote aggregator APIs.
+
+ID 49: Tribe Money
+  Website: https://tribemoney.ai
+  Sector: Autonomous AI Copilot for Personal Wealth & Cash Flow
+  Size: 10-20 | Funding: Seed $2M (Peak XV Surge 12)
+  Location: Remote / Bangalore
+  Career: https://tribemoney.ai/careers | Email: founders@tribemoney.ai
+  Founder: Founding Team
+  Hook: Account aggregator bank statement parsing, categorized spend predictions, and conversational finance copilots.
+
+ID 50: NeuroPixel.AI
+  Website: https://neuropixel.ai
+  Sector: Computer Vision for Automated Apparel Cataloging
+  Size: 15-30 | Funding: Seed $1.7M (Speciale Invest, Flipkart Leap)
+  Location: Remote / Bangalore
+  Career: https://neuropixel.ai/careers | Email: charlie@neuropixel.ai
+  Founder: Charlie K (Co-Founder & CEO)
+  Hook: High-fidelity virtual apparel try-on diffusion models, 3D pose estimation, and automated photo background generators.
+
+ID 51: Sketchnote
+  Website: https://sketchnote.co
+  Sector: Collaborative AI Whiteboard & Real-Time Sync Canvas
+  Size: 10-25 | Funding: Pre-Seed $500K (Accel Atoms)
+  Location: Fully Remote (India)
+  Career: https://sketchnote.co/careers | Email: dhruvak@sketchnote.co
+  Founder: Dhruvak Aggarwal (Founder & CEO)
+  Hook: Infinite canvas rendering with React/Next.js, real-time multi-user WebSocket state sync, and AI diagramming.
+
+ID 52: Spyne.ai
+  Website: https://spyne.ai
+  Sector: AI Photography & Automotive Visual Cataloging
+  Size: 60-90 | Funding: Series A $7M (Accel, Storm Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://spyne.ai/careers | Email: sanjay@spyne.ai
+  Founder: Sanjay Kumar (CEO) & Deepti Prasad (Co-Founder)
+  Hook: Computer vision pipelines for 360-degree vehicle studio rendering, background replacement, and mobile SDK optimization.
+
+ID 53: Wobot.ai
+  Website: https://wobot.ai
+  Sector: Computer Vision for Workplace SOP & Safety Analytics
+  Size: 35-60 | Funding: Series A $2.5M (Sequoia Surge)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://wobot.ai/careers | Email: adhiraj@wobot.ai
+  Founder: Adhiraj Lamba (Co-Founder) & Tapan Dixit (Co-Founder)
+  Hook: CCTV video analytics, edge inference pipelines, and real-time compliance alerting dashboards in Next.js.
+
+ID 54: Inspektlabs
+  Website: https://inspektlabs.com
+  Sector: Computer Vision Inspection for Auto & Insurance Claims
+  Size: 15-30 | Funding: Seed $1M (Accel Atoms)
+  Location: Delhi-NCR (New Delhi) / Remote
+  Career: https://inspektlabs.com/careers | Email: devesh@inspektlabs.com
+  Founder: Devesh Trivedi (Founder & CEO)
+  Hook: 360-degree damage detection on smartphones, 3D mesh reconstruction, and automated claim settlement APIs in FastAPI.
+
+ID 55: Devnagri
+  Website: https://devnagri.com
+  Sector: AI Indic Translation Engine & Localization APIs
+  Size: 25-45 | Funding: Seed $1M (Inflection Point Ventures)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://devnagri.com/careers | Email: nakul@devnagri.com
+  Founder: Nakul Kundra (Co-Founder & CEO)
+  Hook: Neural machine translation for 22 Indian languages, document parsing microservices, and translation quality estimation.
+
+ID 56: Dubverse.ai
+  Website: https://dubverse.ai
+  Sector: Generative AI Video Dubbing in 30+ Languages
+  Size: 15-30 | Funding: Seed $800K (Kalaari Capital)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://dubverse.ai/careers | Email: varshul@dubverse.ai
+  Founder: Varshul Goyal (Founder & CEO)
+  Hook: Automated lip-sync generation, speaker voice cloning, and real-time multilingual video subtitles editor in Next.js.
+
+ID 57: NimbleBox.ai
+  Website: https://nimblebox.ai
+  Sector: MLOps Platform for Generative AI Deployment
+  Size: 15-30 | Funding: Seed $1M (Techstars, prominent angels)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://nimblebox.ai/careers | Email: anshuman@nimblebox.ai
+  Founder: Anshuman Pandey (Founder & CEO)
+  Hook: Kubernetes GPU orchestration, model serving gateways, and real-time inference latency optimization.
+
+ID 58: Kello
+  Website: https://kello.ai
+  Sector: AI-Native People Intelligence & Organizational Insights
+  Size: 10-25 | Funding: Seed $2.6M (Peak XV Surge)
+  Location: Delhi-NCR (Gurgaon) / Remote
+  Career: https://kello.ai/careers | Email: mona@kello.ai
+  Founder: Mona Gandhi (Co-Founder) & Subramanya Jingade (Co-Founder)
+  Hook: Organizational network graph analysis, automated candidate sourcing agents, and talent engagement workflows.
+
+ID 59: Round1
+  Website: https://round1.ai
+  Sector: AI-Powered Candidate Screening & Voice Interviews
+  Size: 10-20 | Funding: Seed $2.5M (Peak XV Surge)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://round1.ai/careers | Email: team@round1.ai
+  Founder: Founding Engineering Team
+  Hook: Real-time speech-to-text interview transcription, automated technical response evaluation, and proctoring pipelines.
+
+ID 60: Zoop
+  Website: https://zoop.one
+  Sector: Automated Document Verification & OCR AI Pipelines
+  Size: 25-45 | Funding: Seed $2.5M (Peak XV Surge)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://zoop.one/careers | Email: puneet@zoop.one
+  Founder: Puneet Sharma (Co-Founder & CEO)
+  Hook: Automated Aadhaar/PAN OCR document parsers, facial match verification algorithms, and low-latency KYC APIs in FastAPI.
+
+ID 61: Attentive.ai
+  Website: https://attentive.ai
+  Sector: Spatial AI & Computer Vision for Outdoor Infrastructure
+  Size: 50-80 | Funding: Series A $7M (Peak XV Surge, Info Edge)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://attentive.ai/careers | Email: shiva@attentive.ai
+  Founder: Shiva Dhawan (Co-Founder & CEO)
+  Hook: High-resolution satellite & aerial imagery segmentation, automated geospatial property takeoff, and interactive web maps.
+
+ID 62: Toddle
+  Website: https://toddleapp.com
+  Sector: AI-Powered Teaching OS & Classroom Copilot
+  Size: 75-100 | Funding: Series A $17M (Tenacity Ventures, Matrix)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://toddleapp.com/careers | Email: deepanshu@toddleapp.com
+  Founder: Deepanshu Arora (Co-Founder & CEO)
+  Hook: Curriculum planning AI copilots, rubrics generation, and rich multi-media classroom interfaces built with Next.js.
+
+ID 63: Infeedo
+  Website: https://infeedo.com
+  Sector: Conversational AI Employee Experience (Amber AI)
+  Size: 60-90 | Funding: Series A $12M (Tiger Global, Bling Capital)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://infeedo.com/careers | Email: tanmaya@infeedo.com
+  Founder: Tanmaya Jain (Founder & CEO)
+  Hook: Sentiment analysis on unstructured employee chats, automated burnout prediction models, and executive summary dashboards.
+
+ID 64: AdmitKard
+  Website: https://admitkard.com
+  Sector: AI-Driven International EdTech & Study Abroad Guidance
+  Size: 50-80 | Funding: Series A $6M (GSV Ventures)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://admitkard.com/careers | Email: piyush@admitkard.com
+  Founder: Piyush Bhartiya (Co-Founder & CEO)
+  Hook: Course eligibility matching algorithms, statement of purpose AI review engines, and student portal interfaces in Next.js.
+
+ID 65: Fleetx.io
+  Website: https://fleetx.io
+  Sector: AI IoT Platform for Intelligent Fleet Management
+  Size: 60-90 | Funding: Series B $19M (India Quotient, Beenext)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://fleetx.io/careers | Email: vineet@fleetx.io
+  Founder: Vineet Sharma (Co-Founder & CEO)
+  Hook: Real-time telematics stream ingestion, driver fatigue video detection, and fuel theft prediction models.
+
+ID 66: Bijak
+  Website: https://bijak.in
+  Sector: Agri B2B Trade & Credit Assessment AI
+  Size: 60-90 | Funding: Series B $20M (Bertelsmann, Sequoia Surge)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://bijak.in/careers | Email: nukul@bijak.in
+  Founder: Nukul Upadhye (Co-Founder & CEO)
+  Hook: Commodity price trend prediction models, creditworthiness scoring for rural traders, and high-volume billing ledger APIs.
+
+ID 67: BeatO
+  Website: https://beatoapp.com
+  Sector: AI-Powered Diabetes Management & Preventive Health
+  Size: 60-90 | Funding: Series B $33M (Lightrock India, HealthQuad)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://beatoapp.com/careers | Email: gautam@beatoapp.com
+  Founder: Gautam Chopra (Founder & CEO)
+  Hook: IoT glucometer data sync, automated glycemic event alerts, and personalized nutrition recommendation agents.
+
+ID 68: Redcliffe Labs
+  Website: https://redclifferehab.com
+  Sector: AI Clinical Diagnostics & Precision Path Labs
+  Size: 70-100 | Funding: Series B $61M (LeapFrog Investments)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://redclifferehab.com/careers | Email: dheeraj@redclifferehab.com
+  Founder: Dheeraj Jain (Founder)
+  Hook: Automated pathology report anomaly detection, diagnostic sample logistics routing, and patient health record portals.
+
+ID 69: Recur Club
+  Website: https://recurclub.com
+  Sector: Subscription & Recurring Revenue Financing Platform
+  Size: 30-55 | Funding: Seed $30M debt/equity (Info Edge Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://recurclub.com/careers | Email: eklavya@recurclub.com
+  Founder: Eklavya Gupta (Co-Founder & CEO)
+  Hook: Automated underwriting integrating Stripe/Chargebee APIs, churn risk analytics, and institutional capital bidding dashboards.
+
+ID 70: Uolo
+  Website: https://uolo.com
+  Sector: EdTech Platform & Parent-School Communication AI
+  Size: 60-95 | Funding: Series A $22.5M (Winter Capital)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://uolo.com/careers | Email: pallav@uolo.com
+  Founder: Pallav Pandey (Co-Founder & CEO)
+  Hook: K-12 interactive learning modules, high-frequency parent-teacher messaging engines, and automated student attendance tracking.
+
+ID 71: ConveGenius
+  Website: https://convegenius.ai
+  Sector: AI Conversational Learning Platform (SwiftChat)
+  Size: 45-75 | Funding: Series A $5M (Michael & Susan Dell Foundation)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://convegenius.ai/careers | Email: jairaj@convegenius.ai
+  Founder: Jairaj Bhattacharya (Founder & CEO)
+  Hook: Conversational learning bots on WhatsApp, multimodal student assessments, and real-time state education analytics.
+
+ID 72: Filo
+  Website: https://findfilo.com
+  Sector: Instant 1-on-1 Live Tutoring & Student AI Copilot
+  Size: 60-90 | Funding: Series A $23M (Anthos Capital)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://findfilo.com/careers | Email: imbesat@findfilo.com
+  Founder: Imbesat Ahmad (Founder & CEO)
+  Hook: Sub-60s tutor matching algorithms, WebRTC interactive video streaming classrooms, and OCR question parsing.
+
+ID 73: Unstop
+  Website: https://unstop.com
+  Sector: Early Talent Engagement, Hackathons & Job Matching AI
+  Size: 50-80 | Funding: Seed $5M (Coursera, Mynavi)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://unstop.com/careers | Email: ankit@unstop.com
+  Founder: Ankit Aggarwal (Founder & CEO)
+  Hook: Hackathon submission grading pipelines, candidate skill matching algorithms, and enterprise employer hiring dashboards.
+
+ID 74: Instahyre
+  Website: https://instahyre.com
+  Sector: AI-Powered Intelligent Talent Matching & Sourcing
+  Size: 30-50 | Funding: Bootstrapped & Highly Profitable
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://instahyre.com/careers | Email: sarbojit@instahyre.com
+  Founder: Sarbojit Mallick (Co-Founder)
+  Hook: Candidate resume embedding search, algorithmic recruiter matching, and automated candidate engagement funnels in Next.js.
+
+ID 75: OneBanc
+  Website: https://onebanc.ai
+  Sector: AI Neo-Banking, Payroll & Smart Employee Benefits
+  Size: 30-55 | Funding: Seed $2.5M (Info Edge Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://onebanc.ai/careers | Email: vibhore@onebanc.ai
+  Founder: Vibhore Goyal (Founder & CEO)
+  Hook: Corporate payroll API rails, conversational expense categorization, and automated banking ledger reconciliation.
+
+ID 76: Leena AI
+  Website: https://leena.ai
+  Sector: Autonomous Work AI Assistant for Enterprise Employees
+  Size: 65-95 | Funding: Series B $30M (Bessemer, Greycroft)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://leena.ai/careers | Email: adit@leena.ai
+  Founder: Adit Jain (Co-Founder & CEO)
+  Hook: Autonomous HR policy Q&A agents, ticket resolution workflows across Slack/Teams, and custom LLM evals.
+
+ID 77: HROne
+  Website: https://hrone.cloud
+  Sector: Cloud HCM & Automated HR Operations Suite
+  Size: 50-80 | Funding: Series A $4M (Insitor Partners)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://hrone.cloud/careers | Email: karan@hrone.cloud
+  Founder: Karan Jain (Founder & CEO)
+  Hook: Inbox-first HR task automation, salary calculation engines in FastAPI, and interactive performance tracking UIs.
+
+ID 78: SecureNow
+  Website: https://securenow.in
+  Sector: Commercial Insurance & Claims Automation Platform
+  Size: 40-70 | Funding: Series A $6M (Apis Partners)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://securenow.in/careers | Email: kapil@securenow.in
+  Founder: Kapil Mehta (Co-Founder & CEO)
+  Hook: Automated group health policy quote engines, OCR claims document parsing, and employee insurance self-serve portals.
+
+ID 79: Sproutlogix
+  Website: https://sproutlogix.com
+  Sector: AI Capability Development & Employee Upskilling
+  Size: 20-40 | Funding: Pre-Series A $1M (Indian angel networks)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://sproutlogix.com/careers | Email: devang@sproutlogix.com
+  Founder: Devang Shah (Founder & CEO)
+  Hook: Personalized AI coaching chat bots, skill gap assessments, and organizational learning analytics in Next.js.
+
+ID 80: KOGO OS
+  Website: https://kogo.ai
+  Sector: Modular Multi-Agent AI OS for Enterprise & Mobility
+  Size: 20-40 | Funding: Seed $1.5M (MapmyIndia)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://kogo.ai/careers | Email: raj@kogo.ai
+  Founder: Raj K Gopalakrishnan (CEO)
+  Hook: Modular agent plug-and-play framework, low-latency API integration orchestration, and vehicle in-cabin AI assistants.
+
+ID 81: Sunfox Technologies
+  Website: https://sunfox.in
+  Sector: Portable 12-Lead AI ECG Diagnostics (Spandan)
+  Size: 25-50 | Funding: Seed $1.5M (Shark Tank India, angel syndicates)
+  Location: Delhi-NCR / Dehradun
+  Career: https://sunfox.in/careers | Email: rajat@sunfox.in
+  Founder: Rajat Jain (Founder & CEO)
+  Hook: Signal processing for noisy mobile ECG leads, deep learning arrhythmia detection, and doctor teleconsultation portals.
+
+ID 82: Revrag.ai
+  Website: https://revrag.ai
+  Sector: Autonomous AI Revenue Agents & Multimodal Outreach
+  Size: 12-25 | Funding: Pre-Seed $600K (Powerhouse Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://revrag.ai/careers | Email: ashutosh@revrag.ai
+  Founder: Ashutosh Singhal (Founder & CEO)
+  Hook: Voice/text AI BDR agents capable of researching prospects, making initial discovery phone calls, and booking calendar meetings.
+
+ID 83: Ritivel
+  Website: https://ritivel.com
+  Sector: Automated Testing & Evals for Multi-Agent Systems
+  Size: 10-20 | Funding: Seed $2M (Y Combinator S24)
+  Location: Delhi-NCR (Gurgaon) / Remote
+  Career: https://ritivel.com/careers | Email: founders@ritivel.com
+  Founder: Founding Team
+  Hook: End-to-end regression test harnesses for LLM applications, deterministic prompt evals, and automated hallucination alerts.
+
+ID 84: Smarter.Codes
+  Website: https://smarter.codes
+  Sector: Semantic Extraction & NLP Knowledge Mining Engine
+  Size: 15-30 | Funding: Seed $1M (Indian Angel Network)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://smarter.codes/careers | Email: parag@smarter.codes
+  Founder: Parag Arora (Co-Founder)
+  Hook: Taxonomy generation from enterprise text, structured schema extraction, and semantic search APIs in Python.
+
+ID 85: Rezo.ai
+  Website: https://rezo.ai
+  Sector: Cognitive Contact Center AI & Omnichannel Automation
+  Size: 25-45 | Funding: Seed $1M (Modulor Capital)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://rezo.ai/careers | Email: manish@rezo.ai
+  Founder: Manish Gupta (Co-Founder & CEO)
+  Hook: Automating voice, email, and chat queries with conversational AI, real-time agent assist, and analytics dashboards.
+
+ID 86: Kisan Network
+  Website: https://kisannetwork.com
+  Sector: Tech-Enabled Supply Chain for Smallholder Farmers
+  Size: 20-40 | Funding: Seed $3M (Y Combinator, Thiel Foundation)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://kisannetwork.com/careers | Email: aditya@kisannetwork.com
+  Founder: Aditya Agarwalla (Co-Founder)
+  Hook: Produce pricing algorithms, direct-from-farm freight routing, and vernacular mobile apps for agricultural trade.
+
+ID 87: VdoCipher
+  Website: https://vdocipher.com
+  Sector: Secure Video Hosting & Encrypted Streaming Tech
+  Size: 20-40 | Funding: Bootstrapped & Highly Profitable
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://vdocipher.com/careers | Email: siddhant@vdocipher.com
+  Founder: Siddhant Jain (Co-Founder & CEO)
+  Hook: DRM video encryption algorithms, dynamic watermarking rendering on HTML5 players, and streaming analytics pipelines.
+
+ID 88: Restroworks (Posist)
+  Website: https://restroworks.com
+  Sector: Cloud Restaurant POS & Inventory Management AI
+  Size: 75-100 | Funding: Series A $5M (Indian angel networks)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://restroworks.com/careers | Email: ashish@restroworks.com
+  Founder: Ashish Tulsian (Founder & CEO)
+  Hook: High-throughput restaurant billing microservices, raw material consumption forecast AI, and kitchen display interfaces.
+
+ID 89: Wingify (VWO)
+  Website: https://vwo.com
+  Sector: A/B Testing, Conversion Optimization & Analytics
+  Size: 75-100 | Funding: Bootstrapped & Highly Profitable
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://vwo.com/careers | Email: paras@wingify.com
+  Founder: Paras Chopra (Founder & Chairman)
+  Hook: Ultra-fast client DOM manipulation scripts, Bayesian statistical test evaluation engines, and heatmap analytics.
+
+ID 90: SquadStack
+  Website: https://squadstack.com
+  Sector: AI-Driven Telecalling & Sales Funnel Orchestration
+  Size: 60-90 | Funding: Series A $12M (Chiratae Ventures)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://squadstack.com/careers | Email: apurv@squadstack.com
+  Founder: Apurv Agrawal (Founder & CEO)
+  Hook: Predictive lead scoring algorithms, speech emotion analysis on calls, and distributed telecaller workflow routing.
+
+ID 91: DocPrime
+  Website: https://docprime.com
+  Sector: Teleconsultation & Preventive Healthcare Booking
+  Size: 30-55 | Funding: Seed $10M (PB Fintech)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://docprime.com/careers | Email: ashish@docprime.com
+  Founder: Ashish Gupta (CEO)
+  Hook: Real-time doctor video consultation queues, digital health record lockers, and automated lab test appointment engines.
+
+ID 92: Baaz Bikes
+  Website: https://baazbikes.com
+  Sector: EV Gig Delivery Platform & Fast Battery Swapping
+  Size: 30-60 | Funding: Series A $8M (BIG Capital)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://baazbikes.com/careers | Email: anubhav@baazbikes.com
+  Founder: Anubhav Sharma (Co-Founder & CEO)
+  Hook: Automated battery swap cabinet IoT controllers, rider app real-time telematics, and battery lifecycle predictive analytics.
+
+ID 93: Revfin
+  Website: https://revfin.in
+  Sector: Financial Inclusion & EV Commercial Loan AI
+  Size: 50-80 | Funding: Series B $14M (Omidyar Network)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://revfin.in/careers | Email: sameer@revfin.in
+  Founder: Sameer Aggarwal (Founder & CEO)
+  Hook: Psychometric and biometric credit scoring algorithms for non-traditional borrowers, and vehicle IoT immobilizer integrations.
+
+ID 94: AltMobility
+  Website: https://alt-mobility.com
+  Sector: Commercial EV Fleet Leasing & Asset Intelligence
+  Size: 25-50 | Funding: Seed $6M (Eurazeo, Shell Ventures)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://alt-mobility.com/careers | Email: dev@alt-mobility.com
+  Founder: Dev Arora (Co-Founder & CEO)
+  Hook: Fleet telematics data ingestion, battery state-of-health monitoring models, and lease payment management portals.
+
+ID 95: Hopcharge
+  Website: https://hopcharge.com
+  Sector: On-Demand Doorstep EV Mobile Fast Charging
+  Size: 20-40 | Funding: Seed $1.5M (Prominent angels)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://hopcharge.com/careers | Email: arjun@hopcharge.com
+  Founder: Arjun Singh (Co-Founder & CEO)
+  Hook: Mobile energy pod routing optimization, customer doorstep charging scheduler, and charger IoT telemetry.
+
+ID 96: Vecmocon Technologies
+  Website: https://vecmocon.com
+  Sector: EV Battery Intelligence & Smart Vehicle Controllers
+  Size: 30-55 | Funding: Seed $5.2M (Tiger Global, Blume Ventures)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://vecmocon.com/careers | Email: peeyush@vecmocon.com
+  Founder: Peeyush Asati (Co-Founder & CEO)
+  Hook: Smart Battery Management System (BMS) telemetry, CAN bus data extraction, and real-time thermal runaway alert models.
+
+ID 97: Sheru
+  Website: https://sheru.se
+  Sector: Energy Cloud & Virtual Power Plants for EV Batteries
+  Size: 25-45 | Funding: Series A $5M (Micelio Fund)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://sheru.se/careers | Email: ankit@sheru.se
+  Founder: Ankit Mittal (Co-Founder & CEO)
+  Hook: Virtual power plant energy arbitrage algorithms, grid frequency balancing models, and EV battery swap telemetry.
+
+ID 98: VedaLabs
+  Website: https://vedalabs.in
+  Sector: Computer Vision Analytics for Retail Footfall & Demographics
+  Size: 12-25 | Funding: Seed $500K (MapmyIndia)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://vedalabs.in/careers | Email: veer@vedalabs.in
+  Founder: Veer Mishra (Founder & CEO)
+  Hook: Edge computer vision tracking on commodity cameras, in-store dwell time heatmaps, and retail conversion analytics.
+
+ID 99: PerSapien
+  Website: https://persapien.com
+  Sector: AI-Enabled Medical Diagnostics & Disease Sensors
+  Size: 15-30 | Funding: Seed $1M (Indian angel syndicates)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://persapien.com/careers | Email: shashi@persapien.com
+  Founder: Dr. Shashi Ranjan (Founder & CEO)
+  Hook: Deep learning bio-signal processing, diagnostic sensor firmware communication, and automated clinical test report generators.
+
+ID 100: LegalKart
+  Website: https://legalkart.com
+  Sector: On-Demand Legal Consultation & LegalTech AI
+  Size: 25-45 | Funding: Seed $1M (Indian angel syndicates)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://legalkart.com/careers | Email: arvind@legalkart.com
+  Founder: Arvind Singhatiya (Founder & CEO)
+  Hook: Lawyer consultation audio-video pipelines, automated legal document drafting in Next.js, and case tracking APIs.
+
+ID 101: SpotDraft
+  Website: https://spotdraft.com
+  Sector: AI Contract Lifecycle Management & Legal Copilot
+  Size: 60-95 | Funding: Series A $26M (Premji Invest)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://spotdraft.com/careers | Email: shashank@spotdraft.com
+  Founder: Shashank Bijapur (Co-Founder & CEO)
+  Hook: Automated contract clause redlining with LLMs, legal document OCR, and custom contract review workflows in Next.js.
+
+ID 102: Grip Invest
+  Website: https://gripinvest.in
+  Sector: Alternative Investment & Asset-Backed Wealth Platform
+  Size: 40-70 | Funding: Series A $10M (Stride Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://gripinvest.in/careers | Email: nikhil@gripinvest.in
+  Founder: Nikhil Aggarwal (Founder & CEO)
+  Hook: Securitized debt instrument checkout flows, KYC investor onboarding APIs, and portfolio payout reconciliation backends.
+
+ID 103: SigNoz
+  Website: https://signoz.io
+  Sector: Open-Source APM, Distributed Tracing & Observability
+  Size: 25-45 | Funding: Seed $6.5M (Y Combinator W21, Uncorrelated)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://signoz.io/careers | Email: pranay@signoz.io
+  Founder: Pranay Prateek (Co-Founder) & Ankit Nayan (Co-Founder)
+  Hook: Building high-performance ClickHouse telemetry query pipelines, OpenTelemetry instrumentation agents, and Next.js trace viewers.
+
+ID 104: Plane (Plane.so)
+  Website: https://plane.so
+  Sector: Open-Source Project Management & Engineering Workflow
+  Size: 25-50 | Funding: Seed $4M (OSS Capital, Y Combinator)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://plane.so/careers | Email: vamsi@plane.so
+  Founder: Vamsi Kurama (Co-Founder & CEO) & Manoj Kumar (Co-Founder)
+  Hook: Real-time collaborative Kanban/Gantt state sync with WebSockets, optimistic UI updates in Next.js, and issue triage AI agents.
+
+ID 105: CodeRabbit
+  Website: https://coderabbit.ai
+  Sector: AI-Powered Code Review & Automated PR Summaries
+  Size: 30-55 | Funding: Series A $16M (CRV)
+  Location: Remote / Bangalore / Global
+  Career: https://coderabbit.ai/careers | Email: harjot@coderabbit.ai
+  Founder: Harjot Gill (Co-Founder & CEO) & Gurinder Bains (Co-Founder)
+  Hook: AST code diff parsing, automated PR security linting with LLM context, and webhook-driven GitHub action review bots.
+
+ID 106: ToolJet
+  Website: https://tooljet.com
+  Sector: Open-Source Low-Code Platform for Internal Engineering Tools
+  Size: 30-55 | Funding: Series A $4.6M (Nexus Venture Partners, M12)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://tooljet.com/careers | Email: navaneeth@tooljet.com
+  Founder: Navaneeth P K (Founder & CEO)
+  Hook: Building drag-and-drop React canvas components, database connector sandboxes in Node/FastAPI, and automated query runners.
+
+ID 107: StepSecurity
+  Website: https://stepsecurity.io
+  Sector: CI/CD Pipeline AI Security & Automated Remediation
+  Size: 10-20 | Funding: Seed $3M (Runtime Ventures)
+  Location: Fully Remote (India)
+  Career: https://stepsecurity.io/careers | Email: ashish@stepsecurity.io
+  Founder: Ashish Kurmi (Co-Founder & CEO) & Varun Sharma (Co-Founder)
+  Hook: GitHub Actions outbound network traffic inspection, automated least-privilege token generation, and pull request auto-fix bots.
+
+ID 108: Locofy.ai
+  Website: https://locofy.ai
+  Sector: AI Design-to-Code Platform (Figma to React/Next.js)
+  Size: 25-45 | Funding: Seed $4.5M (Accel, January Capital)
+  Location: Fully Remote (India)
+  Career: https://locofy.ai/careers | Email: kahseng@locofy.ai
+  Founder: Kah Seng Tay (Co-Founder & CEO) & Sohaib Muhammad (Co-Founder)
+  Hook: Translating Figma layout hierarchies into production-clean Next.js/Tailwind components with responsive CSS generation.
+
+ID 109: DhiWise
+  Website: https://dhiwise.com
+  Sector: Developer Programming Automation & App Generation Platform
+  Size: 45-75 | Funding: Series A $7M (Accel, Together Fund)
+  Location: Fully Remote (India)
+  Career: https://dhiwise.com/careers | Email: vishal@dhiwise.com
+  Founder: Vishal Virani (Founder & CEO) & Rahul Shingala (Co-Founder)
+  Hook: Full-stack code generation algorithms, OpenAPI schema to client SDK builders, and Next.js project scaffolders.
+
+ID 110: Appsmith
+  Website: https://appsmith.com
+  Sector: Open-Source Low-Code Application Platform
+  Size: 70-100 | Funding: Series B $41M (Insight Partners, Accel)
+  Location: Fully Remote (India/Global)
+  Career: https://appsmith.com/careers | Email: abhishek@appsmith.com
+  Founder: Abhishek Nayak (Co-Founder & CEO) & Arpit Mohan (CTO)
+  Hook: Client-side reactive JavaScript evaluation engine, complex data table virtualization, and database query orchestrators.
+
+ID 111: LiteLLM (BerriAI)
+  Website: https://litellm.ai
+  Sector: Open-Source Universal LLM Gateway & Proxy
+  Size: 8-15 | Funding: Seed $2.5M (Y Combinator W23)
+  Location: Fully Remote (India/Global)
+  Career: https://litellm.ai/careers | Email: krrish@berri.ai
+  Founder: Krrish Dholakia (Co-Founder) & Ishaan Jaff (Co-Founder)
+  Hook: High-throughput async Python/FastAPI proxy, 100+ LLM API standardization, load-balancing fallbacks, and redis rate limiting.
+
+ID 112: Lightdash
+  Website: https://lightdash.com
+  Sector: Open-Source Business Intelligence & Semantic Layer
+  Size: 20-35 | Funding: Seed $8.4M (Y Combinator, Accel)
+  Location: Fully Remote (India)
+  Career: https://lightdash.com/careers | Email: hamzah@lightdash.com
+  Founder: Hamzah Chaudhary (Founder & CEO)
+  Hook: dbt semantic layer integration, fast SQL metric querying, and interactive visualization dashboards in React/TypeScript.
+
+ID 113: Bytebeam
+  Website: https://bytebeam.io
+  Sector: Cloud Platform for Connected IoT Devices & Over-The-Air Updates
+  Size: 20-40 | Funding: Seed $3M (Together Fund, Accel)
+  Location: Remote / Bangalore
+  Career: https://bytebeam.io/careers | Email: gaurav@bytebeam.io
+  Founder: Gaurav Minhas (Co-Founder & CEO) & Bharadwaz Gourineni (Co-Founder)
+  Hook: MQTT telematics streaming backends, edge OTA firmware upgrade verification, and real-time device fleet health consoles.
+
+ID 114: CogniSwitch
+  Website: https://cogniswitch.ai
+  Sector: Knowledge Extraction & Document Ingestion for LLM Pipelines
+  Size: 10-25 | Funding: Seed $1.2M (Peak XV Surge network)
+  Location: Remote / Bangalore
+  Career: https://cogniswitch.ai/careers | Email: dilip@cogniswitch.ai
+  Founder: Dilip Venkat (Founder & CEO)
+  Hook: Semantic document chunking algorithms, knowledge graph triple extraction, and sub-second RAG context synthesis in Python.
+
+ID 115: CogniSaaS
+  Website: https://cognisaas.com
+  Sector: Customer Onboarding & Value Delivery Tracking SaaS
+  Size: 15-30 | Funding: Seed $1M (Speciale Invest, Whiteboard)
+  Location: Remote / Bangalore
+  Career: https://cognisaas.com/careers | Email: rupesh@cognisaas.com
+  Founder: Rupesh Rao (Founder & CEO)
+  Hook: Interactive Gantt chart rendering in Next.js, automated milestone risk prediction, and customer onboarding status tracking.
+
+ID 116: Fini (usefini)
+  Website: https://usefini.com
+  Sector: 24/7 AI Knowledge Base & Support Bot Agent
+  Size: 10-20 | Funding: Seed $2M (Angel syndicates)
+  Location: Fully Remote (India)
+  Career: https://usefini.com/careers | Email: alister@usefini.com
+  Founder: Alister Esam (Founder & CEO)
+  Hook: Zero-hallucination support agent pipelines, documentation scraping & semantic indexing, and Zendesk/Intercom integrations.
+
+ID 117: Spendflo
+  Website: https://spendflo.com
+  Sector: SaaS Procurement, Management & Optimization Platform
+  Size: 60-90 | Funding: Series A $11M (Accel, Together Fund)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://spendflo.com/careers | Email: siddharth@spendflo.com
+  Founder: Siddharth Sridharan (Co-Founder & CEO)
+  Hook: Automated contract metadata extraction using LLMs, vendor benchmark pricing comparisons, and renewal notification alerts.
+
+ID 118: Privado.ai
+  Website: https://privado.ai
+  Sector: Developer-First Code Scanning for Privacy & Compliance
+  Size: 30-55 | Funding: Series A $14M (Peak XV, Together Fund)
+  Location: Fully Remote (India) / Delhi-NCR
+  Career: https://privado.ai/careers | Email: vaibhav@privado.ai
+  Founder: Vaibhav Antil (Co-Founder & CEO)
+  Hook: Static code analysis AST parsers to trace sensitive user data flows, automated GDPR/CCPA risk detection, and CI/CD gates.
+
+ID 119: SuperOps
+  Website: https://superops.com
+  Sector: Unified PSA & RMM Platform for Managed Service Providers
+  Size: 70-95 | Funding: Series B $12.4M (Addition, March Capital)
+  Location: Remote / Chennai / Bangalore
+  Career: https://superops.com/careers | Email: arvind@superops.com
+  Founder: Arvind Parthiban (Co-Founder & CEO)
+  Hook: Automated IT asset discovery, script execution engines for remote endpoints, and intelligent ticket dispatching algorithms.
+
+ID 120: Rocketlane
+  Website: https://rocketlane.com
+  Sector: Collaborative Customer Onboarding & Professional Services SaaS
+  Size: 70-95 | Funding: Series B $24M (8VC, Nexus VP, Matrix)
+  Location: Fully Remote (India) / Chennai
+  Career: https://rocketlane.com/careers | Email: srikrishnan@rocketlane.com
+  Founder: Srikrishnan Ganesan (Co-Founder & CEO)
+  Hook: Real-time client portal collaboration, project template automation, and resource utilization forecasting dashboards in React.
+
+ID 121: Sprinto
+  Website: https://sprinto.com
+  Sector: Automated Security Compliance & Audit Readiness
+  Size: 75-100 | Funding: Series B $20M (Accel, Elevation Capital)
+  Location: Remote / Bangalore
+  Career: https://sprinto.com/careers | Email: girish@sprinto.com
+  Founder: Girish Redekar (Co-Founder & CEO)
+  Hook: Automated cloud security evidence collection across AWS/GCP, continuous SOC 2/ISO 27001 monitoring, and auditor portals.
+
+ID 122: Factors.ai
+  Website: https://factors.ai
+  Sector: Account-Based Marketing Analytics & Attribution AI
+  Size: 30-55 | Funding: Series A $3.6M (Elevation Capital, Emergent)
+  Location: Remote / Bangalore
+  Career: https://factors.ai/careers | Email: aravind@factors.ai
+  Founder: Aravind Murthy (Co-Founder & CEO)
+  Hook: Multi-touch marketing attribution algorithms, account de-anonymization data streams, and automated revenue funnel visualizations.
+
+ID 123: ClearFeed
+  Website: https://clearfeed.ai
+  Sector: Conversational Support Orchestration in Slack & Teams
+  Size: 25-45 | Funding: Series A $4.2M (Peak XV Surge, 8VC)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://clearfeed.ai/careers | Email: anshuman@clearfeed.ai
+  Founder: Anshuman Singh (Co-Founder & CEO)
+  Hook: High-throughput Slack/Teams webhook ingestion, GPT-powered ticket summarization, and bi-directional Zendesk/Jira syncing.
+
+ID 124: Zluri
+  Website: https://zluri.com
+  Sector: Enterprise SaaS Management & AI Access Automation
+  Size: 75-100 | Funding: Series B $20M (Lightspeed, MassMutual)
+  Location: Remote / Bangalore
+  Career: https://zluri.com/careers | Email: ritish@zluri.com
+  Founder: Ritish Reddy (Co-Founder) & Sethu Meenakshisundaram (Co-Founder)
+  Hook: Automated user app provisioning workflows, license utilization trackers, and generative AI IT helpdesk agents.
+
+ID 125: Scrut Automation
+  Website: https://scrut.io
+  Sector: Information Security & Risk Management Compliance AI
+  Size: 50-80 | Funding: Series A $10M (Lightspeed, MassMutual)
+  Location: Remote / Bangalore
+  Career: https://scrut.io/careers | Email: aayush@scrut.io
+  Founder: Aayush Ghosh Choudhury (Founder & CEO)
+  Hook: Automated cloud asset inventory scanning, risk posture scoring algorithms, and multi-framework audit workflows.
+
+ID 126: Kapture CX
+  Website: https://kapture.cx
+  Sector: Enterprise Customer Experience & GenAI Support Suite
+  Size: 60-95 | Funding: Series A $4M (Cactus Venture Partners)
+  Location: Remote / Bangalore
+  Career: https://kapture.cx/careers | Email: shesh@kapture.cx
+  Founder: Sheshgiri Kamath (Founder & CEO)
+  Hook: Generative response assist for support agents, omnichannel routing engines, and automated CSAT sentiment extraction.
+
+ID 127: Salesken.ai
+  Website: https://salesken.ai
+  Sector: Real-Time Conversational Sales Intelligence & Cueing AI
+  Size: 60-90 | Funding: Series B $22M (M12 - Microsoft, Sequoia)
+  Location: Remote / Bangalore
+  Career: https://salesken.ai/careers | Email: surga@salesken.ai
+  Founder: Surga Thilakan (Co-Founder & CEO)
+  Hook: Live speech-to-text during sales calls with sub-second battle card retrieval and objection-handling prompts.
+
+ID 128: Signzy
+  Website: https://signzy.com
+  Sector: AI-Powered Video KYC & Digital Onboarding APIs
+  Size: 75-100 | Funding: Series B $26M (Gaja Capital, Vertex)
+  Location: Remote / Bangalore
+  Career: https://signzy.com/careers | Email: ankit@signzy.com
+  Founder: Ankit Ratan (Co-Founder & CEO)
+  Hook: Facial liveness verification algorithms, government database check APIs, and bank-grade secure video calling architectures.
+
+ID 129: Entropik Tech
+  Website: https://entropik.io
+  Sector: Emotion AI & Neuromarketing Consumer Insights
+  Size: 65-95 | Funding: Series B $25M (Bessemer, SIG)
+  Location: Remote / Bangalore
+  Career: https://entropik.io/careers | Email: ranjan@entropik.io
+  Founder: Ranjan Kumar (Founder & CEO)
+  Hook: Facial expression coding, eye-tracking heatmaps on web video, and automated consumer sentiment scoring algorithms.
+
+ID 130: Arya.ai
+  Website: https://arya.ai
+  Sector: Enterprise AI Operating System & Deep Learning for BFSI
+  Size: 35-60 | Funding: Seed $2M (Aurionpro Solutions)
+  Location: Remote / Mumbai / Bangalore
+  Career: https://arya.ai/careers | Email: vinay@arya.ai
+  Founder: Vinay Kumar (Founder & CEO)
+  Hook: Autonomous underwriting models, fraud detection neural nets for claims, and explainable AI audit tools in Python.
+
+ID 131: DaveAI
+  Website: https://iamdave.ai
+  Sector: AI Avatars & Interactive 3D Digital Sales Experience
+  Size: 25-45 | Funding: Pre-Series A $1M (Indian angel syndicates)
+  Location: Remote / Bangalore
+  Career: https://iamdave.ai/careers | Email: sriram@iamdave.ai
+  Founder: Sriram P H (Co-Founder & CEO)
+  Hook: WebGL interactive virtual avatars, real-time facial animation synthesis, and conversational product recommendation engines.
+
+ID 132: Hubbler
+  Website: https://hubbler.mobi
+  Sector: No-Code Enterprise Workflow Automation Platform
+  Size: 30-55 | Funding: Seed $1.5M (Prominent angel syndicates)
+  Location: Remote / Bangalore
+  Career: https://hubbler.mobi/careers | Email: vinay@hubbler.mobi
+  Founder: Vinay Agrrawal (Founder & CEO)
+  Hook: Dynamic form and business process modeling engines, mobile offline sync, and enterprise role-based access controllers.
+
+ID 133: DronaHQ
+  Website: https://dronahq.com
+  Sector: Low-Code Internal Tool Builder & API Integration Suite
+  Size: 40-70 | Funding: Bootstrapped & Highly Profitable
+  Location: Remote / Mumbai / Bangalore
+  Career: https://dronahq.com/careers | Email: jinen@dronahq.com
+  Founder: Jinen Dedhia (Co-Founder) & Divyesh Kharade (Co-Founder)
+  Hook: Interactive UI component drag-and-drop engines, REST/GraphQL connector plugins, and secure on-prem enterprise deployments.
+
+ID 134: Pando
+  Website: https://pando.ai
+  Sector: Networked Supply Chain Control Tower & Logistics AI
+  Size: 75-100 | Funding: Series B $30M (Iron Pillar, Uncorrelated)
+  Location: Remote / Chennai / Bangalore
+  Career: https://pando.ai/careers | Email: nitin@pando.ai
+  Founder: Nitin Jayakrishnan (Co-Founder & CEO)
+  Hook: Enterprise freight rate bidding algorithms, multi-carrier shipment track & trace, and automated freight audit reconciliation.
+
+ID 135: Freight Fox
+  Website: https://freightfox.ai
+  Sector: Manufacturing Freight Procurement & Transport Analytics AI
+  Size: 20-40 | Funding: Seed $1.5M (Prominent logistics angels)
+  Location: Remote / Pune / Bangalore
+  Career: https://freightfox.ai/careers | Email: nitish@freightfox.ai
+  Founder: Nitish Rai (Co-Founder & CEO)
+  Hook: Machine learning lane pricing indices, carbon emission transport trackers, and logistics procurement contract automation.
+
+ID 136: Wiz Freight
+  Website: https://wizfreight.com
+  Sector: Cross-Border Digital Freight Forwarding Platform
+  Size: 75-100 | Funding: Series B $15M (Tiger Global, Nippon Express)
+  Location: Remote / Chennai / Gurgaon
+  Career: https://wizfreight.com/careers | Email: ram@wizfreight.com
+  Founder: Ramkumar Govindarajan (Co-Founder & CEO)
+  Hook: Ocean container shipment tracking via satellite AIS data, customs filing document automation, and port fee calculators.
+
+ID 137: Cogoport
+  Website: https://cogoport.com
+  Sector: Global Trade Technology & Container Freight Booking AI
+  Size: 80-100 | Funding: Series B $50M (Tiger Global)
+  Location: Remote / Mumbai / Gurgaon
+  Career: https://cogoport.com/careers | Email: amitabh@cogoport.com
+  Founder: Amitabh Shankar (CEO)
+  Hook: International freight marketplace quotation engines, trade financing risk models, and shipment documentation OCR.
+
+ID 138: Langfuse
+  Website: https://langfuse.com
+  Sector: Open Source LLM Engineering, Observability & Tracing
+  Size: 10-25 | Funding: Seed $4M (Lightspeed, Y Combinator W23)
+  Location: Fully Remote (India/Global)
+  Career: https://langfuse.com/careers | Email: marc@langfuse.com
+  Founder: Marc Klingen (Co-Founder & CEO)
+  Hook: Building low-overhead open telemetry spans, LLM prompt evaluation pipelines, and high-throughput trace ingestion in Next.js/FastAPI.
+
+ID 139: NimbusPost
+  Website: https://nimbuspost.com
+  Sector: Tech-Enabled Logistics Aggregator & Courier AI Platform
+  Size: 60-90 | Funding: Series A $5M (Prominent logistics investors)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://nimbuspost.com/careers | Email: yash@nimbuspost.com
+  Founder: Yash Jain (Co-Founder & CEO)
+  Hook: Courier rate calculation engines, automated non-delivery report (NDR) IVR confirmation bots, and shipping label generation.
+
+ID 140: iThink Logistics
+  Website: https://ithinklogistics.com
+  Sector: AI Shipping Aggregator & Non-Delivery Reduction (NDR) AI
+  Size: 45-75 | Funding: Bootstrapped & Highly Profitable
+  Location: Remote / Mumbai / Delhi-NCR
+  Career: https://ithinklogistics.com/careers | Email: zaiba@ithinklogistics.com
+  Founder: Zaiba Sarang (Co-Founder)
+  Hook: Automated WhatsApp NDR customer contact bots, predictive delivery date estimators, and multi-courier API reconciliation.
+
+ID 141: Shyplite
+  Website: https://shyplite.com
+  Sector: Multicarrier Shipping Gateway & Fulfillment Software
+  Size: 60-90 | Funding: Series A $8M (Prominent Indian syndicates)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://shyplite.com/careers | Email: nisschal@shyplite.com
+  Founder: Nisschal Jaain (Co-Founder & CEO)
+  Hook: Unified logistics API gateway, warehouse inventory synchronization, and automated customs documentation for exports.
+
+ID 142: Shipyaari
+  Website: https://shipyaari.com
+  Sector: Automated SaaS Logistics & Inter-City Freight Platform
+  Size: 50-80 | Funding: Series A $6M (Tuscan Ventures)
+  Location: Remote / Mumbai / Delhi-NCR
+  Career: https://shipyaari.com/careers | Email: nayan@shipyaari.com
+  Founder: Nayan Ratandhayara (Co-Founder & CEO)
+  Hook: Algorithmic courier recommendation engines, real-time shipment milestone webhooks, and seller billing reconciliation.
+
+ID 143: Vakilsearch (Zolvit)
+  Website: https://zolvit.com
+  Sector: Legal, Tax & Compliance Automation Cloud for Businesses
+  Size: 75-100 | Funding: Series B $10M (Inflexor Ventures)
+  Location: Remote / Chennai / Delhi-NCR
+  Career: https://zolvit.com/careers | Email: hrishikesh@zolvit.com
+  Founder: Hrishikesh Datar (Founder & CEO)
+  Hook: Automated trademark classification search, legal drafting document builders, and MCA annual compliance filing workflows.
+
+ID 144: IndiaFilings
+  Website: https://indiafilings.com
+  Sector: Cloud Legal, Incorporation & Tax Filing Platform
+  Size: 80-100 | Funding: Bootstrapped & Highly Profitable
+  Location: Remote / Chennai / New Delhi
+  Career: https://indiafilings.com/careers | Email: lionel@indiafilings.com
+  Founder: Lionel Charles (Founder & CEO)
+  Hook: LEDGERS cloud accounting software, automated GST filing engines, and digital signature certificate verification APIs.
+
+ID 145: Quicko
+  Website: https://quicko.com
+  Sector: Online Tax Planning, Filing & Financial Developer APIs
+  Size: 30-50 | Funding: Bootstrapped & Highly Profitable
+  Location: Remote / Ahmedabad / Bangalore
+  Career: https://quicko.com/careers | Email: vishvajit@quicko.com
+  Founder: Vishvajit Sonagara (Founder & CEO)
+  Hook: Capital gains tax calculation engines for Zerodha/Groww traders, Form 16 OCR parsing, and income tax e-filing JSON APIs.
+
+ID 146: Volopay
+  Website: https://volopay.com
+  Sector: Corporate Cards, Automated Accounts Payable & Expense SaaS
+  Size: 60-90 | Funding: Series A $29M (Y Combinator, JAM Fund)
+  Location: Remote / Bangalore
+  Career: https://volopay.com/careers | Email: rajith@volopay.com
+  Founder: Rajith Shaji (Co-Founder & CEO)
+  Hook: Virtual corporate card issuance rails, multi-currency international wire transfers, and automated invoice OCR approval trees.
+
+ID 147: EnKash
+  Website: https://enkash.com
+  Sector: All-In-One Commercial Payments & Corporate Spend Management
+  Size: 70-100 | Funding: Series B $20M (Ascent Capital, Baring India)
+  Location: Delhi-NCR (Gurgaon) / Mumbai
+  Career: https://enkash.com/careers | Email: hemant@enkash.com
+  Founder: Hemant Vishnoi (Co-Founder) & Yadvendra Tyagi (Co-Founder)
+  Hook: Corporate purchasing cards, supplier payment batch settlement rails, and automated ERP general ledger synchronization.
+
+ID 148: Fyle
+  Website: https://fylehq.com
+  Sector: Real-Time Expense Management & Credit Card Reconciliation AI
+  Size: 60-90 | Funding: Series B $20M (Tiger Global, Steadview)
+  Location: Remote / Bangalore
+  Career: https://fylehq.com/careers | Email: yash@fylehq.com
+  Founder: Yashwanth Madhusudan (Co-Founder & CEO)
+  Hook: Real-time card feed reconciliation on Visa/Mastercard networks, receipt text OCR, and automated expense policy checking.
+
+ID 149: Cutshort
+  Website: https://cutshort.io
+  Sector: AI-Powered Tech Recruitment Platform & Direct Talent Match
+  Size: 25-45 | Funding: Bootstrapped & Highly Profitable
+  Location: Remote / Pune / Bangalore
+  Career: https://cutshort.io/careers | Email: nikunj@cutshort.io
+  Founder: Nikunj Verma (Founder & CEO)
+  Hook: Candidate skill graph matching, automated candidate response follow-up bots, and real-time tech recruiting dashboards.
+
+ID 150: Pesto Tech
+  Website: https://pesto.tech
+  Sector: Remote Full-Stack Developer Upskilling & Global Placement
+  Size: 25-45 | Funding: Seed $2M (Matrix Partners India)
+  Location: Delhi-NCR (Gurgaon) / Remote
+  Career: https://pesto.tech/careers | Email: ayush@pesto.tech
+  Founder: Ayush Jaiswal (Co-Founder & CEO)
+  Hook: Automated code assessment sandboxes, student curriculum progress dashboards in React, and employer matching algorithms.
+
+ID 151: Flexiple
+  Website: https://flexiple.com
+  Sector: Vetted Freelance & Full-Time Tech Talent Matching Platform
+  Size: 25-45 | Funding: Bootstrapped & Highly Profitable
+  Location: Remote / Bangalore
+  Career: https://flexiple.com/careers | Email: karthik@flexiple.com
+  Founder: Karthik Sridharan (Co-Founder & CEO)
+  Hook: Freelance tech assessment evaluation rubrics, automated job description parsing, and client-talent matching portals.
+
+ID 152: Springworks
+  Website: https://springworks.in
+  Sector: Work Culture & HR SaaS Tools (SpringVerify, Trivia)
+  Size: 60-90 | Funding: Bootstrapped & Highly Profitable
+  Location: Remote / Bangalore
+  Career: https://springworks.in/careers | Email: kartik@springworks.in
+  Founder: Kartik Mandaville (Founder & CEO)
+  Hook: Background verification API integrations on government registries, employee engagement bots on Slack, and fast Next.js dashboards.
+
+ID 153: Keka HR
+  Website: https://keka.com
+  Sector: Modern HRMS, Payroll Automation & Performance Management
+  Size: 75-100 | Funding: Series A $57M (Vista Point Advisors)
+  Location: Remote / Hyderabad / Bangalore
+  Career: https://keka.com/careers | Email: vijay@keka.com
+  Founder: Vijay Yalamanchili (CEO)
+  Hook: Complex payroll calculation rule engines, biometric attendance sync, and scalable microservices architectures.
+
+ID 154: Decentro
+  Website: https://decentro.tech
+  Sector: Real-Time Banking & KYC Verification API Platform
+  Size: 50-80 | Funding: Series A $4.7M (Y Combinator, Rapyd Ventures)
+  Location: Remote / Delhi-NCR / Bangalore
+  Career: https://decentro.tech/careers | Email: rohit@decentro.tech
+  Founder: Rohit Taneja (Founder & CEO) & Pratik Daudkhane (Co-Founder)
+  Hook: Developer API portals in Next.js + automated KYC document verification pipelines using computer vision and LLMs.
+
+ID 155: Peblo (FinBox)
+  Website: https://finbox.in
+  Sector: Embedded Credit Infrastructure & Risk Intelligence AI
+  Size: 40-70 | Funding: Series A $6M (Arali Ventures, Flipkart)
+  Location: Remote / Gurgaon / Bangalore
+  Career: https://finbox.in/careers | Email: rajat@finbox.in
+  Founder: Rajat Deshpande (Co-Founder & CEO)
+  Hook: Device telematics credit scoring models, alternate data underwriting pipelines, and embedded loan journey SDKs.
+
+ID 156: Jar
+  Website: https://myjar.app
+  Sector: Automated Micro-Savings & Digital Gold Investment Platform
+  Size: 65-95 | Funding: Series B $22M (Tiger Global, Rocketship.vc)
+  Location: Remote / Bangalore
+  Career: https://myjar.app/careers | Email: nishchay@myjar.app
+  Founder: Nishchay AG (Co-Founder & CEO)
+  Hook: UPI autopay round-up execution microservices, gamified savings streak algorithms, and high-concurrency transaction ledgers.
+
+ID 157: Kodo
+  Website: https://kodo.com
+  Sector: Corporate Cards & Automated Spend Management for Startups
+  Size: 30-55 | Funding: Seed $8.7M (Brex, Y Combinator)
+  Location: Remote / Mumbai / Bangalore
+  Career: https://kodo.com/careers | Email: deekshith@kodo.com
+  Founder: Deekshith Podduturi (Co-Founder & CEO)
+  Hook: Card issuance rails on bank networks, automated corporate expense categorization, and multi-user spend control dashboards.
+
+ID 158: Karbon Card
+  Website: https://karboncard.com
+  Sector: Corporate Credit Cards & Automated Payouts for Startups
+  Size: 45-75 | Funding: Series A $15M (Olive Tree Capital, Harmony)
+  Location: Remote / Bangalore
+  Career: https://karboncard.com/careers | Email: kartik@karboncard.com
+  Founder: Kartik Jain (Co-Founder & CEO)
+  Hook: Startup underwriting algorithms using live bank balance scraping, automated payroll disbursements, and payment reconciliation.
+
+ID 159: Ditto Insurance
+  Website: https://joinditto.in
+  Sector: Plain-English Health & Term Insurance Advisory
+  Size: 60-90 | Funding: Seed $4.5M (Zerodha, Finshots)
+  Location: Remote / Bangalore
+  Career: https://joinditto.in/careers | Email: shrehith@joinditto.in
+  Founder: Shrehith Karkera (Co-Founder) & Pawan Kumar Rai (Co-Founder)
+  Hook: Algorithmic policy comparison engines, insurance clause summarization models, and spam-free consultation booking systems.
+
+ID 160: Plum Benefits
+  Website: https://plumhq.com
+  Sector: Comprehensive Group Health Insurance & Wellness Platform
+  Size: 70-100 | Funding: Series A $15.6M (Tiger Global, Tanglin)
+  Location: Remote / Bangalore
+  Career: https://plumhq.com/careers | Email: abhishek@plumhq.com
+  Founder: Abhishek Poddar (Co-Founder & CEO)
+  Hook: Real-time health insurance policy pricing calculators, automated claims submission via WhatsApp, and HR wellness dashboards.
+
+ID 161: Loop Health
+  Website: https://loophealth.com
+  Sector: Preventive Primary Care & Employee Health Insurance AI
+  Size: 65-95 | Funding: Series A $12M (General Catalyst, Elevation)
+  Location: Remote / Pune / Bangalore
+  Career: https://loophealth.com/careers | Email: mayank@loophealth.com
+  Founder: Mayank Kale (Co-Founder & CEO)
+  Hook: In-house medical doctor consultation video queues, automated electronic prescription sync, and group health claims tracking.
+
+ID 162: Onsurity
+  Website: https://onsurity.com
+  Sector: Monthly Healthcare & Health Insurance Subscriptions for SMEs
+  Size: 70-100 | Funding: Series B $24M (International Finance Corporation, Quona)
+  Location: Remote / Bangalore
+  Career: https://onsurity.com/careers | Email: yogesh@onsurity.com
+  Founder: Yogesh Agarwal (Founder & CEO)
+  Hook: Micro-subscription recurring payment billing engines, employee health card generation, and automated claim reimbursement bots.
+
+ID 163: Pazcare
+  Website: https://pazcare.com
+  Sector: Employee Benefits, Health Insurance & Wellness Administration
+  Size: 40-70 | Funding: Series A $8.2M (Jafco Asia, 3one4 Capital)
+  Location: Remote / Bangalore
+  Career: https://pazcare.com/careers | Email: sanchit@pazcare.com
+  Founder: Sanchit Malik (Co-Founder & CEO)
+  Hook: Employee benefits self-enrollment portals, automated insurer policy endorsement updates, and mental wellness appointment schedulers.
+
+ID 164: Nova Benefits
+  Website: https://novabenefits.com
+  Sector: Employee Health Insurance Portal & Claims Automation
+  Size: 45-75 | Funding: Series A $10M (Bessemer Venture Partners, SIG)
+  Location: Remote / Bangalore
+  Career: https://novabenefits.com/careers | Email: saransh@novabenefits.com
+  Founder: Saransh Garg (Co-Founder & CEO)
+  Hook: Hospital bill and discharge summary OCR document parsing, claim status tracking APIs, and HR corporate benefits dashboards.
+
+ID 165: Velocity.in
+  Website: https://velocity.in
+  Sector: Revenue-Based Financing & Financial Insights for D2C Brands
+  Size: 50-80 | Funding: Series A $20M (Peter Thiel's Valar Ventures)
+  Location: Remote / Bangalore
+  Career: https://velocity.in/careers | Email: abhiroop@velocity.in
+  Founder: Abhiroop Medhekar (Co-Founder & CEO)
+  Hook: D2C revenue and marketing spend integrations (Shopify, Meta Ads), automated underwriting risk engines, and cash advance payouts.
+
+ID 166: Klub
+  Website: https://klubworks.com
+  Sector: Revenue-Based Growth Capital & Investment Marketplace
+  Size: 50-80 | Funding: Series A $20M (Alteria Capital, Trifecta)
+  Location: Remote / Bangalore
+  Career: https://klubworks.com/careers | Email: anurakt@klubworks.com
+  Founder: Anurakt Jain (Co-Founder & CEO)
+  Hook: Algorithmic revenue share calculations, banking data scraping for financial underwriting, and investor portfolio return dashboards.
+
+ID 167: Bikayi
+  Website: https://bikayi.com
+  Sector: WhatsApp E-Commerce Storefront & Payment Automation
+  Size: 40-70 | Funding: Series A $10.8M (Sequoia Capital India)
+  Location: Remote / Hyderabad / Bangalore
+  Career: https://bikayi.com/careers | Email: sonakshi@bikayi.com
+  Founder: Sonakshi Nathani (Co-Founder & CEO)
+  Hook: Automated online catalog generation from phone photos, WhatsApp commerce messaging bots, and integrated payment checkouts.
+
+ID 168: Zoko
+  Website: https://zoko.io
+  Sector: WhatsApp Marketing, Support & Conversational Commerce
+  Size: 20-40 | Funding: Seed $1.4M (Y Combinator, Ryan Hoover)
+  Location: Fully Remote (India)
+  Career: https://zoko.io/careers | Email: arjun@zoko.io
+  Founder: Arjun Rastogi (Co-Founder & CEO)
+  Hook: WhatsApp Business Cloud API high-throughput messaging, multi-agent inbox interfaces in React, and Shopify event triggers.
+
+ID 169: Vahan.ai
+  Website: https://vahan.co
+  Sector: WhatsApp-Based Blue-Collar Recruitment & AI Virtual Recruiter
+  Size: 40-70 | Funding: Series A $8M (Khosla Ventures, Y Combinator)
+  Location: Remote / Bangalore
+  Career: https://vahan.co/careers | Email: madhav@vahan.ai
+  Founder: Madhav Krishna (Founder & CEO)
+  Hook: Conversational AI voice and text recruiters on WhatsApp, automated worker qualification screening, and job dispatching algorithms.
+
+ID 170: Cube Wealth
+  Website: https://bankoncube.com
+  Sector: Automated Multi-Asset Wealth Advisory & Investment App
+  Size: 25-45 | Funding: Seed $2M (Prominent angel investors)
+  Location: Remote / Mumbai
+  Career: https://bankoncube.com/careers | Email: satyen@bankoncube.com
+  Founder: Satyen Kothari (Founder & CEO)
+  Hook: Algorithmic portfolio rebalancing engines, multi-asset class transaction routing (equities, P2P, gold), and advisory feeds.
+
+ID 171: Wint Wealth
+  Website: https://wintwealth.com
+  Sector: Retail Debt Assets & Fixed Income Investment Platform
+  Size: 40-70 | Funding: Series A $5M (Eight Roads Ventures)
+  Location: Remote / Bangalore
+  Career: https://wintwealth.com/careers | Email: ajinkya@wintwealth.com
+  Founder: Ajinkya Kulkarni (Co-Founder & CEO)
+  Hook: Covered bond order settlement systems, depository participant (CDSL/NSDL) APIs, and automated monthly interest distribution rails.
+
+ID 172: Dezerv
+  Website: https://dezerv.in
+  Sector: Tech-Driven Wealth Management for Tech Professionals & HNIs
+  Size: 60-95 | Funding: Series B $32M (Premji Invest, Elevation Capital)
+  Location: Remote / Mumbai / Bangalore
+  Career: https://dezerv.in/careers | Email: sandeep@dezerv.in
+  Founder: Sandeep Jethwani (Co-Founder)
+  Hook: Integrated Portfolio Management Services (PMS) analytics, digital investment onboarding, and institutional asset allocation models.
+
+ID 173: Stable Money
+  Website: https://stablemoney.in
+  Sector: Fixed Deposit & Secure Yield Marketplace
+  Size: 30-55 | Funding: Series A $15M (RTP Global, Lightspeed)
+  Location: Remote / Bangalore
+  Career: https://stablemoney.in/careers | Email: saurabh@stablemoney.in
+  Founder: Saurabh Jain (Co-Founder & CEO)
+  Hook: Multi-bank core banking integration for instant paperless fixed deposit booking, interest rate comparison, and KYC validation.
+
+ID 174: Uni Cards
+  Website: https://uni.cards
+  Sector: Smart Multi-Network Credit Cards & Pay-Later Platform
+  Size: 75-100 | Funding: Series A $70M (Lightspeed, Accel)
+  Location: Remote / Bangalore
+  Career: https://uni.cards/careers | Email: nitin@uni.cards
+  Founder: Nitin Gupta (Founder & CEO)
+  Hook: Low-latency payment authorization hooks, credit card transaction ledgering, and real-time cashback calculation engines.
+
+ID 175: Freo (MoneyTap)
+  Website: https://freo.money
+  Sector: App-Based Credit Line & Digital Financial Services
+  Size: 75-100 | Funding: Series B $40M (Prime Venture Partners, Sequoia)
+  Location: Remote / Bangalore
+  Career: https://freo.money/careers | Email: anuj@freo.money
+  Founder: Anuj Kacker (Co-Founder)
+  Hook: Instant credit line limit assessment algorithms, NBFC loan disbursement rails, and recurring repayment auto-debit triggers.
+
+ID 176: CASHe
+  Website: https://cashe.co.in
+  Sector: AI-Driven Instant Personal Loans & Social Loan Quotient
+  Size: 75-100 | Funding: Series B $40M (Singularity Growth)
+  Location: Remote / Mumbai
+  Career: https://cashe.co.in/careers | Email: yashoraj@cashe.co.in
+  Founder: Yashoraj Tyagi (CEO)
+  Hook: Alternative credit scoring algorithms using mobile digital footprints, automated e-mandate registration, and instant loan settlement.
+
+ID 177: NIRA
+  Website: https://nirafinance.com
+  Sector: Real-Time Micro-Lending Platform for Middle-Income Earners
+  Size: 40-70 | Funding: Seed $4M (Techstars, Indian angel syndicates)
+  Location: Remote / Bangalore
+  Career: https://nirafinance.com/careers | Email: rohit@nirafinance.com
+  Founder: Rohit Sen (Co-Founder & CEO)
+  Hook: Automated bank statement analysis for payroll estimation, credit bureau CIBIL/Experian ingestion, and mobile micro-loan disbursals.
+
+ID 178: Finzy
+  Website: https://finzy.com
+  Sector: Peer-to-Peer Digital Lending & Algorithmic Credit Risk
+  Size: 30-50 | Funding: Series A $2.3M (Prominent BFSI angel syndicates)
+  Location: Remote / Bangalore
+  Career: https://finzy.com/careers | Email: amit@finzy.com
+  Founder: Amit More (Founder & CEO)
+  Hook: P2P borrower-lender risk matching algorithms, escrow account payment reconciliation, and automated EMI collection engines.
+
+ID 179: Faircent
+  Website: https://faircent.com
+  Sector: Peer-to-Peer Lending & Automated Credit Scoring Marketplace
+  Size: 60-90 | Funding: Series B $10M (Incofin, Muthoot Fincorp)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://faircent.com/careers | Email: rajat@faircent.com
+  Founder: Rajat Gandhi (Founder & CEO)
+  Hook: P2P credit risk underwriting models, automated investment mandate execution, and high-volume loan portfolio performance dashboards.
+
+ID 180: LenDenClub
+  Website: https://lendenclub.com
+  Sector: P2P Lending Platform & Digital Alternative Credit Rails
+  Size: 65-95 | Funding: Series A $10M (Tuscan Ventures, Ohm Stock)
+  Location: Remote / Mumbai
+  Career: https://lendenclub.com/careers | Email: bhavin@lendenclub.com
+  Founder: Bhavin Patel (Co-Founder & CEO)
+  Hook: Fractional micro-lending matching engine, auto-investment rules, and bank-grade escrow settlement transaction microservices.
+
+ID 181: IndiaLends
+  Website: https://indialends.com
+  Sector: Digital Lending, Credit Scoring & Credit Card Marketplace
+  Size: 75-100 | Funding: Series B $25M (ACP Partners, American Express)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://indialends.com/careers | Email: gaurav@indialends.com
+  Founder: Gaurav Chopra (Founder & CEO)
+  Hook: Free credit report fetching engines, personalized loan recommendation pipelines, and institutional lender API adapters.
+
+ID 182: BankSathi
+  Website: https://banksathi.com
+  Sector: FinTech Product Marketplace & Financial Advisory App
+  Size: 50-80 | Funding: Pre-Series A $4M (Kotak Securities)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://banksathi.com/careers | Email: jitendra@banksathi.com
+  Founder: Jitendra Dhaka (Founder & CEO)
+  Hook: Lead tracking and attribution mobile backends, automated commission payout ledgers, and advisor product recommendation engines.
+
+ID 183: GroMo
+  Website: https://gromo.in
+  Sector: Distribution Platform for Financial Products (Insurance & Credit)
+  Size: 60-90 | Funding: Series A $11M (SIG Venture Capital)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://gromo.in/careers | Email: ankit@gromo.in
+  Founder: Ankit Khandelwal (Co-Founder & CEO)
+  Hook: Partner financial app integrations, real-time lead pipeline tracking in Next.js, and instant commission payment rails.
+
+ID 184: ZET (OneCode)
+  Website: https://zetapp.in
+  Sector: Networked FinTech Product Distribution & Credit Enablement
+  Size: 70-95 | Funding: Series A $13M (General Catalyst, Nexus VP)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://zetapp.in/careers | Email: manish@zetapp.in
+  Founder: Manish Shara (Co-Founder & CEO)
+  Hook: Direct bank API integrations for personal loan eligibility, automated agent onboarding, and microservices for commission distribution.
+
+ID 185: Novio (Credilio)
+  Website: https://novio.in
+  Sector: Digital Distribution Engine for Retail Loans & Credit Cards
+  Size: 40-70 | Funding: Seed $4M (CornerStone Venture Partners)
+  Location: Remote / Mumbai / Delhi-NCR
+  Career: https://novio.in/careers | Email: sandeep@novio.in
+  Founder: Sandeep Dhakar (Founder & CEO)
+  Hook: Digital card application processing, rule-based banking eligibility check pipelines, and partner advisor performance dashboards.
+
+ID 186: FloBiz (myBillBook)
+  Website: https://flobiz.in
+  Sector: GST Billing, Inventory Accounting & SMB ERP Suite
+  Size: 75-100 | Funding: Series B $31M (Sequoia Capital India, Elevation)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://flobiz.in/careers | Email: rahul@flobiz.in
+  Founder: Rahul Raj (Founder & CEO)
+  Hook: Offline-first desktop and mobile SQLite sync, GST e-invoicing API gateways, and automated stock low-inventory alerts.
+
+ID 187: Pepper Content
+  Website: https://peppercontent.io
+  Sector: Content Marketing Platform & Enterprise Generative Copilot
+  Size: 70-100 | Funding: Series A $14.3M (Bessemer Venture Partners, Tanglin)
+  Location: Remote / Mumbai / Delhi-NCR
+  Career: https://peppercontent.io/careers | Email: anirudh@peppercontent.io
+  Founder: Anirudh Singla (Co-Founder & CEO)
+  Hook: Enterprise LLM editorial copilot in Next.js, automated SEO keyword density validation, and workflow assignment queues.
+
+ID 188: Superleap
+  Website: https://superleap.com
+  Sector: AI-Native CRM & Automated Deal Velocity Platform
+  Size: 15-30 | Funding: Seed $3.8M (Peak XV Surge)
+  Location: Remote / Delhi-NCR / Bangalore
+  Career: https://superleap.com/careers | Email: sameer@superleap.com
+  Founder: Sameer Grover (Founder & CEO)
+  Hook: Automated meeting note summarization, CRM contact enrichment with LLMs, and real-time deal stage forecasting pipelines.
+
+ID 189: Awign
+  Website: https://awign.com
+  Sector: Enterprise Work-as-a-Service & Gig Workforce Platform
+  Size: 75-100 | Funding: Series B $15M (Bertelsmann, Mynavi)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://awign.com/careers | Email: sarthak@awign.com
+  Founder: Annanya Sarthak (Co-Founder & CEO)
+  Hook: Distributed gig task allocation algorithms, automated photo proof of work verification with computer vision, and payouts.
+
+ID 190: WorkIndia
+  Website: https://workindia.in
+  Sector: Geo-Location Blue-Collar Employment Marketplace
+  Size: 70-100 | Funding: Series A $12M (Beenext, Asuka Asset)
+  Location: Remote / Mumbai / Bangalore
+  Career: https://workindia.in/careers | Email: kunal@workindia.in
+  Founder: Kunal Patil (Co-Founder & CEO)
+  Hook: Geographic hyper-local job search indexing, automated tele-screening verification bots, and low-latency mobile API backends.
+
+ID 191: Gigforce
+  Website: https://gigforce.in
+  Sector: On-Demand Staffing & Workforce Management Platform
+  Size: 30-55 | Funding: Seed $3M (Endiya Partners)
+  Location: Remote / Delhi-NCR / Bangalore
+  Career: https://gigforce.in/careers | Email: chirag@gigforce.in
+  Founder: Chirag Mittal (Founder & CEO)
+  Hook: Real-time gig shift scheduling algorithms, biometric time-tracking sync, and automated payroll disbursement pipelines.
+
+ID 192: Newton School
+  Website: https://newtonschool.co
+  Sector: Outcome-Driven Tech School & AI Software Academy
+  Size: 75-100 | Funding: Series B $25M (Steadview Capital, Nexus VP)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://newtonschool.co/careers | Email: nishant@newtonschool.co
+  Founder: Nishant Chandra (Co-Founder) & Siddharth Maheshwari (Co-Founder)
+  Hook: Automated code execution judging sandboxes, personalized learning path recommendations, and student job portal interfaces.
+
+ID 193: Masai School
+  Website: https://masaischool.com
+  Sector: Coding Bootcamp & Tech Skill Acceleration Platform
+  Size: 70-100 | Funding: Series B $10M (India Quotient, Unitus)
+  Location: Remote / Bangalore
+  Career: https://masaischool.com/careers | Email: prateek@masaischool.com
+  Founder: Prateek Shukla (Co-Founder & CEO)
+  Hook: Income Share Agreement (ISA) tracking ledgers, student coding challenge assessment engines, and employer recruitment portals.
+
+ID 194: AlmaBetter
+  Website: https://almabetter.com
+  Sector: Online AI, Machine Learning & Data Science Academy
+  Size: 40-70 | Funding: Seed $2.7M (Kalaari Capital)
+  Location: Remote / Bangalore
+  Career: https://almabetter.com/careers | Email: shivam@almabetter.com
+  Founder: Shivam Dutta (Co-Founder & CEO)
+  Hook: Jupyter notebook automated grading backends, real-time live lecture interactive polls in Next.js, and student resume AI reviewers.
+
+ID 195: Teachmint
+  Website: https://teachmint.com
+  Sector: AI-Enabled Teaching OS & School Infrastructure Software
+  Size: 75-100 | Funding: Series B $78M (Rocketship.vc, Vulcan, Lightspeed)
+  Location: Remote / Bangalore
+  Career: https://teachmint.com/careers | Email: mihir@teachmint.com
+  Founder: Mihir Gupta (Co-Founder & CEO)
+  Hook: Two-way live interactive whiteboard WebRTC streaming, automated test generation with LLMs, and school fee management portals.
+
+ID 196: Stashfin
+  Website: https://stashfin.com
+  Sector: Neobanking, Digital Credit Line & Card Platform
+  Size: 75-100 | Funding: Series B $70M (Uncorrelated Ventures, Fasanara)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://stashfin.com/careers | Email: tushar@stashfin.com
+  Founder: Tushar Patel (Founder & CEO)
+  Hook: Digital card issuance APIs, transaction fraud monitoring models, and loan portfolio ledger management microservices.
+
+ID 197: Battery Smart
+  Website: https://batterysmart.in
+  Sector: Two & Three-Wheeler EV Battery Swapping Network
+  Size: 80-100 | Funding: Series B $33M (Tiger Global, Blume Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://batterysmart.in/careers | Email: pulkit@batterysmart.in
+  Founder: Pulkit Khurana (Co-Founder & CEO)
+  Hook: Battery swap station IoT telemetry, driver reservation matching algorithms, and battery health degradation prediction.
+
+ID 198: Cashify
+  Website: https://cashify.in
+  Sector: Re-Commerce Platform & Device Diagnostics Automation
+  Size: 80-100 | Funding: Series B $15M (New Enterprise Associates)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://cashify.in/careers | Email: mandeep@cashify.in
+  Founder: Mandeep Manocha (Co-Founder & CEO)
+  Hook: Mobile hardware diagnostic algorithms on smartphone sensors, algorithmic refurbished pricing models, and doorstep pickup routing.
+
+ID 199: Soothe Healthcare
+  Website: https://paree.in
+  Sector: Personal Healthcare Products & Supply Chain Tech
+  Size: 60-90 | Funding: Series B $20M (Aavishkaar Capital)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://paree.in/careers | Email: sahil@paree.in
+  Founder: Sahil Dharia (Founder & CEO)
+  Hook: Supply chain inventory demand forecasting models, distributor ordering portals, and D2C e-commerce checkout funnels.
+
+ID 200: Pee Safe
+  Website: https://peesafe.com
+  Sector: Hygiene Tech & D2C Health Care Platform
+  Size: 45-75 | Funding: Series B $3M (Natco Pharma, Alkemi)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://peesafe.com/careers | Email: vikas@peesafe.com
+  Founder: Vikas Bagaria (Founder & CEO)
+  Hook: Omnichannel retail replenishment analytics, D2C subscription replenishment microservices, and customer retention tracking.
+
+ID 201: Leaf Round
+  Website: https://leafround.com
+  Sector: Fractional Asset-Backed Leasing & Alternative Yield
+  Size: 15-30 | Funding: Seed $1M (Indian angel networks)
+  Location: Remote / Bangalore
+  Career: https://leafround.com/careers | Email: nishat@leafround.com
+  Founder: Nishat Nayak (Co-Founder & CEO)
+  Hook: Asset lease payment escrow tracking, fractional investment contracts generation, and investor monthly return ledgers.
+
+ID 202: AltGraaf
+  Website: https://altgraaf.com
+  Sector: High-Yield Fixed Return Alternative Debt Platform
+  Size: 20-40 | Funding: Seed $2M (Prominent angel syndicates)
+  Location: Remote / Bangalore
+  Career: https://altgraaf.com/careers | Email: founders@altgraaf.com
+  Founder: Founding Engineering Team
+  Hook: Corporate invoice discounting rails, credit assessment data pipelines, and real-time yield distribution calculators.
+
+ID 203: Spenny
+  Website: https://spennyapp.com
+  Sector: Micro-Investing & Spare Change Savings App
+  Size: 10-20 | Funding: Seed $1M (Y Combinator, 500 Global)
+  Location: Remote / Bangalore
+  Career: https://spennyapp.com/careers | Email: rathnakar@spennyapp.com
+  Founder: Rathnakar Samavedam (Co-Founder & CEO)
+  Hook: SMS payment parsing for transaction roundups, automated mutual fund micro-investing APIs, and portfolio analytics in React.
+
+ID 204: TapChief
+  Website: https://tapchief.com
+  Sector: On-Demand Professional Services & Talent Marketplace
+  Size: 30-50 | Funding: Seed $1.5M (Blume Ventures, 500 Startups)
+  Location: Remote / Bangalore
+  Career: https://tapchief.com/careers | Email: shashank@tapchief.com
+  Founder: Shashank Murali (Co-Founder & CEO)
+  Hook: Consultant skill matching algorithms, automated project milestone escrow payments, and client timesheet tracking.
+
+ID 205: Exponent Energy
+  Website: https://exponent.energy
+  Sector: 15-Minute Rapid Charging Battery Pack & Station Network
+  Size: 60-90 | Funding: Series B $26M (Lightspeed, Eight Roads)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://exponent.energy/careers | Email: arun@exponent.energy
+  Founder: Arun Vinayak (Co-Founder & CEO)
+  Hook: Battery telemetry data ingestion, fast charging current-voltage profiling algorithms, and station management dashboards.
+
+ID 206: Simple Energy
+  Website: https://simpleenergy.in
+  Sector: Smart Electric Two-Wheelers & Battery R&D Platform
+  Size: 60-90 | Funding: Series A $20M (Prominent high-net-worth syndicates)
+  Location: Remote / Bangalore
+  Career: https://simpleenergy.in/careers | Email: suhas@simpleenergy.in
+  Founder: Suhas Rajkumar (Founder & CEO)
+  Hook: Connected scooter touchscreen OS in Android/React, OTA vehicle telemetry sync, and thermal performance predictive models.
+
+ID 207: Turno
+  Website: https://turno.club
+  Sector: Commercial Electric Vehicle Distribution & Battery Life AI
+  Size: 45-75 | Funding: Series A $13.8M (B Capital, Quona Capital)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://turno.club/careers | Email: hemanth@turno.club
+  Founder: Hemanth Dholakia (Co-Founder & CEO)
+  Hook: Commercial vehicle battery health estimation models, financing repayment risk scoring, and customer vehicle portals in Next.js.
+
+ID 208: Clean Electric
+  Website: https://cleanelectric.in
+  Sector: Fast-Charging Liquid-Cooled EV Battery Packs & BMS
+  Size: 25-45 | Funding: Seed $2.2M (Info Edge Ventures, Kalaari)
+  Location: Remote / Pune / Delhi-NCR
+  Career: https://cleanelectric.in/careers | Email: akash@cleanelectric.in
+  Founder: Akash Gupta (Co-Founder & CEO)
+  Hook: Direct contact liquid cooling battery telemetry, cellular IoT tracking, and cell degradation prediction pipelines in Python.
+
+ID 209: Matter Energy
+  Website: https://matter.in
+  Sector: Electric Motorbikes with Integrated Liquid Cooling
+  Size: 60-90 | Funding: Series A $35M (Capital A, prominent investors)
+  Location: Remote / Ahmedabad / Delhi-NCR
+  Career: https://matter.in/careers | Email: mohal@matter.in
+  Founder: Mohal Lalbhai (Founder & CEO)
+  Hook: Manual gearbox electric vehicle telematics, connected instrument cluster Android apps, and riding efficiency analytics.
+
+ID 210: Pixxel
+  Website: https://pixxel.space
+  Sector: Hyperspectral Imaging Satellites & Earth Observation AI
+  Size: 60-90 | Funding: Series B $36M (Google, Lightspeed, Radical)
+  Location: Remote / Bangalore
+  Career: https://pixxel.space/careers | Email: awais@pixxel.space
+  Founder: Awais Ahmed (Co-Founder & CEO) & Kshitij Khandelwal (Co-Founder)
+  Hook: Satellite hyperspectral image processing pipelines, deep learning for mineral/crop health detection, and geospatial APIs.
+
+ID 211: Agnikul Cosmos
+  Website: https://agnikul.in
+  Sector: 3D-Printed Semi-Cryogenic Rocket Launch Vehicles
+  Size: 65-95 | Funding: Series B $26M (Celesta Capital, Rocketship.vc)
+  Location: Remote / Chennai
+  Career: https://agnikul.in/careers | Email: srinath@agnikul.in
+  Founder: Srinath Ravichandran (Co-Founder & CEO)
+  Hook: Rocket telemetry parsing, automated launch test telemetry dashboards in Next.js, and trajectory simulation software.
+
+ID 212: GalaxEye Space
+  Website: https://galaxeye.space
+  Sector: Multi-Sensor SAR & Optical Earth Observation Satellites
+  Size: 30-55 | Funding: Seed $3.5M (Speciale Invest, Drone Federation)
+  Location: Remote / Chennai / Bangalore
+  Career: https://galaxeye.space/careers | Email: suyash@galaxeye.space
+  Founder: Suyash Singh (Co-Founder & CEO)
+  Hook: Synthetic Aperture Radar (SAR) data fusion with optical satellite imagery, cloud-penetrating change detection models.
+
+ID 213: Unbox Robotics
+  Website: https://unboxrobotics.com
+  Sector: Swarm Robotics & Autonomous Sorting for Logistics
+  Size: 45-75 | Funding: Series A $7M (3one4 Capital, SOSV)
+  Location: Remote / Pune / Bangalore
+  Career: https://unboxrobotics.com/careers | Email: pramod@unboxrobotics.com
+  Founder: Pramod Ghadge (Co-Founder & CEO)
+  Hook: Multi-robot swarm coordination path planning, warehouse conveyor fleet simulation, and low-latency ROS controller bridges.
+
+ID 214: Detect Technologies
+  Website: https://detecttechnologies.com
+  Sector: Industrial AI Computer Vision for Workplace Safety & Assets
+  Size: 75-100 | Funding: Series B $28M (Prosus Ventures, Accel)
+  Location: Remote / Chennai / Delhi-NCR
+  Career: https://detecttechnologies.com/careers | Email: daniel@detecttechnologies.com
+  Founder: Daniel Raj David (Co-Founder & CEO)
+  Hook: Computer vision pipeline for PPE non-compliance detection in refineries, ultrasonic sensor IoT telemetry, and industrial safety alerts.
+
+ID 215: Intugine Technologies
+  Website: https://intugine.com
+  Sector: Multimodal Real-Time Supply Chain Visibility & IoT
+  Size: 45-75 | Funding: Pre-Series A $2.5M (M12 - Microsoft Ventures)
+  Location: Remote / Bangalore
+  Career: https://intugine.com/careers | Email: harshit@intugine.com
+  Founder: Harshit Shrivastava (Founder & CEO)
+  Hook: GPS and SIM-based location tracking APIs, shipment arrival delay prediction models, and supply chain control tower UIs in Next.js.
+
+ID 216: Stellapps Technologies
+  Website: https://stellapps.com
+  Sector: Dairy Supply Chain Digitization, Smart IoT & Cattle Wearables
+  Size: 75-100 | Funding: Series B $18M (Celesta Capital, Omnivore)
+  Location: Remote / Bangalore
+  Career: https://stellapps.com/careers | Email: ranjith@stellapps.com
+  Founder: Ranjith Mukundan (Founder & CEO)
+  Hook: Milk quality testing sensor data processing, cattle health wearable telemetry, and village procurement center sync.
+
+ID 217: Charzer
+  Website: https://charzer.com
+  Sector: EV Charging Station Network & Smart IoT Charger OS
+  Size: 30-55 | Funding: Seed $3M (Indian angel networks)
+  Location: Remote / Bangalore
+  Career: https://charzer.com/careers | Email: sameer@charzer.com
+  Founder: Sameer Ranjan Jaiswal (Co-Founder)
+  Hook: OCPP protocol charging station management software, driver mobile app charging reservation, and energy metering backends.
+
+ID 218: Kazam
+  Website: https://kazam.energy
+  Sector: EV Charging Software Platform & Grid Management
+  Size: 35-60 | Funding: Series A $5M (Vertex Ventures, Avaana Capital)
+  Location: Remote / Bangalore
+  Career: https://kazam.energy/careers | Email: akshay@kazam.energy
+  Founder: Akshay Shekhar (Co-Founder & CEO)
+  Hook: Smart EV charger hardware connectivity, dynamic tariff billing microservices, and fleet charging schedule optimization algorithms.
+
+ID 219: Fyn Mobility
+  Website: https://fynmobility.com
+  Sector: EV Fleet as a Service for E-Commerce Logistics
+  Size: 30-55 | Funding: Seed $2M (Prominent mobility investors)
+  Location: Remote / Bangalore
+  Career: https://fynmobility.com/careers | Email: visakh@fynmobility.com
+  Founder: Visakh Sasikumar (Founder & CEO)
+  Hook: Electric delivery vehicle telematics, battery swap station reservation matching, and logistics SLA monitoring portals.
+
+ID 220: Sprih
+  Website: https://sprih.net
+  Sector: Climate Tech & AI Carbon Emission Accounting Platform
+  Size: 15-30 | Funding: Seed $2.9M (Leo Capital)
+  Location: Remote / Bangalore
+  Career: https://sprih.net/careers | Email: pulkit@sprih.net
+  Founder: Pulkit Agarwal (Founder & CEO)
+  Hook: Automated Scope 1, 2, and 3 carbon emissions data extraction from corporate ERPs, carbon offset tracking, and ESG dashboards.
+
+ID 221: UptimeAI
+  Website: https://uptimeai.com
+  Sector: AI Virtual Engineer for Heavy Industrial Predictive Maintenance
+  Size: 25-45 | Funding: Seed $3.5M (Emergent Ventures)
+  Location: Remote / Bangalore
+  Career: https://uptimeai.com/careers | Email: jagadish@uptimeai.com
+  Founder: Jagadish Gattu (Founder & CEO)
+  Hook: Industrial plant sensor time-series anomaly detection, equipment degradation root cause reasoning, and interactive plant schematics.
+
+ID 222: Digantara
+  Website: https://digantara.com
+  Sector: Space Situational Awareness & Orbital Space Debris Tracking
+  Size: 30-55 | Funding: Series A $12M (Peak XV Partners, Aditya Birla)
+  Location: Remote / Bangalore
+  Career: https://digantara.com/careers | Email: anirudh@digantara.com
+  Founder: Anirudh Sharma (Co-Founder & CEO)
+  Hook: Orbital mechanics collision avoidance algorithms, satellite sensor telemetry ingest, and interactive 3D celestial tracking consoles.
+
+ID 223: Headfone
+  Website: https://headfone.co.in
+  Sector: Vernacular Audio Content Platform & Personalized Audio AI
+  Size: 40-70 | Funding: Series B $10M (Elevation Capital, Hashed)
+  Location: Remote / Bangalore
+  Career: https://headfone.co.in/careers | Email: pratham@headfone.co.in
+  Founder: Pratham Khandelwal (Co-Founder & CEO)
+  Hook: Audio recommendation algorithms based on listening habits, automated speech loudness leveling, and creator studio apps in React.
+
+ID 224: Zevi.ai
+  Website: https://zevi.ai
+  Sector: AI-Powered Site Search & Neural Discovery for E-Commerce
+  Size: 15-30 | Funding: Seed $1.6M (Together Fund, Better Capital)
+  Location: Remote / Bangalore
+  Career: https://zevi.ai/careers | Email: shyam@zevi.ai
+  Founder: Shyam Sunder (Co-Founder & CEO)
+  Hook: NLP search query intent classification, real-time product embedding ranking, and Shopify/Magento search integration SDKs.
+
+ID 225: Fasal
+  Website: https://fasal.co
+  Sector: Precision Horticulture AI & IoT Micro-Climate Sensors
+  Size: 50-80 | Funding: Series A $12M (TDK Ventures, British International)
+  Location: Remote / Bangalore
+  Career: https://fasal.co/careers | Email: shailendra@fasal.co
+  Founder: Shailendra Tiwari (Co-Founder & CEO)
+  Hook: Soil and canopy micro-climate sensor data telemetry, disease outbreak predictive models, and precision irrigation alert engines.
+
+ID 226: BharatAgri
+  Website: https://bharatagri.com
+  Sector: Algorithmic Crop Advisory & Smart Farming System
+  Size: 50-80 | Funding: Series A $4.3M (Omnivore, India Quotient)
+  Location: Remote / Pune / Bangalore
+  Career: https://bharatagri.com/careers | Email: siddharth@bharatagri.com
+  Founder: Siddharth Dialani (Co-Founder & CEO)
+  Hook: Personalized crop calendar generation algorithms based on satellite soil and weather data, and vernacular voice advisory apps.
+
+ID 227: AgNext Technologies
+  Website: https://agnext.com
+  Sector: DeepTech AI Food Quality Assessment & Spectroscopy
+  Size: 65-95 | Funding: Series A $21M (Alpha Wave Global, Omnivore)
+  Location: Remote / Chandigarh / Delhi-NCR
+  Career: https://agnext.com/careers | Email: taranjeet@agnext.com
+  Founder: Taranjeet Singh Bhamra (Founder & CEO)
+  Hook: Near-infrared spectroscopy data modeling, instant crop chemical constituent estimation, and food supply chain quality cloud.
+
+ID 228: Aibono
+  Website: https://aibono.com
+  Sector: AI-Powered Fresh Produce AgTech & Demand Aggregation
+  Size: 40-70 | Funding: Seed $3.5M (Mitsui & Co., Rebright Partners)
+  Location: Remote / Bangalore
+  Career: https://aibono.com/careers | Email: vivek@aibono.com
+  Founder: Vivek Rajkumar (Founder & CEO)
+  Hook: Farm yield harvesting schedules, retail store perishable demand aggregation models, and cold-chain route optimization.
+
+ID 229: Ergos
+  Website: https://ergos.in
+  Sector: Grain-Bank Agri FinTech & Digital Farm Gate Warehousing
+  Size: 60-90 | Funding: Series A $10M (Aavishkaar Capital)
+  Location: Remote / Bangalore
+  Career: https://ergos.in/careers | Email: kishor@ergos.in
+  Founder: Kishor Jha (Founder & CEO)
+  Hook: Digitized warehouse receipt ledger, post-harvest grain quality certification, and digital bank loan disbursement pipelines.
+
+ID 230: Gramophone
+  Website: https://gramophone.in
+  Sector: Full-Stack Agritech Advisory, Input Marketplace & AI Diagnostics
+  Size: 65-95 | Funding: Series B $10M (Z3Partners, Info Edge)
+  Location: Remote / Indore / Delhi-NCR
+  Career: https://gramophone.in/careers | Email: tauseef@gramophone.in
+  Founder: Tauseef Khan (Co-Founder & CEO)
+  Hook: Crop disease photo diagnosis using computer vision on mobile devices, localized agronomic recommendations, and commerce checkout.
+
+ID 231: Intello Labs
+  Website: https://www.intellolabs.com
+  Sector: Computer Vision & Deep Learning Quality Testing for Agri-Food
+  Size: 50-80 | Funding: Series A $5.9M (Saama Capital, Omnivore)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.intellolabs.com/careers | Email: milan@intellolabs.com
+  Founder: Milan Sharma (Co-Founder & CEO)
+  Hook: Edge computer vision pipelines, multi-spectral image preprocessing, and FastAPI microservices for agricultural grading.
+
+ID 232: SuperK
+  Website: https://superk.in
+  Sector: Tech-Enabled Franchised Grocery Chain for Tier-3/4 Towns
+  Size: 50-80 | Funding: Series A $5.5M (Blume Ventures, Silverneedle)
+  Location: Remote / Hyderabad
+  Career: https://superk.in/careers | Email: neeraj@superk.in
+  Founder: Neeraj Menta (Co-Founder & CEO)
+  Hook: Store level inventory replenishment algorithms, franchise billing POS software, and regional warehouse dispatch routing.
+
+ID 233: Knit
+  Website: https://getknit.dev
+  Sector: Unified API Integration Platform for SaaS Applications
+  Size: 12-25 | Funding: Seed $1M (Endiya Partners)
+  Location: Remote / Bangalore
+  Career: https://getknit.dev/careers | Email: shrikant@getknit.dev
+  Founder: Shrikant Shenoy (Co-Founder & CEO)
+  Hook: Building universal schema abstractions for HRIS and CRM platforms, webhook event dispatching, and rate-limited API proxies.
+
+ID 234: Convin.ai
+  Website: https://convin.ai
+  Sector: AI Conversation Intelligence & Real-Time Agent Assistance
+  Size: 40-70 | Funding: Series A $6.5M (Kalaari Capital, Titan Capital)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://convin.ai/careers | Email: ashish@convin.ai
+  Founder: Ashish Santhalia (Co-Founder & CEO)
+  Hook: Real-time speech-to-text audio streaming, whisper latency tuning, and agent co-pilot RAG systems in Next.js/FastAPI.
+
+ID 235: Gushwork.ai
+  Website: https://www.gushwork.ai
+  Sector: AI Operational Workforce & Autonomous Process Automation
+  Size: 20-40 | Funding: Seed $2.1M (Lightspeed India, B Capital)
+  Location: Delhi-NCR (Noida/Delhi) / Remote
+  Career: https://www.gushwork.ai/careers | Email: nayrhit@gushwork.ai
+  Founder: Nayrhit Bhattacharya (Co-Founder & CEO)
+  Hook: Building multi-agent task execution graphs, browser orchestration agents, and human-in-the-loop validation dashboards.
+
+ID 236: Gan.ai
+  Website: https://gan.ai
+  Sector: Generative AI Video Personalization at Scale
+  Size: 20-40 | Funding: Seed $5.2M (Peak XV Surge, Emergent Ventures)
+  Location: Delhi-NCR (Gurgaon) / Remote
+  Career: https://gan.ai/careers | Email: suhash@gan.ai
+  Founder: Suhash Patel (Founder & CEO)
+  Hook: Generative video diffusion pipelines, neural audio lip-sync synchronization, and distributed rendering microservices.
+
+ID 237: Verloop.io
+  Website: https://verloop.io
+  Sector: Customer Support Automation & Multilingual Conversational AI
+  Size: 50-80 | Funding: Series A $5M (Alpha Wave, IDFC Parampara)
+  Location: Remote / Bangalore
+  Career: https://verloop.io/careers | Email: gaurav@verloop.io
+  Founder: Gaurav Singh (Founder & CEO)
+  Hook: Machine learning intent recognition models, live agent transfer queues, and real-time chat socket infrastructure.
+
+ID 238: Cognizer
+  Website: https://cognizer.ai
+  Sector: Genius Brain AI & Corporate Unstructured Content Intelligence
+  Size: 30-55 | Funding: Series A $5M (Indian angel syndicates)
+  Location: Remote / Bangalore / Delhi-NCR
+  Career: https://cognizer.ai/careers | Email: jack@cognizer.ai
+  Founder: Jack Donenfeld (Co-Founder)
+  Hook: Natural language query parsers over corporate legal and financial archives, graph neural networks, and semantic retrieval.
+
+ID 239: Senseforth.ai
+  Website: https://senseforth.ai
+  Sector: Conversational AI Bots & Enterprise Cognitive Virtual Assistants
+  Size: 40-70 | Funding: Pre-Series A $2M (Indian angel syndicates)
+  Location: Remote / Bangalore
+  Career: https://senseforth.ai/careers | Email: shridhar@senseforth.ai
+  Founder: Shridhar Marri (Co-Founder & CEO)
+  Hook: Pre-built banking conversational flows, automated query disambiguation, and enterprise customer service analytics dashboards.
+
+ID 240: Drivetrain.ai
+  Website: https://drivetrain.ai
+  Sector: Strategic Financial Planning & Enterprise Modeling SaaS
+  Size: 20-40 | Funding: Seed $3.2M (Elevation Capital, angel syndicates)
+  Location: Remote / Bangalore
+  Career: https://drivetrain.ai/careers | Email: alok@drivetrain.ai
+  Founder: Alok Goel (Co-Founder & CEO)
+  Hook: Multi-dimensional financial model formula calculation engines, live ERP/CRM data sync, and interactive scenario forecasting.
+
+ID 241: Segmind
+  Website: https://www.segmind.com
+  Sector: Serverless Generative AI APIs & Diffusion Model Workflows
+  Size: 15-30 | Funding: Seed $1M (Indian angel networks & institutional seed)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://www.segmind.com/careers | Email: rohit@segmind.com
+  Founder: Rohit M A (Co-Founder & CEO)
+  Hook: Serverless GPU inference routing, diffusion pipeline cold-start reduction, and modular workflow builder interfaces.
+
+ID 242: Kudo.ai
+  Website: https://kudo.ai
+  Sector: Real-Time Multilingual Speech Translation & Meeting Subtitles
+  Size: 40-70 | Funding: Series A $6M (Felicitas Ventures)
+  Location: Remote / Bangalore / Global
+  Career: https://kudo.ai/careers | Email: fardad@kudo.ai
+  Founder: Fardad Zabetian (CEO)
+  Hook: Low-latency WebRTC live meeting audio streams, real-time machine translation pipelines, and speech synthesis voice output.
+
+ID 243: Kombai
+  Website: https://kombai.com
+  Sector: Generative AI Model That Interprets UI Designs into Code
+  Size: 10-25 | Funding: Seed $4.5M (Stellaris Venture Partners)
+  Location: Remote / Bangalore
+  Career: https://kombai.com/careers | Email: dipanjan@kombai.com
+  Founder: Dipanjan Dey (Co-Founder & CEO)
+  Hook: Computer vision models that recognize UI components from raw vector nodes, clean HTML/CSS generation, and React component code trees.
+
+ID 244: Aura ML (Qritive)
+  Website: https://qritive.com
+  Sector: AI Digital Pathology & Cancer Diagnosis Assistance
+  Size: 20-40 | Funding: Series A $7.5M (MassMutual Ventures)
+  Location: Remote / Bangalore
+  Career: https://qritive.com/careers | Email: aneesh@qritive.com
+  Founder: Aneesh Satnalika (Co-Founder & CEO)
+  Hook: Gigapixel whole slide image deep learning segmentation, tumor boundary identification, and clinical pathology report automation.
+
+ID 245: AIndra Systems
+  Website: https://aindra.in
+  Sector: Point-of-Care Cervical Cancer Screening & Computer Vision
+  Size: 15-30 | Funding: Seed $1.2M (Villgro, Millennium Alliance)
+  Location: Remote / Bangalore
+  Career: https://aindra.in/careers | Email: adarsh@aindra.in
+  Founder: Adarsh Natarajan (Founder & CEO)
+  Hook: Automated Pap smear slide cell morphology classifiers, compact microscope camera integration, and telepathology consults.
+
+ID 246: Aikenist
+  Website: https://aikenist.com
+  Sector: AI-Assisted MRI Acceleration & Radiology Reporting
+  Size: 10-25 | Funding: Seed $500K (Indian angel networks)
+  Location: Remote / Bangalore
+  Career: https://aikenist.com/careers | Email: ashwin@aikenist.com
+  Founder: Ashwin Kumar (Founder & CEO)
+  Hook: K-space MRI reconstruction deep learning algorithms, scan time reduction pipelines, and automated lesion volumetric metrics.
+
+ID 247: Dozee
+  Website: https://dozee.io
+  Sector: Contactless AI Early Warning & Remote Patient Monitoring
+  Size: 60-90 | Funding: Series A $6M (State Bank of India, Gokul Rajaram)
+  Location: Remote / Bangalore
+  Career: https://dozee.io/careers | Email: mudit@dozee.io
+  Founder: Mudit Dandwate (Co-Founder & CEO)
+  Hook: Ballistocardiography sensor signal processing, continuous heart/respiration rate extraction, and ICU early warning score engines.
+
+ID 248: 5C Network
+  Website: https://5cnetwork.com
+  Sector: Cloud Radiology Network & Diagnostic Triage AI
+  Size: 45-75 | Funding: Series A $4.6M (Celesta Capital, Unitus)
+  Location: Remote / Bangalore
+  Career: https://5cnetwork.com/careers | Email: kalyan@5cnetwork.com
+  Founder: Kalyan Sivasailam (Co-Founder & CEO)
+  Hook: DICOM medical image cloud transmission protocols, automated radiologist routing algorithms, and diagnostic turnaround telemetry.
+
+ID 249: DeepTek.ai
+  Website: https://deeptek.ai
+  Sector: Medical Imaging AI & Automated Radiology Reporting
+  Size: 45-75 | Funding: Series A $3M (TATA Capital Healthcare Fund)
+  Location: Remote / Pune / Bangalore
+  Career: https://deeptek.ai/careers | Email: amit@deeptek.ai
+  Founder: Dr. Amit Kharat (Co-Founder & CEO)
+  Hook: Chest X-ray pulmonary pathology classification, CT scan brain hemorrhage detection, and automated radiology findings drafts.
+
+ID 250: Synapsica Healthcare
+  Website: https://synapsica.com
+  Sector: AI Spine & Musculoskeletal Radiology Triage
+  Size: 25-45 | Funding: Seed $4.2M (Y Combinator, IvyCap Ventures)
+  Location: Remote / New Delhi / Bangalore
+  Career: https://synapsica.com/careers | Email: meenakshi@synapsica.com
+  Founder: Dr. Meenakshi Singh (Co-Founder & CEO)
+  Hook: Spine vertebrae and disc degeneration automated measurement algorithms, vertebral listhesis detection, and PACS web viewer.
+
+ID 251: Niramai
+  Website: https://niramai.com
+  Sector: Thermalytix Non-Invasive AI Breast Cancer Screening
+  Size: 30-55 | Funding: Seed $6M (Dream Incubator, Beenext, Ankur)
+  Location: Remote / Bangalore
+  Career: https://niramai.com/careers | Email: geetha@niramai.com
+  Founder: Dr. Geetha Manjunath (Founder & CEO)
+  Hook: High-resolution thermal imaging pattern analysis, automated vascular asymmetry detection, and portable diagnostic kit sync.
+
+ID 252: Wysa
+  Website: https://wysa.io
+  Sector: AI Conversational Mental Health & Cognitive Therapy Bot
+  Size: 60-90 | Funding: Series B $20M (HealthQuad, British International)
+  Location: Remote / Bangalore
+  Career: https://wysa.io/careers | Email: ramakant@wysa.io
+  Founder: Ramakant Vempati (Co-Founder & CEO)
+  Hook: Evidence-based cognitive behavioral therapy dialogue flows, clinical crisis detection heuristics, and privacy-first user state encryption.
+
+ID 253: BrainSightAI
+  Website: https://brainsightai.com
+  Sector: AI Neuroimaging & Whole-Brain Connectome Diagnostics
+  Size: 15-30 | Funding: Seed $1.2M (Indian Angel Network, Stanford)
+  Location: Remote / Bangalore
+  Career: https://brainsightai.com/careers | Email: laina@brainsightai.com
+  Founder: Laina Emmanuel (Co-Founder & CEO)
+  Hook: Functional MRI brain functional connectivity graphs, neuro-oncology pre-surgical planning 3D rendering, and psychiatric biomarkers.
+
+ID 254: Predible Health
+  Website: https://prediblehealth.com
+  Sector: AI Deep Learning for Pulmonary & Thoracic Radiology
+  Size: 15-30 | Funding: Seed $1M (Indian angel syndicates)
+  Location: Remote / Bangalore
+  Career: https://prediblehealth.com/careers | Email: srikrishna@prediblehealth.com
+  Founder: Srikrishna Ramamoorthy (Co-Founder)
+  Hook: Lung nodule detection and volumetric growth tracking over sequential CT scans, COPD airway quantification, and cloud viewer.
+
+ID 255: Stanplus (Red.Health)
+  Website: https://red.health
+  Sector: Emergency Medical Dispatch AI & Ambulance Fleet Network
+  Size: 75-100 | Funding: Series A $20M (HealthQuad)
+  Location: Remote / Hyderabad / Delhi-NCR
+  Career: https://red.health/careers | Email: prabhdeep@red.health
+  Founder: Prabhdeep Singh (Founder & CEO)
+  Hook: Sub-15 minute emergency response dispatch algorithms, live hospital bed occupancy sync, and paramedic telemetry integration.
+
+ID 256: Otipy (Crofarm)
+  Website: https://www.otipy.com
+  Sector: Fresh Produce Supply Chain & Demand Forecasting AI
+  Size: 75-100 | Funding: Series B $32M (WestBridge Capital, SIG Venture Capital)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.otipy.com/careers | Email: varun@crofarm.com
+  Founder: Varun Khurana (Founder & CEO)
+  Hook: Building predictive demand-forecasting microservices, inventory perishable decay models, and high-throughput dispatch APIs in FastAPI.
+
+ID 257: Agrim
+  Website: https://agrim.app
+  Sector: B2B Agri-Inputs Marketplace & Rural Commerce Platform
+  Size: 65-90 | Funding: Series A $10M (Kalaari Capital, Omnivore)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://agrim.zohorecruit.in/jobs/Careers | Email: mukul@agrim.app
+  Founder: Mukul Garg (Co-Founder & CEO)
+  Hook: Architecting B2B agri-dealer ordering portals, vernacular catalog search indexes, and resilient offline-first mobile sync backends.
+
+ID 258: AquaExchange
+  Website: https://aquaexchange.com
+  Sector: Aquaculture IoT Telematics & Farm Automation Fintech
+  Size: 45-75 | Funding: Series A $6M (Ocean 14 Capital, Endiya Partners)
+  Location: Remote / Vijayawada / Delhi-NCR friendly
+  Career: https://aquaexchange.com | Email: pavan@aquaexchange.com
+  Founder: Pavan Kosaraju (Founder & CEO)
+  Hook: Streaming sensor telemetry from IoT aerators into time-series pipelines, power failover alerts, and credit risk scoring algorithms.
+
+ID 259: Locad
+  Website: https://golocad.com
+  Sector: Distributed E-Commerce Fulfillment & Cloud Logistics Engine
+  Size: 60-90 | Funding: Series B $9M (Global Ventures, Reefknot Investments)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://golocad.com/careers/ | Email: shrey@golocad.com
+  Founder: Shrey Jain (Co-Founder & CTO)
+  Hook: Developing distributed multi-warehouse routing engines, carrier rate optimization microservices, and live order tracking webhooks.
+
+ID 260: Increff
+  Website: https://www.increff.com
+  Sector: Enterprise Inventory Optimization & Merchandising Intelligence
+  Size: 75-100 | Funding: Series A $12M (TVS Capital Funds, Premji Invest)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.increff.com/careers | Email: rajul@increff.com
+  Founder: Rajul Jain (Co-Founder & CEO)
+  Hook: Building markdown pricing optimization models, warehouse SKU allocation graphs, and low-latency inventory sync in FastAPI.
+
+ID 261: Pazo
+  Website: https://www.gopazo.com
+  Sector: Visual Operational Intelligence & Deskless Workforce Workflows
+  Size: 25-45 | Funding: Seed $1.2M (Prominent enterprise SaaS angels)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.gopazo.com | Email: ofresh@gopazo.com
+  Founder: Ofresh George (Founder & CEO)
+  Hook: Designing interactive store audit checklists, computer vision SOP verification modules, and real-time incident resolution boards in Next.js.
+
+ID 262: SingleInterface
+  Website: https://www.singleinterface.com
+  Sector: Hyperlocal Retail Marketing & Storefront Automation Platform
+  Size: 60-90 | Funding: Series A $30M (Asia Partners, PayPal Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.singleinterface.com/careers/ | Email: tarun@singleinterface.com
+  Founder: Tarun Sobhani (Co-Founder & CEO)
+  Hook: Automating multi-location SEO schema injection, Google My Business review response AI agents, and localized inventory feeds.
+
+ID 263: Bik.ai
+  Website: https://www.bik.ai
+  Sector: Conversational Commerce & WhatsApp Marketing Automation
+  Size: 30-55 | Funding: Seed $1.3M (Tsingyuan Ventures, prominent consumer angels)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.instahyre.com/jobs-at-bik-ai/ | Email: sonakshi@bik.ai
+  Founder: Sonakshi Nathani (Co-Founder & CEO)
+  Hook: Building WhatsApp commerce flow orchestrators, automated abandoned-cart recovery agents, and high-concurrency webhook parsers.
+
+ID 264: QuickSell
+  Website: https://quicksell.co
+  Sector: Mobile Catalog Commerce & B2B Wholesale Ordering SaaS
+  Size: 20-40 | Funding: Seed $2M (Info Edge Ventures, Silicon Valley angels)
+  Location: Remote / Mumbai / Delhi-NCR friendly
+  Career: https://quicksell.co | Email: deepak@quicksell.co
+  Founder: Deepak Bhagchandani (Founder & CEO)
+  Hook: Developing dynamic visual digital catalogs, multi-currency price tier engines, and real-time WhatsApp order generation microservices.
+
+ID 265: Flash.co
+  Website: https://flash.co
+  Sector: Smart Shopping Email & Post-Purchase AI Platform
+  Size: 35-60 | Funding: Series A $12.5M (Matrix Partners India / Z47, PeerCapital)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://flash.co | Email: ranjeet@flash.co
+  Founder: Ranjeet Singh (Founder & CEO)
+  Hook: Building custom inbox parsing engines for e-commerce receipts, order delivery tracking microservices, and personalized product recommendations.
+
+ID 266: CityMall
+  Website: https://citymall.live
+  Sector: Social Commerce for Tier 2/3 Cities & Vernacular Ordering
+  Size: 75-100 | Funding: Series B $75M (Norwest Venture Partners, Elevation Capital)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://citymall.live | Email: angad@citymall.live
+  Founder: Angad Kikla (Co-Founder & CEO)
+  Hook: Developing community leader distribution networks, vernacular voice search ordering, and localized route planning for suburban clusters.
+
+ID 267: Kiko Live
+  Website: https://kiko.live
+  Sector: Quick Commerce Enablement & ONDC Storefronts for Retailers
+  Size: 20-45 | Funding: Pre-Series A $1.5M (SOSV, Venture Catalysts)
+  Location: Remote / Mumbai / Delhi-NCR friendly
+  Career: https://kiko.live | Email: alok@kikolive.com
+  Founder: Alok Chawla (Co-Founder & CEO)
+  Hook: Integrating ONDC buyer and seller protocol adapters, sub-30-minute hyper-local delivery dispatch, and kirana catalog digitization.
+
+ID 268: Biddano
+  Website: https://biddano.com
+  Sector: B2B Healthcare & Pharma Logistics Fulfillment Platform
+  Size: 45-75 | Funding: Pre-Series A $2M (Gokul Rajaram, angel syndicates)
+  Location: Remote / Pune / Delhi-NCR friendly
+  Career: https://biddano.com | Email: talha@biddano.com
+  Founder: Talha Shaikh (Co-Founder & CEO)
+  Hook: Optimizing temperature-controlled pharmaceutical dispatch algorithms, pharmacy order aggregation, and dynamic multi-depot fleet allocation.
+
+ID 269: Procol
+  Website: https://www.procol.ai
+  Sector: Enterprise Procurement Management & Reverse Auction Platform
+  Size: 40-70 | Funding: Series A $6.5M (Blume Ventures, Peak XV Surge)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.procol.ai/careers | Email: gaurav@procol.in
+  Founder: Gaurav Baheti (Founder & CEO)
+  Hook: Building real-time English/Dutch reverse auction bidding engines, vendor proposal evaluation RAG agents, and ERP contract connectors.
+
+ID 270: Geniemode
+  Website: https://www.geniemode.com
+  Sector: B2B Cross-Border Sourcing & Supply Chain for Home & Fashion
+  Size: 70-95 | Funding: Series B $28M (Tiger Global, Info Edge Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.geniemode.com/careers | Email: amit@geniemode.com
+  Founder: Amit Sharma (Co-Founder & CEO)
+  Hook: Designing supplier compliance verification pipelines, automated cross-border customs doc generation, and international trade tracking.
+
+ID 271: Bijnis
+  Website: https://www.bijnis.com
+  Sector: B2B Smart Manufacturing Platform for Footwear & Apparel
+  Size: 65-95 | Funding: Series B $30M (Westbridge, Info Edge, Matrix Partners)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://www.bijnis.com/careers | Email: siddharth@bijnis.com
+  Founder: Siddharth Vij (Co-Founder & CEO)
+  Hook: Implementing factory production floor telemetry, material yield optimization algorithms, and wholesale retailer re-ordering apps.
+
+ID 272: Rupifi
+  Website: https://www.rupifi.com
+  Sector: B2B Embedded Lending & Commercial Credit Checkout APIs
+  Size: 50-80 | Funding: Series A $25M (Bessemar Venture Partners, Tiger Global)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.rupifi.com/careers | Email: anubhav@rupifi.com
+  Founder: Anubhav Jain (Co-Founder & CEO)
+  Hook: Developing real-time credit underwriting decision engines, merchant invoice factoring APIs, and automated loan repayment webhooks.
+
+ID 273: PayGlocal
+  Website: https://payglocal.in
+  Sector: Cross-Border Payment Gateway & Global Merchant Acquiring
+  Size: 35-65 | Funding: Series B $12M (Tiger Global, Peak XV Surge)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://payglocal.in | Email: prachi@payglocal.in
+  Founder: Prachi Dharani (Co-Founder & CEO)
+  Hook: Building low-latency international transaction routing gateways, currency conversion hedging engines, and PCI-DSS tokenization vaults.
+
+ID 274: Bimaplan
+  Website: https://www.bimaplan.com
+  Sector: Embedded Micro-Insurance Infrastructure & Financial APIs
+  Size: 30-55 | Funding: Seed $3.5M (Y Combinator, 2am VC, Fin VC)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.bimaplan.com | Email: vikul@bimaplan.com
+  Founder: Vikul Goyal (Founder & CEO)
+  Hook: Constructing modular insurance policy issuance APIs, automated claim processing pipelines, and bite-sized sachet insurance checkout SDKs.
+
+ID 275: Finsire
+  Website: https://www.finsire.com
+  Sector: Asset-Backed Lending Infrastructure & Collateral APIs
+  Size: 15-30 | Funding: Seed $1.3M (DevX Venture Fund, angel investors)
+  Location: Remote / Chennai / Delhi-NCR friendly
+  Career: https://www.finsire.com | Email: shrayvats@finsire.com
+  Founder: Shrayvats Swarup (Co-Founder & CEO)
+  Hook: Building real-time mutual fund and equity lien marking integrations with depositories (NSDL/CDSL) and loan origination microservices.
+
+ID 276: Card91
+  Website: https://www.card91.io
+  Sector: Card Issuance-as-a-Service & Corporate Expense Infrastructure
+  Size: 25-45 | Funding: Seed $2M (Infinity Ventures, prominent fintech angels)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.card91.io | Email: ajay@card91.io
+  Founder: Ajay Pandey (Co-Founder & CEO)
+  Hook: Designing programmable virtual prepaid card controls, dynamic merchant spending limit rules, and ISO 8583 payment switch integrations.
+
+ID 277: Climes.io
+  Website: https://climes.io
+  Sector: Climate Fintech & Carbon Calculation APIs for Checkout
+  Size: 20-40 | Funding: Seed $1.2M (Peak XV Surge, Kalaari Capital)
+  Location: Delhi-NCR (Delhi/Gurgaon) / Hybrid
+  Career: https://climes.io | Email: anirudh@climes.io
+  Founder: Anirudh Gupta (Co-Founder & CEO)
+  Hook: Integrating real-time flight and e-commerce cart carbon footprint estimators, API carbon credit retirement ledgers, and consumer climate widgets.
+
+ID 278: Loopify
+  Website: https://www.loopify.world
+  Sector: Sustainable Packaging & Enterprise Carbon Accounting Platform
+  Size: 15-30 | Funding: Seed $1M (Indian angel networks & ESG funds)
+  Location: Remote / Mumbai / Delhi-NCR friendly
+  Career: https://www.loopify.world | Email: hemant@loopify.world
+  Founder: Hemant Chandwandkar (Co-Founder & CEO)
+  Hook: Creating plastic-free packaging lifecycle impact trackers, corporate ESG gift procurement portals, and sustainability audit reporting backends.
+
+ID 279: Breathe ESG
+  Website: https://breatheesg.com
+  Sector: Enterprise ESG Reporting & Scope 1-3 Sustainability SaaS
+  Size: 15-30 | Funding: Seed $1M (Prominent institutional seed funds)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://breatheesg.com | Email: kamesh@breatheesg.com
+  Founder: Kamesh Ravichandran (Founder & CEO)
+  Hook: Architecting automated Scope 1, 2, and 3 emission ledger calculations, BRSR compliance report generators, and supplier survey portals.
+
+ID 280: Ecolibrium
+  Website: https://www.ecolibrium.io
+  Sector: Industrial Machine Intelligence & Predictive Maintenance AI
+  Size: 45-75 | Funding: Series A $5M (Swordfish Investments, Infuse Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.ecolibrium.io/careers | Email: chintan@ecolibrium.io
+  Founder: Chintan Soni (Co-Founder & CEO)
+  Hook: Developing machine learning anomaly detection on high-frequency motor vibration data, thermal sensor streams, and plant energy dashboards.
+
+ID 281: Infinite Uptime
+  Website: https://www.infinite-uptime.com
+  Sector: Digital Industrial Diagnostics & Vibration Analytics AI
+  Size: 70-100 | Funding: Series B $19M (Tiger Global, GSR Ventures)
+  Location: Remote / Pune / Delhi-NCR friendly
+  Career: https://www.infinite-uptime.com/careers/ | Email: raunak@infinite-uptime.com
+  Founder: Raunak Bhinge (Founder & CEO)
+  Hook: Processing real-time triaxial vibration acoustic waveforms, early bearing fault detection models, and edge inference gateways.
+
+ID 282: VoltUp
+  Website: https://voltup.in
+  Sector: EV Battery Swapping Infrastructure & Smart Mobility Network
+  Size: 35-60 | Funding: Seed $2M (AdvantEdge, prominent clean mobility angels)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://voltup.in | Email: siddharth@voltup.in
+  Founder: Siddharth Kabra (Co-Founder & CEO)
+  Hook: Developing battery swap station IoT telematics, state-of-health tracking algorithms, and driver mobile app fast checkout.
+
+ID 283: MoEVing
+  Website: https://moeving.com
+  Sector: Commercial Electric Fleet Telematics & Charging Management
+  Size: 45-75 | Funding: Series A $5M (Beyond Capital, Stride Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://moeving.com | Email: vikas@moeving.com
+  Founder: Vikas Mishra (Founder & CEO)
+  Hook: Building real-time EV fleet routing engines, battery state-of-charge prediction models, and commercial charging hub reservation APIs.
+
+ID 284: Statiq
+  Website: https://www.statiq.in
+  Sector: EV Charging Station Network & IoT Charger Cloud Management
+  Size: 45-75 | Funding: Series A $25M (Shell Ventures, Y Combinator W20)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.statiq.in | Email: akshit@statiq.in
+  Founder: Akshit Bansal (Co-Founder & CEO)
+  Hook: Implementing OCPP 1.6/2.0 protocol websocket handlers, automated charger billing gateways, and highway smart route charging planners.
+
+ID 285: River Mobility
+  Website: https://www.riverind.com
+  Sector: Electric Utility Scooters & Connected IoT Vehicle Telematics
+  Size: 70-95 | Funding: Series B $40M (Yamaha Motor, Mitsui & Co, Lowercarbon)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.riverind.com/careers | Email: aravind@riverind.com
+  Founder: Aravind Mani (Co-Founder & CEO)
+  Hook: Building scooter CAN-bus vehicle telematics data ingestion, over-the-air firmware update pipelines, and mobile companion app microservices.
+
+ID 286: KalaGato
+  Website: https://kalagato.co
+  Sector: Automated Mobile App Ecosystem Intelligence & Consumer Insights AI
+  Size: 20-35 | Funding: Seed $4M (9Unicorns, Village Global)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://kalagato.co | Email: aman@kalagato.co
+  Founder: Aman Kumar (Founder & CEO)
+  Hook: Processing billions of anonymized mobile behavioral signals, automated consumer cohort segmentation, and interactive Next.js data portals.
+
+ID 287: Tagalys
+  Website: https://tagalys.com
+  Sector: E-Commerce Visual Merchandising & Automated Product Sorting AI
+  Size: 20-35 | Funding: Pre-Series A $1M (Indian angel networks & seed funds)
+  Location: Remote / Chennai / Delhi-NCR friendly
+  Career: https://tagalys.com | Email: antony@tagalys.com
+  Founder: Antony Kattukaran (Founder & CEO)
+  Hook: Building real-time product conversion scoring algorithms, automated visual grid merchandiser tools, and low-latency catalog search APIs.
+
+ID 288: Zippee
+  Website: https://www.zippee.delivery
+  Sector: Same-Day Delivery & Dark-Store Fulfillment for D2C Brands
+  Size: 25-50 | Funding: Seed $2M (Haldiram's Family Office, prominent D2C angels)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.zippee.delivery | Email: madhav@zippee.delivery
+  Founder: Madhav Kasturia (Founder & CEO)
+  Hook: Architecting micro-dark store inventory replenishment triggers, rider allocation graphs, and sub-2-hour D2C delivery tracking APIs.
+
+ID 289: Tartan
+  Website: https://www.tartaninvestments.com
+  Sector: Income Verification & Real-Time Payroll Data Infrastructure
+  Size: 25-45 | Funding: Seed $4.5M (500 Global, InfoEdge Ventures)
+  Location: Delhi-NCR (Gurgaon) / Bangalore / Remote
+  Career: https://www.tartaninvestments.com | Email: prateek@tartaninvestments.com
+  Founder: Prateek Baseganni (Co-Founder & CEO)
+  Hook: Building secure payroll system scrapers, automated payslip OCR extraction pipelines, and employment verification APIs for lenders.
+
+ID 290: Fold
+  Website: https://fold.money
+  Sector: AI Personal Finance & Intelligent Banking Canvas
+  Size: 15-30 | Funding: Seed $1.5M (Prominent fintech founders & angels)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://fold.money | Email: puneet@fold.money
+  Founder: Puneet Kumar (Founder & CEO)
+  Hook: Developing Account Aggregator financial telemetry parsers, LLM personal budget copilot agents, and sleek Next.js financial canvas interfaces.
+
+ID 291: Hyperface
+  Website: https://hyperface.co
+  Sector: Card Issuance APIs & Financial Infrastructure Platform
+  Size: 30-55 | Funding: Seed $9M (3one4 Capital, Flipkart Ventures)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://hyperface.co/careers | Email: ramanathan@hyperface.co
+  Founder: Ramanathan RV (Co-Founder & CEO)
+  Hook: Architecting credit card lifecycle state machines, programmable transaction authorization hooks, and core banking ledger connectors.
+
+ID 292: Zenskar
+  Website: https://www.zenskar.com
+  Sector: SaaS Billing & Usage-Based Pricing Calculation Engine
+  Size: 20-40 | Funding: Seed $3.5M (Bessemer Venture Partners, Shine Capital)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.zenskar.com/careers | Email: apurv@zenskar.com
+  Founder: Apurv Bansal (Co-Founder & CEO)
+  Hook: Implementing real-time high-throughput meter event ingestion, complex contractual tier rating engines, and automated invoice reconciliation.
+
+ID 293: Everstage
+  Website: https://www.everstage.com
+  Sector: Sales Commission Automation & Incentive Compensation SaaS
+  Size: 70-95 | Funding: Series B $30M (Eight Roads Ventures, 3one4 Capital)
+  Location: Fully Remote (India) / Chennai / Delhi-NCR friendly
+  Career: https://www.everstage.com/careers | Email: siva@everstage.com
+  Founder: Siva Rajamani (Co-Founder & CEO)
+  Hook: Building dynamic sales commission calculation graphs, CRM quota attainment pipelines, and interactive earnings gamification dashboards.
+
+ID 294: Fibr.ai
+  Website: https://fibr.ai
+  Sector: Personalized AI Landing Pages & Ad Conversion Engine
+  Size: 15-30 | Funding: Seed $1.8M (Accel, prominent marketing tech angels)
+  Location: Delhi-NCR (Gurgaon) / Remote
+  Career: https://fibr.ai | Email: ankur@fibr.ai
+  Founder: Ankur Pandey (Co-Founder & CEO)
+  Hook: Developing dynamic Next.js edge landing page variants, real-time ad keyword audience personalization, and automated A/B conversion optimizers.
+
+ID 295: Bureau.id
+  Website: https://www.bureau.id
+  Sector: AI Identity Verification & Fraud Intelligence Platform
+  Size: 50-80 | Funding: Series A $16M (Quona Capital, Commerce Ventures)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://www.bureau.id/careers | Email: ranjan@bureau.id
+  Founder: Ranjan Reddy (Founder & CEO)
+  Hook: Building device fingerprinting fraud models, real-time behavioral bot detection microservices, and automated KYC liveness checks.
+
+ID 296: Syntizen
+  Website: https://syntizen.com
+  Sector: Aadhaar Biometrics & Digital Identity Verification Infrastructure
+  Size: 30-55 | Funding: Pre-Series A $1.5M (Mastercard, prominent fintech funds)
+  Location: Remote / Hyderabad / Delhi-NCR friendly
+  Career: https://syntizen.com | Email: siddharth@syntizen.com
+  Founder: Siddharth Kukatlapalli (Co-Founder & CEO)
+  Hook: Integrating UIDAI Aadhaar e-KYC and e-Sign microservices, facial video match algorithms, and tamper-proof digital verification pipelines.
+
+ID 297: FidyPay
+  Website: https://fidypay.com
+  Sector: Financial Inclusion APIs & Real-Time UPI Infrastructure
+  Size: 25-45 | Funding: Seed $1.5M (Prominent fintech angel networks)
+  Location: Remote / Indore / Delhi-NCR friendly
+  Career: https://fidypay.com | Email: manan@fidypay.com
+  Founder: Manan Dixit (Founder & CEO)
+  Hook: Developing offline soundbox payment notifications, Bharat Bill Payment System (BBPS) aggregator switches, and UPI AutoPay microservices.
+
+ID 298: MonsterAPI
+  Website: https://monsterapi.ai
+  Sector: Decentralized GPU Cloud & LLM Fine-Tuning Infrastructure
+  Size: 20-40 | Funding: Seed $2M (Prominent AI compute angels)
+  Location: Delhi-NCR (Noida) / Fully Remote
+  Career: https://monsterapi.ai | Email: saurabh@monsterapi.ai
+  Founder: Saurabh Vij (Founder & CEO)
+  Hook: Optimizing LoRA/QLoRA fine-tuning job schedulers across distributed GPU clusters, vLLM inference endpoints, and developer API telemetry.
+
+ID 299: Avesha
+  Website: https://avesha.io
+  Sector: AI Cloud Networking & GPU Workload Slicing Platform
+  Size: 20-40 | Funding: Seed $4M (Prominent cloud infrastructure funds)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://avesha.io | Email: raj@avesha.io
+  Founder: Raj Nair (Founder & CEO)
+  Hook: Developing Kubernetes GPU resource scheduling plugins, multi-cloud model inference mesh networking, and edge AI orchestration layers.
+
+ID 300: Cynlr
+  Website: https://www.cynlr.com
+  Sector: Visual Robot Intelligence & Object Manipulation Platform
+  Size: 30-55 | Funding: Pre-Series A $4.5M (Special Invest, InfoEdge Ventures)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.cynlr.com | Email: gokul@cynlr.com
+  Founder: Gokul N A (Co-Founder & CEO)
+  Hook: Developing robotic visual depth perception algorithms, real-time kinematic arm motion planning, and factory assembly pick-and-place pipelines.
+
+ID 301: Voiro
+  Website: https://voiro.com
+  Sector: AdTech Intelligence & Media Revenue Automation SaaS
+  Size: 30-55 | Funding: Pre-Series A $2.5M (1Crowd, prominent media angels)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://voiro.com/careers/ | Email: kavita@voiro.com
+  Founder: Kavita Shenoy (Founder & CEO)
+  Hook: Building OTT live ad inventory yield optimizers, program billing reconciliation pipelines, and programmatic ad pacing analytics in FastAPI.
+
+ID 302: Spacenos
+  Website: https://spacenos.com
+  Sector: Autonomous AI FinTech & Conversational Banking Interfaces
+  Size: 20-40 | Funding: Seed $1.5M (Institutional seed & financial angels)
+  Location: Delhi-NCR (Noida) / Remote
+  Career: https://spacenos.com | Email: ayush@spacenos.com
+  Founder: Ayush Singhal (Founder & CEO)
+  Hook: Developing conversational banking AI assistants, intent-routing LLM pipelines, and secure transaction confirmation flows.
+
+ID 303: Credgenics
+  Website: https://www.credgenics.com
+  Sector: AI Debt Resolution & Legal Automation Platform
+  Size: 75-100 | Funding: Series B $50M (Westbridge Capital, Accel, Tanglin)
+  Location: Delhi-NCR (Noida) / Hybrid Remote
+  Career: https://www.credgenics.com/careers/ | Email: rishabh@credgenics.com
+  Founder: Rishabh Goel (Co-Founder & CEO)
+  Hook: Building borrower repayment propensity predictive models, automated legal notice generation workflows, and omnichannel communication queues.
+
+ID 304: BlueSky Analytics
+  Website: https://blueskyhq.in
+  Sector: Climate Data Intelligence & Satellite AI Analytics
+  Size: 20-40 | Funding: Seed $2M (Beenext, Rainmatter Capital)
+  Location: Delhi-NCR (Gurgaon) / Remote
+  Career: https://blueskyhq.in | Email: abhishek@blueskyhq.in
+  Founder: Abhishek Agarwal (Co-Founder & CEO)
+  Hook: Processing satellite hyperspectral earth observation imagery for wild-fire and emission tracking, geospatial indexing, and climate risk APIs.
+
+ID 305: SuperKalam
+  Website: https://kalam.in
+  Sector: Personalized AI Mentor for Competitive Exams & EdTech
+  Size: 15-30 | Funding: Seed $2M (Y Combinator, prominent education angels)
+  Location: Delhi-NCR (Delhi/Noida) / Remote
+  Career: https://kalam.in | Email: vimal@kalam.in
+  Founder: Vimal Singh Rathore (Co-Founder & CEO)
+  Hook: Building adaptive student mastery knowledge graphs, personalized UPSC test question generation RAG pipelines, and conversational voice tutoring.
+
+ID 306: HexaHealth
+  Website: https://www.hexahealth.com
+  Sector: AI Surgery Care Concierge & Hospital Navigation Platform
+  Size: 55-85 | Funding: Seed $4.5M (Oommen Vadaketh, prominent healthcare angels)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.hexahealth.com/careers | Email: vikas@hexahealth.com
+  Founder: Vikas Chauhan (Co-Founder & CEO)
+  Hook: Building surgical recommendation matching algorithms, patient EHR clinical summarization pipelines, and real-time hospital bed discovery backends.
+
+ID 307: Eka Care
+  Website: https://www.eka.care
+  Sector: AI Electronic Medical Records & ABHA Health Locker
+  Size: 65-95 | Funding: Series A $15M (Hummingbird Ventures, 3one4 Capital)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://www.eka.care/careers | Email: vikalp@eka.care
+  Founder: Vikalp Sahni (Founder & CEO)
+  Hook: Developing ABDM/ABHA unified healthcare record sync APIs, prescription NLP entity extraction pipelines, and doctor EMR web interfaces in Next.js.
+
+ID 308: Medulance
+  Website: https://medulance.com
+  Sector: AI Emergency Dispatch & Smart 5G Ambulance Network
+  Size: 50-80 | Funding: Series A $3M (Alkemi Growth Capital)
+  Location: Delhi-NCR (Delhi/Noida) / Hybrid
+  Career: https://medulance.com | Email: ravjot@medulance.com
+  Founder: Ravjot Singh Arora (Co-Founder & CEO)
+  Hook: Implementing real-time GPS ambulance dispatch routing algorithms, 5G telemetry vital transmission streams, and emergency hospital ER intake dashboards.
+
+ID 309: Janitri
+  Website: https://janitri.in
+  Sector: AI Fetal & Maternal Healthcare Monitoring Hardware & Cloud
+  Size: 30-55 | Funding: Pre-Series A $1.5M (SIDBI, angel investors)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://janitri.in | Email: arun@janitri.in
+  Founder: Arun Agarwal (Founder & CEO)
+  Hook: Developing real-time fetal heart rate acoustic signal processing, labor contraction pattern classification models, and nurse mobile alert webhooks.
+
+ID 310: Curebay
+  Website: https://curebay.com
+  Sector: Hybrid Rural Healthcare & AI Telemedicine E-Clinics
+  Size: 65-95 | Funding: Series A $7.5M (Elevar Equity)
+  Location: Delhi-NCR / Bhubaneswar / Remote
+  Career: https://curebay.com/careers | Email: priyadarshee@curebay.com
+  Founder: Priyadarshee Mohapatra (Founder & CEO)
+  Hook: Architecting low-bandwidth telemedicine video streaming gateways, automated rural pharmacy dispensing ledgers, and lab test booking APIs.
+
+ID 311: Ultrahuman
+  Website: https://www.ultrahuman.com
+  Sector: Metabolic Health Ring & Biomarker Intelligence Cloud
+  Size: 70-95 | Funding: Series B $35M (Blume Ventures, Steadview Capital)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.ultrahuman.com/careers | Email: mohit@ultrahuman.com
+  Founder: Mohit Kumar (Founder & CEO)
+  Hook: Streaming PPG optical biometric timeseries data, sleep circadian rhythm classification algorithms, and metabolic score sync microservices in FastAPI.
+
+ID 312: Sugar.fit
+  Website: https://www.sugarfit.com
+  Sector: Continuous Glucose AI & Diabetes Reversal HealthTech
+  Size: 55-85 | Funding: Series A $11M (MassMutual Ventures, Cure.fit / Cult.fit)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.sugarfit.com | Email: madan@sugarfit.com
+  Founder: Madan Somasundaram (Co-Founder & CEO)
+  Hook: Developing real-time CGM glucose spike prediction algorithms, computer vision meal photo carbohydrate estimation, and habit coaching agents.
+
+ID 313: Orange Health
+  Website: https://www.orangehealth.in
+  Sector: On-Demand 60-Minute Diagnostic Lab Cloud & Phlebotomy
+  Size: 70-100 | Funding: Series B $25M (General Catalyst, Bertelsmann India)
+  Location: Delhi-NCR (Gurgaon) / Bangalore
+  Career: https://www.orangehealth.in/careers | Email: dhruv@orangehealth.in
+  Founder: Dhruv Gupta (Co-Founder & CEO)
+  Hook: Building automated phlebotomist geographic dispatch engines, smart temperature-controlled sample batching, and automated lab analyzer LIMS connectors.
+
+ID 314: Doceree
+  Website: https://doceree.com
+  Sector: Programmatic Healthcare Marketing & AI Identity Platform
+  Size: 60-90 | Funding: Series B $35M (Creaegis, Eight Roads Ventures)
+  Location: Delhi-NCR (Noida) / Hybrid Remote
+  Career: https://doceree.com/careers/ | Email: harshit@doceree.com
+  Founder: Dr. Harshit Jain (Founder & CEO)
+  Hook: Constructing physician identity resolution graphs (NPI/MCI verification), real-time programmatic ad bid evaluators, and HIPAA compliance filters.
+
+ID 315: ClaimBuddy
+  Website: https://claimbuddy.in
+  Sector: Hospital Health Insurance Claim Processing AI
+  Size: 45-75 | Funding: Series A $5M (Bharat Innovation Fund, Chiratae Ventures)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://claimbuddy.in | Email: khet@claimbuddy.in
+  Founder: Khet Singh (Co-Founder & CEO)
+  Hook: Developing medical bill optical parsing engines, insurance policy deduction adjudication rules, and hospital desk cashless claim portals.
+
+ID 316: Vital
+  Website: https://www.getvital.in
+  Sector: Personalized Health Coverage & Wellness Rewards Platform
+  Size: 25-45 | Funding: Seed $3M (BLinC Invest, Venture Catalysts)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.getvital.in | Email: rahul@getvital.in
+  Founder: Rahul Harkisanka (Co-Founder & CEO)
+  Hook: Building dynamic health policy underwriting models, biometric step/exercise reward calculation pipelines, and OPD reimbursement webhooks.
+
+ID 317: Clinikk
+  Website: https://clinikk.com
+  Sector: Primary Care Health Subscriptions & Outpatient Care Clinics
+  Size: 45-75 | Funding: Series A $4M (MassMutual Ventures, Times Internet)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://clinikk.com | Email: suraj@clinikk.com
+  Founder: Dr. Suraj Baliga (Co-Founder & CEO)
+  Hook: Designing integrated electronic health consultation portals, medicine delivery fulfillment queues, and preventive health screening workflows.
+
+ID 318: Fitelo
+  Website: https://fitelo.co
+  Sector: AI-Driven Personalized Weight Management & Wellness Care
+  Size: 60-90 | Funding: Series A $5M (CareCapital, angel syndicates)
+  Location: Delhi-NCR (Chandigarh/Delhi) / Hybrid
+  Career: https://fitelo.co/careers/ | Email: sahil@fitelo.co
+  Founder: Sahil Bansal (Co-Founder & CEO)
+  Hook: Building natural language diet log analyzers, personalized nutrient macro meal plan generators, and automated lifestyle habit adherence models.
+
+ID 319: Fitterfly
+  Website: https://www.fitterfly.com
+  Sector: Digital Therapeutics for Diabetes & Metabolic Condition Care
+  Size: 65-95 | Funding: Series A $12M (Amazon Smbhav Venture Fund, Fireside)
+  Location: Remote / Mumbai / Delhi-NCR friendly
+  Career: https://www.fitterfly.com/careers | Email: arbinder@fitterfly.com
+  Founder: Dr. Arbinder Singal (Co-Founder & CEO)
+  Hook: Implementing glycemic index food prediction models, clinical milestone tracking engines, and doctor-patient telehealth collaboration portals.
+
+ID 320: Wellthy Therapeutics
+  Website: https://www.wellthytherapeutics.com
+  Sector: Enterprise Digital Health & Prescription Therapy Applications
+  Size: 40-65 | Funding: Pre-Series A $4M (Saama Capital, prominent funds)
+  Location: Remote / Mumbai / Delhi-NCR friendly
+  Career: https://www.wellthytherapeutics.com | Email: abhishek@wellthy.care
+  Founder: Abhishek Shah (Co-Founder & CEO)
+  Hook: Architecting multi-language clinical AI chatbots, medical device Bluetooth data sync microservices, and pharma enterprise outcome reporting.
+
+ID 321: Stage
+  Website: https://stage.in
+  Sector: Dialect OTT & Regional AI Content Platform for Bharat
+  Size: 65-95 | Funding: Series A $4.8M (Blume Ventures, Inflection Point Ventures)
+  Location: Delhi-NCR (Noida) / Hybrid Remote
+  Career: https://stage.in | Email: vinay@stage.in
+  Founder: Vinay Singhal (Co-Founder & CEO)
+  Hook: Building adaptive video bit-rate streaming transcoders for Tier 2/3 networks, vernacular speech subtitle generation, and personalized recommendations.
+
+ID 322: Bolo Live
+  Website: https://bolo.live
+  Sector: Live Streaming & Vernacular Creator Engagement AI
+  Size: 30-55 | Funding: Series A $2.4M (TBN, prominent angels)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://bolo.live | Email: varun@bolo.live
+  Founder: Varun Saxena (Founder & CEO)
+  Hook: Building ultra-low latency WebRTC video broadcast channels, real-time micro-gifting transactional ledgers, and automated toxic comment moderation.
+
+ID 323: Khabri
+  Website: https://khabri.app
+  Sector: Vernacular Audio Learning & Speech Content AI Platform
+  Size: 25-50 | Funding: Seed $2.1M (Y Combinator, Liquid 2 Ventures)
+  Location: Delhi-NCR (Gurgaon/Delhi) / Remote
+  Career: https://khabri.app | Email: sandeep@khabri.app
+  Founder: Sandeep Singh (Co-Founder & CEO)
+  Hook: Developing audio voice-cloning pipelines, Hindi/vernacular automated text-to-speech synthesis, and background audio streaming microservices.
+
+ID 324: STAN
+  Website: https://getstan.app
+  Sector: Gaming Creator Community & AI Engagement Platform
+  Size: 25-45 | Funding: Seed $2.5M (General Catalyst, GFR Fund)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://getstan.app | Email: parth@getstan.app
+  Founder: Parth Chadha (Co-Founder & CEO)
+  Hook: Building real-time gaming chat websockets, digital collectible reward drops, and automated esports creator engagement leaderboards.
+
+ID 325: Rooter
+  Website: https://www.rooter.gg
+  Sector: Game Streaming & Esports Broadcasting Media Platform
+  Size: 65-95 | Funding: Series A $25M (Lightbox, March Capital)
+  Location: Delhi-NCR (New Delhi) / Hybrid
+  Career: https://www.rooter.gg | Email: piyush@rooter.gg
+  Founder: Piyush Kumar (Founder & CEO)
+  Hook: Constructing interactive live esports stream overlays, real-time viewer engagement predictions, and high-concurrency tournament brackets.
+
+ID 326: Kutumb
+  Website: https://kutumb.app
+  Sector: Community & Cultural Social Network Platform for Bharat
+  Size: 55-80 | Funding: Series A $26M (Tiger Global, Peak XV Surge)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://kutumb.app | Email: prateek@kutumb.app
+  Founder: Prateek Mohapatra (Co-Founder & CEO)
+  Hook: Building high-throughput social feed ranking pipelines, vernacular media transcoding microservices, and community moderation workflows.
+
+ID 327: Kratos Studios
+  Website: https://kratosstudios.com
+  Sector: Web3 Gaming Ecosystem & Player Identity AI Platform
+  Size: 30-55 | Funding: Seed $20M (Accel, Prosus Ventures)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://kratosstudios.com | Email: manish@kratosstudios.com
+  Founder: Manish Agarwal (Co-Founder & CEO)
+  Hook: Developing cross-game decentralized player identity graphs, automated tournament payout smart contracts, and anti-fraud bot detection.
+
+ID 328: Gamerji
+  Website: https://gamerji.com
+  Sector: Esports Tournament Engine & Skill Matchmaking AI
+  Size: 20-35 | Funding: Pre-Series A $1M (Unicorn India Ventures)
+  Location: Remote / Ahmedabad / Delhi-NCR friendly
+  Career: https://gamerji.com | Email: soham@gamerji.com
+  Founder: Soham Thacker (Founder & CEO)
+  Hook: Implementing real-time ELO skill-rating matchmaking algorithms, automated screenshot victory OCR verification, and tournament lobby rooms.
+
+ID 329: HyperGro.ai
+  Website: https://hypergro.ai
+  Sector: AI Video Advertising & UGC Creation Engine for Brands
+  Size: 15-30 | Funding: Seed $1.4M (Silverneedle Ventures, prominent angels)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://hypergro.ai | Email: prashant@hypergro.ai
+  Founder: Prashant Mathur (Co-Founder & CEO)
+  Hook: Automating viral video ad script generation via LLMs, dynamic video frame splicing, and ROAS performance analytics in FastAPI.
+
+ID 330: NeuralGarage
+  Website: https://www.neuralgarage.com
+  Sector: Generative AI Visual Dubbing & Lip Sync (VisualDub)
+  Size: 15-30 | Funding: Seed $1.45M (Exfinity Venture Partners)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.neuralgarage.com | Email: mandar@neuralgarage.com
+  Founder: Mandar Natekar (Co-Founder & CEO)
+  Hook: Building neural photorealistic lip motion re-generation models, speech phoneme-to-viseme alignment pipelines, and distributed render queues.
+
+ID 331: Ayna.ai
+  Website: https://ayna.ai
+  Sector: AI Fashion Studio & Synthetic Model Generation for E-Commerce
+  Size: 15-30 | Funding: Seed $1.5M (Inflexor Ventures, prominent retail angels)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://ayna.ai | Email: aravind@ayna.ai
+  Founder: Aravind Murthy (Co-Founder & CEO)
+  Hook: Developing controllable diffusion image inpainting models for apparel try-on, automated shadow rendering, and fast studio batch inference.
+
+ID 332: Zeko.ai
+  Website: https://zeko.ai
+  Sector: Virtual Dressing Room & 3D Fashion AI Experience
+  Size: 12-25 | Funding: Seed $1M (Indian angel networks & fashion founders)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://zeko.ai | Email: karan@zeko.ai
+  Founder: Karan Mishra (Founder & CEO)
+  Hook: Building 3D cloth drape mesh simulations, mobile camera human body measurement estimation, and interactive web virtual dressing rooms.
+
+ID 333: Kubric
+  Website: https://kubric.io
+  Sector: AI Creative Automation & Video Asset Engine for Enterprises
+  Size: 20-35 | Funding: Seed $1.5M (Peak XV Surge, prominent SaaS angels)
+  Location: Fully Remote (India) / Bangalore
+  Career: https://kubric.io | Email: krik@kubric.io
+  Founder: Krik Gonsalves (Co-Founder & CEO)
+  Hook: Automating enterprise brand template rendering, multi-aspect-ratio programmatic video generation, and distributed cloud media encoders.
+
+ID 334: Flowace
+  Website: https://flowace.ai
+  Sector: AI Workforce Analytics & Time Intelligence Platform
+  Size: 20-35 | Funding: Seed $1M (Indian angel networks & seed funds)
+  Location: Delhi-NCR (Noida) / Hybrid
+  Career: https://flowace.ai | Email: tarun@flowace.ai
+  Founder: Tarun Kumar (Co-Founder & CEO)
+  Hook: Developing automated desktop background activity trackers, productivity pattern anomaly detection, and billable hour classification models.
+
+ID 335: Knorish
+  Website: https://knorish.com
+  Sector: AI Funnels & Course Creation Platform for Creators
+  Size: 35-60 | Funding: Pre-Series A $1.5M (Pentathlon Ventures, 100X.VC)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://knorish.com/careers | Email: kinner@knorish.com
+  Founder: Kinner Sacchdev (Co-Founder & CEO)
+  Hook: Constructing generative AI course curriculum builders, automated sales landing page copywriters, and video DRM distribution microservices.
+
+ID 336: Bito.ai
+  Website: https://bito.ai
+  Sector: AI Coding Assistant & PR Review Automation Platform
+  Size: 25-45 | Funding: Seed $3.2M (Eniac Ventures, prominent engineering angels)
+  Location: Fully Remote (India) / Pune
+  Career: https://bito.ai/careers/ | Email: amar@bito.ai
+  Founder: Amar Goel (Co-Founder & CEO)
+  Hook: Developing automated AST code diff analyzers, Git hook CI/CD pull request reviewers, and code security vulnerability scanning models.
+
+ID 337: Wurkr
+  Website: https://wurkr.uk
+  Sector: Virtual AI Workspace & Spatial Collaboration Platform
+  Size: 20-40 | Funding: Seed $2M (Hindustan Media Ventures, prominent angels)
+  Location: Fully Remote (India) / Bangalore / Delhi-NCR friendly
+  Career: https://wurkr.uk | Email: annil@wurkr.uk
+  Founder: Annil Chandel (Co-Founder & CEO)
+  Hook: Building spatial audio communication rooms, interactive 2D virtual office canvas state sync via websockets, and screen share pipelines.
+
+ID 338: Skit.ai
+  Website: https://skit.ai
+  Sector: Voice AI Automation for Debt Collection & Customer Support
+  Size: 60-90 | Funding: Series B $23M (WestBridge Capital, Kalaari Capital)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://skit.ai/careers/ | Email: sourabh@skit.ai
+  Founder: Sourabh Gupta (Co-Founder & CEO)
+  Hook: Architecting low-latency duplex spoken dialog systems, telephony SIP trunk audio streamers, and multilingual debt resolution negotiation bots.
+
+ID 339: Quest Labs
+  Website: https://www.questlabs.ai
+  Sector: AI Growth & User Onboarding SDKs for Mobile and Web Apps
+  Size: 15-30 | Funding: Seed $1.5M (Y Combinator W24)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://www.questlabs.ai | Email: subhabrata@questlabs.ai
+  Founder: Subhabrata Choudhury (Founder & CEO)
+  Hook: Building embeddable React/Next.js onboarding quest widgets, user churn prediction models, and dynamic product feature guidance components.
+
+ID 340: VectorShift
+  Website: https://www.vectorshift.ai
+  Sector: AI Workflow Automation & Multi-Agent Builder Platform
+  Size: 12-25 | Funding: Seed $3M (Y Combinator W24, prominent Silicon Valley angels)
+  Location: Fully Remote (India team / Global)
+  Career: https://www.vectorshift.ai/careers | Email: albert@vectorshift.ai
+  Founder: Albert Qiu (Co-Founder & CEO)
+  Hook: Developing node-based visual drag-and-drop LLM pipeline editors, autonomous agent task execution loops, and document ingestion connectors.
+
+ID 341: Maya AI
+  Website: https://cselect.ai
+  Sector: Personalization AI for Financial Services & Banks
+  Size: 45-75 | Funding: Series A $8M (Covalent Fund, prominent institutional funds)
+  Location: Remote / Bangalore / Delhi-NCR friendly
+  Career: https://cselect.ai | Email: sundar@cselect.ai
+  Founder: Sundar Madakshira (CEO)
+  Hook: Constructing customer banking transactional taste graphs, dynamic credit card merchant offer matching, and low-latency API ranking engines.
+
+ID 342: Kaedim
+  Website: https://www.kaedim3d.com
+  Sector: AI 2D to 3D Generation for Games & Virtual Production
+  Size: 20-40 | Funding: Series A $15M (A16Z Games, Pioneer Fund)
+  Location: Fully Remote (India team / Global)
+  Career: https://www.kaedim3d.com/careers | Email: konstantina@kaedim3d.com
+  Founder: Konstantina Psoma (Founder & CEO)
+  Hook: Building neural 3D mesh reconstruction pipelines from 2D concept sketches, automated UV unwrapping tools, and game engine export plugins.
+
+ID 343: OpenPipe
+  Website: https://openpipe.ai
+  Sector: Fine-Tuning & Model Distillation Platform for Production LLMs
+  Size: 10-20 | Funding: Seed $6.7M (Costanoa Ventures, Y Combinator)
+  Location: Fully Remote (India / Global)
+  Career: https://openpipe.ai/careers | Email: kyle@openpipe.ai
+  Founder: Kyle Corbitt (Co-Founder & CEO)
+  Hook: Developing automated LLM prompt-response capture SDKs, synthetic dataset filtering pipelines, and Llama 3 model distillation benchmarking.
+
+ID 344: Dub.co
+  Website: https://dub.co
+  Sector: Open Source Link Infrastructure & Analytics for Modern Web
+  Size: 10-20 | Funding: Seed $2M (Open core investors, prominent developer angels)
+  Location: Fully Remote (India / Global)
+  Career: https://dub.co/careers | Email: steven@dub.co
+  Founder: Steven Tey (Founder & CEO)
+  Hook: Building edge link redirection handlers on Next.js / Cloudflare Workers, real-time click analytics ingestion, and geo-targeted smart links.
+
+ID 345: Leegality
+  Website: https://www.leegality.com
+  Sector: Document Infrastructure & AI Compliance for Indian Enterprises
+  Size: 65-95 | Funding: Series A $5M (IIFL, prominent domestic funds)
+  Location: Delhi-NCR (Gurgaon) / Hybrid
+  Career: https://www.leegality.com/careers | Email: prashant@leegality.com
+  Founder: Prashant Muddu (Co-Founder & CEO)
+  Hook: Automating Bharat stamp duty calculations across Indian states, Aadhaar e-sign HSM signing queues, and legal document workflow APIs.
+
+ID 346: Bluecopa
+  Website: https://bluecopa.com
+  Sector: AI Finance Operations & Intelligent Data Platform for CFOs
+  Size: 25-45 | Funding: Seed $2.3M (Blume Ventures, Chiratae Ventures)
+  Location: Remote / Hyderabad / Bangalore / Delhi-NCR friendly
+  Career: https://bluecopa.com | Email: satya@bluecopa.com
+  Founder: Satya Prakash (Co-Founder & CEO)
+  Hook: Building unified data connectors for ERPs and payment gateways, automated revenue recognition models, and conversational finance queries.
+
+ID 347: Spry
+  Website: https://www.spryhealth.com
+  Sector: AI Physical Therapy Clinic Management OS & RCM Platform
+  Size: 30-55 | Funding: Seed $7M (Two Culture Capital, Together Fund)
+  Location: Remote / Delhi-NCR / Bangalore
+  Career: https://www.spryhealth.com/careers | Email: brijraj@spryhealth.com
+  Founder: Brijraj Bhuptani (Co-Founder & CEO)
+  Hook: Developing physical therapy SOAP note clinical transcription AI, insurance claim revenue cycle scrubbers, and patient motion exercise apps.
+
+ID 348: Datafold
+  Website: https://www.datafold.com
+  Sector: Automated Data Testing & LLM Data Diffing Infrastructure
+  Size: 20-40 | Funding: Series A $22M (Amplify Partners, Y Combinator)
+  Location: Fully Remote (India / Global)
+  Career: https://www.datafold.com/careers | Email: gleb@datafold.com
+  Founder: Gleb Mezhanskiy (Founder & CEO)
+  Hook: Building cross-database data diffing algorithms, dbt CI pull request test automation bots, and data warehouse lineage graph visualizers.
+
+ID 349: Fingerprint
+  Website: https://fingerprint.com
+  Sector: Device Intelligence & Bot Detection AI for Application Security
+  Size: 65-95 | Funding: Series B $32M (Craft Ventures, Nexus Venture Partners)
+  Location: Fully Remote (India / Global)
+  Career: https://fingerprint.com/careers/ | Email: dan@fingerprint.com
+  Founder: Dan Pinto (Co-Founder & CEO)
+  Hook: Implementing 99.5% accuracy browser visitor fingerprinting signals, client-side entropy collectors, and account takeover prevention APIs.
+
+ID 350: QuestDB
+  Website: https://questdb.com
+  Sector: High-Performance Time-Series Database for AI & Market Data
+  Size: 20-40 | Funding: Series A $12M (468 Capital, Nexus VP, Y Combinator)
+  Location: Fully Remote (India / Global)
+  Career: https://questdb.com/careers/ | Email: nicolas@questdb.com
+  Founder: Nicolas Hourcard (Co-Founder & CEO)
+  Hook: Building zero-GC high-frequency time-series SQL query engines, real-time market data ingestion pipelines, and Grafana dashboard telemetry plugins.
+
+ID 351: Unstructured.io
+  Website: https://unstructured.io
+  Sector: ETL & Preprocessing for Enterprise LLM Data and Documents
+  Size: 30-55 | Funding: Series B $40M (Menlo Ventures, Databricks Ventures)
+  Location: Fully Remote (India / Global)
+  Career: https://unstructured.io/careers | Email: brian@unstructured.io
+  Founder: Brian Raymond (Founder & CEO)
+  Hook: Building multi-modal document chunking pipelines, layout-aware PDF table OCR parsing engines, and vector database ingestion connectors.
+
+ID 352: LlamaIndex
+  Website: https://www.llamaindex.ai
+  Sector: Data Framework for LLM Context Augmentation & RAG Systems
+  Size: 20-40 | Funding: Seed $8.5M (Greylock Partners, prominent AI angels)
+  Location: Fully Remote (India / Global)
+  Career: https://www.llamaindex.ai/careers | Email: jerry@llamaindex.ai
+  Founder: Jerry Liu (Co-Founder & CEO)
+  Hook: Constructing hierarchical document index structures, multi-modal query engines, and agentic tool-calling workflows in Python/TypeScript.
+
+ID 353: Baseten
+  Website: https://www.baseten.co
+  Sector: Serverless ML Model Inference & High-Performance Serving
+  Size: 30-55 | Funding: Series B $40M (IVP, Spark Capital)
+  Location: Fully Remote (India / Global)
+  Career: https://www.baseten.co/careers | Email: tuhin@baseten.co
+  Founder: Tuhin Srivastava (Co-Founder & CEO)
+  Hook: Optimizing open-source LLM container cold-start latencies with Truss, streaming inference chunking, and multi-GPU tensor parallelism.
+
+ID 354: Modal Labs
+  Website: https://modal.com
+  Sector: Serverless Cloud Compute for AI & Python Data Teams
+  Size: 20-40 | Funding: Series A $16M (Redpoint Ventures, Amplify Partners)
+  Location: Fully Remote (India / Global)
+  Career: https://modal.com/careers | Email: erik@modal.com
+  Founder: Erik Bernhardsson (Founder & CEO)
+  Hook: Building sub-second Python container initialization runtimes, distributed batch jobs orchestration, and serverless GPU queue managers.
+
+ID 355: CrewAI
+  Website: https://www.crewai.com
+  Sector: Multi-Agent Automation Framework & Collaborative AI Teams
+  Size: 10-25 | Funding: Seed $2.5M (Prominent open-source & AI angels)
+  Location: Fully Remote (India / Global)
+  Career: https://www.crewai.com/careers | Email: joao@crewai.com
+  Founder: Joao Moura (Founder & CEO)
+  Hook: Developing role-based multi-agent collaboration protocols, task delegation state machines, and Next.js live telemetry monitoring consoles.
+

@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/Kumar_Nalin_Resume_Final_Compact_v3.pdf",
+      "headers": {
+        "content-type": "application/pdf"
+      }
+    },
+    {
+      "src": "/resume",
+      "dest": "/Kumar_Nalin_Resume_Final_Compact_v3.pdf"
+    },
+    {
+      "src": "/company_directory_viewer.html",
+      "dest": "/index.html"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "X-XSS-Protection",
+          "value": "1; mode=block"
+        }
+      ]
+    }
+  ]
+}

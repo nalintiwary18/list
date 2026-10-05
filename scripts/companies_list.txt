@@ -1,0 +1,356 @@
+Total companies: 355
+1: Portkey.ai | https://portkey.ai | 15-25 | Seed $3M (Lightspeed, prominent angel investors) | Fully Remote (India) / Bangalore
+2: Bolna.ai | https://bolna.ai | 10-20 | Seed $2.5M (Y Combinator W24, General Catalyst) | Fully Remote (India) / Bangalore
+3: Mem0 | https://mem0.ai | 10-20 | Seed $3.5M (Y Combinator S23, Peak XV Surge) | Fully Remote (India)
+4: TrueFoundry | https://truefoundry.com | 30-50 | Series A $5.3M (Eniac Ventures, Peak XV) | Remote / Hybrid (Bangalore / Delhi-NCR)
+5: Sarvam AI | https://sarvam.ai | 30-60 | Series A $41M (Lightspeed, Peak XV, Khosla) | Remote / Bangalore
+6: Agno (formerly Phidata) | https://www.agno.com | 10-20 | Seed $2.8M (Top-tier Silicon Valley & Indian VCs) | Fully Remote (India)
+7: Respan (formerly Keywords AI) | https://www.respan.ai | 10-20 | Seed $2.5M (Y Combinator W24) | Fully Remote (India)
+8: Composio | https://composio.dev | 15-30 | Series A $24M (Lightspeed, Elevation) | Remote / Bangalore
+9: GigaML | https://gigaml.com | 10-20 | Seed $3.6M (Y Combinator S23, Nexus VP) | Fully Remote (India)
+10: Plotline | https://plotline.so | 15-30 | Seed $2.6M (Peak XV Surge) | Remote / Bangalore
+11: Questera (Quest Labs) | https://questlabs.ai | 15-30 | Seed $1.5M (Y Combinator W24) | Remote / Bangalore
+12: Beatoven.ai | https://beatoven.ai | 12-25 | Pre-Series A $1.3M (Capital A, Entrepreneur First) | Remote / Delhi-NCR / Bangalore
+13: Murf.ai | https://murf.ai | 60-90 | Series A $10M (Matrix Partners, Elevation) | Fully Remote (India) / Delhi-NCR friendly
+14: Vodex.ai | https://vodex.ai | 20-40 | Seed $2M (Unicorn India Ventures) | Remote / Bangalore
+15: Floworks | https://floworks.ai | 12-25 | Seed $1.5M (Y Combinator W23, SenseAI) | Remote / Bangalore
+16: Pipeshift | https://pipeshift.com | 8-16 | Seed $1.8M (Y Combinator W24, SenseAI) | Fully Remote (India)
+17: LLUMO AI | https://llumo.ai | 10-20 | Seed $1.2M (SenseAI Ventures) | Remote / Delhi-NCR friendly
+18: Two AI (Sutra) | https://two.ai | 25-50 | Seed $20M (Jio, Smilegate) | Remote / Bangalore / Global
+19: Slang Labs | https://slanglabs.in | 20-40 | Pre-Series A $1.5M (Google Assistant Fund) | Remote / Bangalore
+20: Gnani.ai | https://gnani.ai | 45-75 | Series A $4M (Info Edge Ventures, Samsung) | Remote / Bangalore
+21: CoRover.ai | https://corover.ai | 45-75 | Series A $4M (Accenture, Indian Angel Network) | Delhi-NCR (Noida) / Bangalore
+22: SiftHub | https://sifthub.io | 15-30 | Seed $5.5M (Matrix Partners India) | Remote / Bangalore
+23: Segwise | https://segwise.ai | 10-20 | Seed $1.6M (Powerhouse Ventures) | Remote / Bangalore
+24: Houseware | https://houseware.io | 12-25 | Seed $2.1M (Tanglin Venture Partners) | Remote / Bangalore
+25: Chaos Genius | https://chaosgenius.io | 10-20 | Seed $3.3M (Elevation Capital, YC) | Remote / Bangalore
+26: Superalign | https://superalign.ai | 8-15 | Seed $1.5M (Peak XV Surge) | Remote / Bangalore
+27: Kroop AI | https://kroop.ai | 10-20 | Seed $500K (Indian Angel Network) | Remote / Delhi-NCR friendly
+28: Karya | https://karya.in | 25-45 | Seed $5M (Google.org, philanthropies) | Remote / Bangalore
+29: HyperVerge | https://hyperverge.co | 60-90 | Series A $5M (NEA, Milliways Ventures) | Remote / Bangalore
+30: OnFinance AI | https://onfinance.ai | 10-20 | Seed $1M (Silverneedle Ventures) | Remote / Bangalore
+31: Rowboat Labs | https://rowboatlabs.com | 8-16 | Seed $2M (Y Combinator S24) | Remote / Bangalore
+32: Ressl AI | https://ressl.ai | 6-12 | Seed $1.5M (Y Combinator W25) | Remote / Bangalore
+33: LimeChat | https://limechat.ai | 35-65 | Seed $5.2M (Stellaris Venture Partners, Pi Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+34: Scalenut | https://scalenut.com | 40-70 | Series A $3.1M (Saama Capital, Amit Singhal) | Delhi-NCR (Gurgaon) / Hybrid
+35: Kaagaz | https://kaagaz.app | 20-35 | Seed $1.5M (Y Combinator W22, Pravega) | Delhi-NCR (Gurgaon) / Hybrid
+36: SureBright | https://surebright.com | 10-20 | Seed $2.5M (Y Combinator, angel syndicates) | Delhi-NCR (New Delhi) / Remote
+37: Waybill | https://waybill.com | 8-15 | Seed $2M (Y Combinator S24) | Delhi-NCR (Gurgaon) / Hybrid
+38: Tune AI | https://tune.app | 10-20 | Seed $1.5M (Accel Atoms) | Remote / Bangalore
+39: Arivihan | https://arivihan.com | 15-30 | Seed $1M (Accel Atoms) | Remote / Delhi-NCR friendly
+40: K-Dense | https://kdense.ai | 10-20 | Seed $2M (Accel Atoms AI Cohort, Google AIFF) | Remote / Bangalore / Delhi-NCR
+41: Zaperon | https://zaperon.com | 15-30 | Seed $1M (Inflection Point Ventures) | Delhi-NCR (New Delhi) / Hybrid
+42: Sherlocks.ai | https://sherlocks.ai | 8-15 | Seed $1.2M (SenseAI Ventures) | Remote / Bangalore
+43: CureSkin | https://cureskin.com | 40-70 | Series A $5M (JSW Ventures, Y Combinator) | Remote / Bangalore
+44: August AI | https://august.ai | 10-20 | Seed $3M (Peak XV Surge 12) | Remote / Bangalore / Delhi-NCR
+45: HiLoop | https://hiloop.ai | 8-16 | Seed $2.5M (Peak XV Surge 12) | Fully Remote (India)
+46: Reinforce Labs | https://reinforcelabs.ai | 8-15 | Seed $2.5M (Peak XV Surge 12) | Remote / Bangalore
+47: Kindling | https://kindling.ai | 6-12 | Seed $1.8M (Peak XV Surge 12) | Remote / Bangalore
+48: Rosella | https://rosella.ai | 8-15 | Seed $2M (Peak XV Surge 12) | Remote / Bangalore
+49: Tribe Money | https://tribemoney.ai | 10-20 | Seed $2M (Peak XV Surge 12) | Remote / Bangalore
+50: NeuroPixel.AI | https://neuropixel.ai | 15-30 | Seed $1.7M (Speciale Invest, Flipkart Leap) | Remote / Bangalore
+51: Sketchnote | https://sketchnote.co | 10-25 | Pre-Seed $500K (Accel Atoms) | Fully Remote (India)
+52: Spyne.ai | https://spyne.ai | 60-90 | Series A $7M (Accel, Storm Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+53: Wobot.ai | https://wobot.ai | 35-60 | Series A $2.5M (Sequoia Surge) | Delhi-NCR (New Delhi) / Hybrid
+54: Inspektlabs | https://inspektlabs.com | 15-30 | Seed $1M (Accel Atoms) | Delhi-NCR (New Delhi) / Remote
+55: Devnagri | https://devnagri.com | 25-45 | Seed $1M (Inflection Point Ventures) | Delhi-NCR (Noida) / Hybrid
+56: Dubverse.ai | https://dubverse.ai | 15-30 | Seed $800K (Kalaari Capital) | Delhi-NCR (Gurgaon) / Hybrid
+57: NimbleBox.ai | https://nimblebox.ai | 15-30 | Seed $1M (Techstars, prominent angels) | Delhi-NCR (Gurgaon) / Hybrid
+58: Kello | https://kello.ai | 10-25 | Seed $2.6M (Peak XV Surge) | Delhi-NCR (Gurgaon) / Remote
+59: Round1 | https://round1.ai | 10-20 | Seed $2.5M (Peak XV Surge) | Delhi-NCR (Gurgaon) / Hybrid
+60: Zoop | https://zoop.one | 25-45 | Seed $2.5M (Peak XV Surge) | Delhi-NCR (Noida) / Hybrid
+61: Attentive.ai | https://attentive.ai | 50-80 | Series A $7M (Peak XV Surge, Info Edge) | Delhi-NCR (Noida) / Hybrid
+62: Toddle | https://toddleapp.com | 75-100 | Series A $17M (Tenacity Ventures, Matrix) | Delhi-NCR (Noida) / Hybrid
+63: Infeedo | https://infeedo.com | 60-90 | Series A $12M (Tiger Global, Bling Capital) | Delhi-NCR (Gurgaon) / Hybrid
+64: AdmitKard | https://admitkard.com | 50-80 | Series A $6M (GSV Ventures) | Delhi-NCR (Noida) / Hybrid
+65: Fleetx.io | https://fleetx.io | 60-90 | Series B $19M (India Quotient, Beenext) | Delhi-NCR (Gurgaon) / Hybrid
+66: Bijak | https://bijak.in | 60-90 | Series B $20M (Bertelsmann, Sequoia Surge) | Delhi-NCR (Gurgaon) / Hybrid
+67: BeatO | https://beatoapp.com | 60-90 | Series B $33M (Lightrock India, HealthQuad) | Delhi-NCR (New Delhi) / Hybrid
+68: Redcliffe Labs | https://redclifferehab.com | 70-100 | Series B $61M (LeapFrog Investments) | Delhi-NCR (Noida) / Hybrid
+69: Recur Club | https://recurclub.com | 30-55 | Seed $30M debt/equity (Info Edge Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+70: Uolo | https://uolo.com | 60-95 | Series A $22.5M (Winter Capital) | Delhi-NCR (Gurgaon) / Hybrid
+71: ConveGenius | https://convegenius.ai | 45-75 | Series A $5M (Michael & Susan Dell Foundation) | Delhi-NCR (Noida) / Hybrid
+72: Filo | https://findfilo.com | 60-90 | Series A $23M (Anthos Capital) | Delhi-NCR (New Delhi) / Hybrid
+73: Unstop | https://unstop.com | 50-80 | Seed $5M (Coursera, Mynavi) | Delhi-NCR (New Delhi) / Hybrid
+74: Instahyre | https://instahyre.com | 30-50 | Bootstrapped & Highly Profitable | Delhi-NCR (New Delhi) / Hybrid
+75: OneBanc | https://onebanc.ai | 30-55 | Seed $2.5M (Info Edge Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+76: Leena AI | https://leena.ai | 65-95 | Series B $30M (Bessemer, Greycroft) | Delhi-NCR (Gurgaon) / Hybrid
+77: HROne | https://hrone.cloud | 50-80 | Series A $4M (Insitor Partners) | Delhi-NCR (Noida) / Hybrid
+78: SecureNow | https://securenow.in | 40-70 | Series A $6M (Apis Partners) | Delhi-NCR (New Delhi) / Hybrid
+79: Sproutlogix | https://sproutlogix.com | 20-40 | Pre-Series A $1M (Indian angel networks) | Delhi-NCR (Gurgaon) / Hybrid
+80: KOGO OS | https://kogo.ai | 20-40 | Seed $1.5M (MapmyIndia) | Delhi-NCR (New Delhi) / Hybrid
+81: Sunfox Technologies | https://sunfox.in | 25-50 | Seed $1.5M (Shark Tank India, angel syndicates) | Delhi-NCR / Dehradun
+82: Revrag.ai | https://revrag.ai | 12-25 | Pre-Seed $600K (Powerhouse Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+83: Ritivel | https://ritivel.com | 10-20 | Seed $2M (Y Combinator S24) | Delhi-NCR (Gurgaon) / Remote
+84: Smarter.Codes | https://smarter.codes | 15-30 | Seed $1M (Indian Angel Network) | Delhi-NCR (New Delhi) / Hybrid
+85: Rezo.ai | https://rezo.ai | 25-45 | Seed $1M (Modulor Capital) | Delhi-NCR (Noida) / Hybrid
+86: Kisan Network | https://kisannetwork.com | 20-40 | Seed $3M (Y Combinator, Thiel Foundation) | Delhi-NCR (Gurgaon) / Hybrid
+87: VdoCipher | https://vdocipher.com | 20-40 | Bootstrapped & Highly Profitable | Delhi-NCR (Noida) / Hybrid
+88: Restroworks (Posist) | https://restroworks.com | 75-100 | Series A $5M (Indian angel networks) | Delhi-NCR (New Delhi) / Hybrid
+89: Wingify (VWO) | https://vwo.com | 75-100 | Bootstrapped & Highly Profitable | Delhi-NCR (New Delhi) / Hybrid
+90: SquadStack | https://squadstack.com | 60-90 | Series A $12M (Chiratae Ventures) | Delhi-NCR (Noida) / Hybrid
+91: DocPrime | https://docprime.com | 30-55 | Seed $10M (PB Fintech) | Delhi-NCR (Gurgaon) / Hybrid
+92: Baaz Bikes | https://baazbikes.com | 30-60 | Series A $8M (BIG Capital) | Delhi-NCR (New Delhi) / Hybrid
+93: Revfin | https://revfin.in | 50-80 | Series B $14M (Omidyar Network) | Delhi-NCR (New Delhi) / Hybrid
+94: AltMobility | https://alt-mobility.com | 25-50 | Seed $6M (Eurazeo, Shell Ventures) | Delhi-NCR (New Delhi) / Hybrid
+95: Hopcharge | https://hopcharge.com | 20-40 | Seed $1.5M (Prominent angels) | Delhi-NCR (Gurgaon) / Hybrid
+96: Vecmocon Technologies | https://vecmocon.com | 30-55 | Seed $5.2M (Tiger Global, Blume Ventures) | Delhi-NCR (New Delhi) / Hybrid
+97: Sheru | https://sheru.se | 25-45 | Series A $5M (Micelio Fund) | Delhi-NCR (New Delhi) / Hybrid
+98: VedaLabs | https://vedalabs.in | 12-25 | Seed $500K (MapmyIndia) | Delhi-NCR (New Delhi) / Hybrid
+99: PerSapien | https://persapien.com | 15-30 | Seed $1M (Indian angel syndicates) | Delhi-NCR (New Delhi) / Hybrid
+100: LegalKart | https://legalkart.com | 25-45 | Seed $1M (Indian angel syndicates) | Delhi-NCR (Gurgaon) / Hybrid
+101: SpotDraft | https://spotdraft.com | 60-95 | Series A $26M (Premji Invest) | Delhi-NCR (Gurgaon) / Hybrid
+102: Grip Invest | https://gripinvest.in | 40-70 | Series A $10M (Stride Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+103: SigNoz | https://signoz.io | 25-45 | Seed $6.5M (Y Combinator W21, Uncorrelated) | Fully Remote (India) / Bangalore
+104: Plane (Plane.so) | https://plane.so | 25-50 | Seed $4M (OSS Capital, Y Combinator) | Fully Remote (India) / Bangalore
+105: CodeRabbit | https://coderabbit.ai | 30-55 | Series A $16M (CRV) | Remote / Bangalore / Global
+106: ToolJet | https://tooljet.com | 30-55 | Series A $4.6M (Nexus Venture Partners, M12) | Fully Remote (India) / Bangalore
+107: StepSecurity | https://stepsecurity.io | 10-20 | Seed $3M (Runtime Ventures) | Fully Remote (India)
+108: Locofy.ai | https://locofy.ai | 25-45 | Seed $4.5M (Accel, January Capital) | Fully Remote (India)
+109: DhiWise | https://dhiwise.com | 45-75 | Series A $7M (Accel, Together Fund) | Fully Remote (India)
+110: Appsmith | https://appsmith.com | 70-100 | Series B $41M (Insight Partners, Accel) | Fully Remote (India/Global)
+111: LiteLLM (BerriAI) | https://litellm.ai | 8-15 | Seed $2.5M (Y Combinator W23) | Fully Remote (India/Global)
+112: Lightdash | https://lightdash.com | 20-35 | Seed $8.4M (Y Combinator, Accel) | Fully Remote (India)
+113: Bytebeam | https://bytebeam.io | 20-40 | Seed $3M (Together Fund, Accel) | Remote / Bangalore
+114: CogniSwitch | https://cogniswitch.ai | 10-25 | Seed $1.2M (Peak XV Surge network) | Remote / Bangalore
+115: CogniSaaS | https://cognisaas.com | 15-30 | Seed $1M (Speciale Invest, Whiteboard) | Remote / Bangalore
+116: Fini (usefini) | https://usefini.com | 10-20 | Seed $2M (Angel syndicates) | Fully Remote (India)
+117: Spendflo | https://spendflo.com | 60-90 | Series A $11M (Accel, Together Fund) | Remote / Bangalore / Delhi-NCR friendly
+118: Privado.ai | https://privado.ai | 30-55 | Series A $14M (Peak XV, Together Fund) | Fully Remote (India) / Delhi-NCR
+119: SuperOps | https://superops.com | 70-95 | Series B $12.4M (Addition, March Capital) | Remote / Chennai / Bangalore
+120: Rocketlane | https://rocketlane.com | 70-95 | Series B $24M (8VC, Nexus VP, Matrix) | Fully Remote (India) / Chennai
+121: Sprinto | https://sprinto.com | 75-100 | Series B $20M (Accel, Elevation Capital) | Remote / Bangalore
+122: Factors.ai | https://factors.ai | 30-55 | Series A $3.6M (Elevation Capital, Emergent) | Remote / Bangalore
+123: ClearFeed | https://clearfeed.ai | 25-45 | Series A $4.2M (Peak XV Surge, 8VC) | Fully Remote (India) / Bangalore
+124: Zluri | https://zluri.com | 75-100 | Series B $20M (Lightspeed, MassMutual) | Remote / Bangalore
+125: Scrut Automation | https://scrut.io | 50-80 | Series A $10M (Lightspeed, MassMutual) | Remote / Bangalore
+126: Kapture CX | https://kapture.cx | 60-95 | Series A $4M (Cactus Venture Partners) | Remote / Bangalore
+127: Salesken.ai | https://salesken.ai | 60-90 | Series B $22M (M12 - Microsoft, Sequoia) | Remote / Bangalore
+128: Signzy | https://signzy.com | 75-100 | Series B $26M (Gaja Capital, Vertex) | Remote / Bangalore
+129: Entropik Tech | https://entropik.io | 65-95 | Series B $25M (Bessemer, SIG) | Remote / Bangalore
+130: Arya.ai | https://arya.ai | 35-60 | Seed $2M (Aurionpro Solutions) | Remote / Mumbai / Bangalore
+131: DaveAI | https://iamdave.ai | 25-45 | Pre-Series A $1M (Indian angel syndicates) | Remote / Bangalore
+132: Hubbler | https://hubbler.mobi | 30-55 | Seed $1.5M (Prominent angel syndicates) | Remote / Bangalore
+133: DronaHQ | https://dronahq.com | 40-70 | Bootstrapped & Highly Profitable | Remote / Mumbai / Bangalore
+134: Pando | https://pando.ai | 75-100 | Series B $30M (Iron Pillar, Uncorrelated) | Remote / Chennai / Bangalore
+135: Freight Fox | https://freightfox.ai | 20-40 | Seed $1.5M (Prominent logistics angels) | Remote / Pune / Bangalore
+136: Wiz Freight | https://wizfreight.com | 75-100 | Series B $15M (Tiger Global, Nippon Express) | Remote / Chennai / Gurgaon
+137: Cogoport | https://cogoport.com | 80-100 | Series B $50M (Tiger Global) | Remote / Mumbai / Gurgaon
+138: Langfuse | https://langfuse.com | 10-25 | Seed $4M (Lightspeed, Y Combinator W23) | Fully Remote (India/Global)
+139: NimbusPost | https://nimbuspost.com | 60-90 | Series A $5M (Prominent logistics investors) | Delhi-NCR (Gurgaon) / Hybrid
+140: iThink Logistics | https://ithinklogistics.com | 45-75 | Bootstrapped & Highly Profitable | Remote / Mumbai / Delhi-NCR
+141: Shyplite | https://shyplite.com | 60-90 | Series A $8M (Prominent Indian syndicates) | Delhi-NCR (New Delhi) / Hybrid
+142: Shipyaari | https://shipyaari.com | 50-80 | Series A $6M (Tuscan Ventures) | Remote / Mumbai / Delhi-NCR
+143: Vakilsearch (Zolvit) | https://zolvit.com | 75-100 | Series B $10M (Inflexor Ventures) | Remote / Chennai / Delhi-NCR
+144: IndiaFilings | https://indiafilings.com | 80-100 | Bootstrapped & Highly Profitable | Remote / Chennai / New Delhi
+145: Quicko | https://quicko.com | 30-50 | Bootstrapped & Highly Profitable | Remote / Ahmedabad / Bangalore
+146: Volopay | https://volopay.com | 60-90 | Series A $29M (Y Combinator, JAM Fund) | Remote / Bangalore
+147: EnKash | https://enkash.com | 70-100 | Series B $20M (Ascent Capital, Baring India) | Delhi-NCR (Gurgaon) / Mumbai
+148: Fyle | https://fylehq.com | 60-90 | Series B $20M (Tiger Global, Steadview) | Remote / Bangalore
+149: Cutshort | https://cutshort.io | 25-45 | Bootstrapped & Highly Profitable | Remote / Pune / Bangalore
+150: Pesto Tech | https://pesto.tech | 25-45 | Seed $2M (Matrix Partners India) | Delhi-NCR (Gurgaon) / Remote
+151: Flexiple | https://flexiple.com | 25-45 | Bootstrapped & Highly Profitable | Remote / Bangalore
+152: Springworks | https://springworks.in | 60-90 | Bootstrapped & Highly Profitable | Remote / Bangalore
+153: Keka HR | https://keka.com | 75-100 | Series A $57M (Vista Point Advisors) | Remote / Hyderabad / Bangalore
+154: Decentro | https://decentro.tech | 50-80 | Series A $4.7M (Y Combinator, Rapyd Ventures) | Remote / Delhi-NCR / Bangalore
+155: Peblo (FinBox) | https://finbox.in | 40-70 | Series A $6M (Arali Ventures, Flipkart) | Remote / Gurgaon / Bangalore
+156: Jar | https://myjar.app | 65-95 | Series B $22M (Tiger Global, Rocketship.vc) | Remote / Bangalore
+157: Kodo | https://kodo.com | 30-55 | Seed $8.7M (Brex, Y Combinator) | Remote / Mumbai / Bangalore
+158: Karbon Card | https://karboncard.com | 45-75 | Series A $15M (Olive Tree Capital, Harmony) | Remote / Bangalore
+159: Ditto Insurance | https://joinditto.in | 60-90 | Seed $4.5M (Zerodha, Finshots) | Remote / Bangalore
+160: Plum Benefits | https://plumhq.com | 70-100 | Series A $15.6M (Tiger Global, Tanglin) | Remote / Bangalore
+161: Loop Health | https://loophealth.com | 65-95 | Series A $12M (General Catalyst, Elevation) | Remote / Pune / Bangalore
+162: Onsurity | https://onsurity.com | 70-100 | Series B $24M (International Finance Corporation, Quona) | Remote / Bangalore
+163: Pazcare | https://pazcare.com | 40-70 | Series A $8.2M (Jafco Asia, 3one4 Capital) | Remote / Bangalore
+164: Nova Benefits | https://novabenefits.com | 45-75 | Series A $10M (Bessemer Venture Partners, SIG) | Remote / Bangalore
+165: Velocity.in | https://velocity.in | 50-80 | Series A $20M (Peter Thiel's Valar Ventures) | Remote / Bangalore
+166: Klub | https://klubworks.com | 50-80 | Series A $20M (Alteria Capital, Trifecta) | Remote / Bangalore
+167: Bikayi | https://bikayi.com | 40-70 | Series A $10.8M (Sequoia Capital India) | Remote / Hyderabad / Bangalore
+168: Zoko | https://zoko.io | 20-40 | Seed $1.4M (Y Combinator, Ryan Hoover) | Fully Remote (India)
+169: Vahan.ai | https://vahan.co | 40-70 | Series A $8M (Khosla Ventures, Y Combinator) | Remote / Bangalore
+170: Cube Wealth | https://bankoncube.com | 25-45 | Seed $2M (Prominent angel investors) | Remote / Mumbai
+171: Wint Wealth | https://wintwealth.com | 40-70 | Series A $5M (Eight Roads Ventures) | Remote / Bangalore
+172: Dezerv | https://dezerv.in | 60-95 | Series B $32M (Premji Invest, Elevation Capital) | Remote / Mumbai / Bangalore
+173: Stable Money | https://stablemoney.in | 30-55 | Series A $15M (RTP Global, Lightspeed) | Remote / Bangalore
+174: Uni Cards | https://uni.cards | 75-100 | Series A $70M (Lightspeed, Accel) | Remote / Bangalore
+175: Freo (MoneyTap) | https://freo.money | 75-100 | Series B $40M (Prime Venture Partners, Sequoia) | Remote / Bangalore
+176: CASHe | https://cashe.co.in | 75-100 | Series B $40M (Singularity Growth) | Remote / Mumbai
+177: NIRA | https://nirafinance.com | 40-70 | Seed $4M (Techstars, Indian angel syndicates) | Remote / Bangalore
+178: Finzy | https://finzy.com | 30-50 | Series A $2.3M (Prominent BFSI angel syndicates) | Remote / Bangalore
+179: Faircent | https://faircent.com | 60-90 | Series B $10M (Incofin, Muthoot Fincorp) | Delhi-NCR (Gurgaon) / Hybrid
+180: LenDenClub | https://lendenclub.com | 65-95 | Series A $10M (Tuscan Ventures, Ohm Stock) | Remote / Mumbai
+181: IndiaLends | https://indialends.com | 75-100 | Series B $25M (ACP Partners, American Express) | Delhi-NCR (New Delhi) / Hybrid
+182: BankSathi | https://banksathi.com | 50-80 | Pre-Series A $4M (Kotak Securities) | Remote / Bangalore / Delhi-NCR
+183: GroMo | https://gromo.in | 60-90 | Series A $11M (SIG Venture Capital) | Delhi-NCR (Gurgaon) / Hybrid
+184: ZET (OneCode) | https://zetapp.in | 70-95 | Series A $13M (General Catalyst, Nexus VP) | Remote / Bangalore / Delhi-NCR
+185: Novio (Credilio) | https://novio.in | 40-70 | Seed $4M (CornerStone Venture Partners) | Remote / Mumbai / Delhi-NCR
+186: FloBiz (myBillBook) | https://flobiz.in | 75-100 | Series B $31M (Sequoia Capital India, Elevation) | Remote / Bangalore / Delhi-NCR
+187: Pepper Content | https://peppercontent.io | 70-100 | Series A $14.3M (Bessemer Venture Partners, Tanglin) | Remote / Mumbai / Delhi-NCR
+188: Superleap | https://superleap.com | 15-30 | Seed $3.8M (Peak XV Surge) | Remote / Delhi-NCR / Bangalore
+189: Awign | https://awign.com | 75-100 | Series B $15M (Bertelsmann, Mynavi) | Remote / Bangalore / Delhi-NCR
+190: WorkIndia | https://workindia.in | 70-100 | Series A $12M (Beenext, Asuka Asset) | Remote / Mumbai / Bangalore
+191: Gigforce | https://gigforce.in | 30-55 | Seed $3M (Endiya Partners) | Remote / Delhi-NCR / Bangalore
+192: Newton School | https://newtonschool.co | 75-100 | Series B $25M (Steadview Capital, Nexus VP) | Remote / Bangalore / Delhi-NCR
+193: Masai School | https://masaischool.com | 70-100 | Series B $10M (India Quotient, Unitus) | Remote / Bangalore
+194: AlmaBetter | https://almabetter.com | 40-70 | Seed $2.7M (Kalaari Capital) | Remote / Bangalore
+195: Teachmint | https://teachmint.com | 75-100 | Series B $78M (Rocketship.vc, Vulcan, Lightspeed) | Remote / Bangalore
+196: Stashfin | https://stashfin.com | 75-100 | Series B $70M (Uncorrelated Ventures, Fasanara) | Delhi-NCR (New Delhi) / Hybrid
+197: Battery Smart | https://batterysmart.in | 80-100 | Series B $33M (Tiger Global, Blume Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+198: Cashify | https://cashify.in | 80-100 | Series B $15M (New Enterprise Associates) | Delhi-NCR (Gurgaon) / Hybrid
+199: Soothe Healthcare | https://paree.in | 60-90 | Series B $20M (Aavishkaar Capital) | Delhi-NCR (Noida) / Hybrid
+200: Pee Safe | https://peesafe.com | 45-75 | Series B $3M (Natco Pharma, Alkemi) | Delhi-NCR (Gurgaon) / Hybrid
+201: Leaf Round | https://leafround.com | 15-30 | Seed $1M (Indian angel networks) | Remote / Bangalore
+202: AltGraaf | https://altgraaf.com | 20-40 | Seed $2M (Prominent angel syndicates) | Remote / Bangalore
+203: Spenny | https://spennyapp.com | 10-20 | Seed $1M (Y Combinator, 500 Global) | Remote / Bangalore
+204: TapChief | https://tapchief.com | 30-50 | Seed $1.5M (Blume Ventures, 500 Startups) | Remote / Bangalore
+205: Exponent Energy | https://exponent.energy | 60-90 | Series B $26M (Lightspeed, Eight Roads) | Remote / Bangalore / Delhi-NCR
+206: Simple Energy | https://simpleenergy.in | 60-90 | Series A $20M (Prominent high-net-worth syndicates) | Remote / Bangalore
+207: Turno | https://turno.club | 45-75 | Series A $13.8M (B Capital, Quona Capital) | Remote / Bangalore / Delhi-NCR
+208: Clean Electric | https://cleanelectric.in | 25-45 | Seed $2.2M (Info Edge Ventures, Kalaari) | Remote / Pune / Delhi-NCR
+209: Matter Energy | https://matter.in | 60-90 | Series A $35M (Capital A, prominent investors) | Remote / Ahmedabad / Delhi-NCR
+210: Pixxel | https://pixxel.space | 60-90 | Series B $36M (Google, Lightspeed, Radical) | Remote / Bangalore
+211: Agnikul Cosmos | https://agnikul.in | 65-95 | Series B $26M (Celesta Capital, Rocketship.vc) | Remote / Chennai
+212: GalaxEye Space | https://galaxeye.space | 30-55 | Seed $3.5M (Speciale Invest, Drone Federation) | Remote / Chennai / Bangalore
+213: Unbox Robotics | https://unboxrobotics.com | 45-75 | Series A $7M (3one4 Capital, SOSV) | Remote / Pune / Bangalore
+214: Detect Technologies | https://detecttechnologies.com | 75-100 | Series B $28M (Prosus Ventures, Accel) | Remote / Chennai / Delhi-NCR
+215: Intugine Technologies | https://intugine.com | 45-75 | Pre-Series A $2.5M (M12 - Microsoft Ventures) | Remote / Bangalore
+216: Stellapps Technologies | https://stellapps.com | 75-100 | Series B $18M (Celesta Capital, Omnivore) | Remote / Bangalore
+217: Charzer | https://charzer.com | 30-55 | Seed $3M (Indian angel networks) | Remote / Bangalore
+218: Kazam | https://kazam.energy | 35-60 | Series A $5M (Vertex Ventures, Avaana Capital) | Remote / Bangalore
+219: Fyn Mobility | https://fynmobility.com | 30-55 | Seed $2M (Prominent mobility investors) | Remote / Bangalore
+220: Sprih | https://sprih.net | 15-30 | Seed $2.9M (Leo Capital) | Remote / Bangalore
+221: UptimeAI | https://uptimeai.com | 25-45 | Seed $3.5M (Emergent Ventures) | Remote / Bangalore
+222: Digantara | https://digantara.com | 30-55 | Series A $12M (Peak XV Partners, Aditya Birla) | Remote / Bangalore
+223: Headfone | https://headfone.co.in | 40-70 | Series B $10M (Elevation Capital, Hashed) | Remote / Bangalore
+224: Zevi.ai | https://zevi.ai | 15-30 | Seed $1.6M (Together Fund, Better Capital) | Remote / Bangalore
+225: Fasal | https://fasal.co | 50-80 | Series A $12M (TDK Ventures, British International) | Remote / Bangalore
+226: BharatAgri | https://bharatagri.com | 50-80 | Series A $4.3M (Omnivore, India Quotient) | Remote / Pune / Bangalore
+227: AgNext Technologies | https://agnext.com | 65-95 | Series A $21M (Alpha Wave Global, Omnivore) | Remote / Chandigarh / Delhi-NCR
+228: Aibono | https://aibono.com | 40-70 | Seed $3.5M (Mitsui & Co., Rebright Partners) | Remote / Bangalore
+229: Ergos | https://ergos.in | 60-90 | Series A $10M (Aavishkaar Capital) | Remote / Bangalore
+230: Gramophone | https://gramophone.in | 65-95 | Series B $10M (Z3Partners, Info Edge) | Remote / Indore / Delhi-NCR
+231: Intello Labs | https://www.intellolabs.com | 50-80 | Series A $5.9M (Saama Capital, Omnivore) | Delhi-NCR (Gurgaon) / Hybrid
+232: SuperK | https://superk.in | 50-80 | Series A $5.5M (Blume Ventures, Silverneedle) | Remote / Hyderabad
+233: Knit | https://getknit.dev | 12-25 | Seed $1M (Endiya Partners) | Remote / Bangalore
+234: Convin.ai | https://convin.ai | 40-70 | Series A $6.5M (Kalaari Capital, Titan Capital) | Delhi-NCR (Gurgaon) / Hybrid
+235: Gushwork.ai | https://www.gushwork.ai | 20-40 | Seed $2.1M (Lightspeed India, B Capital) | Delhi-NCR (Noida/Delhi) / Remote
+236: Gan.ai | https://gan.ai | 20-40 | Seed $5.2M (Peak XV Surge, Emergent Ventures) | Delhi-NCR (Gurgaon) / Remote
+237: Verloop.io | https://verloop.io | 50-80 | Series A $5M (Alpha Wave, IDFC Parampara) | Remote / Bangalore
+238: Cognizer | https://cognizer.ai | 30-55 | Series A $5M (Indian angel syndicates) | Remote / Bangalore / Delhi-NCR
+239: Senseforth.ai | https://senseforth.ai | 40-70 | Pre-Series A $2M (Indian angel syndicates) | Remote / Bangalore
+240: Drivetrain.ai | https://drivetrain.ai | 20-40 | Seed $3.2M (Elevation Capital, angel syndicates) | Remote / Bangalore
+241: Segmind | https://www.segmind.com | 15-30 | Seed $1M (Indian angel networks & institutional seed) | Fully Remote (India) / Bangalore
+242: Kudo.ai | https://kudo.ai | 40-70 | Series A $6M (Felicitas Ventures) | Remote / Bangalore / Global
+243: Kombai | https://kombai.com | 10-25 | Seed $4.5M (Stellaris Venture Partners) | Remote / Bangalore
+244: Aura ML (Qritive) | https://qritive.com | 20-40 | Series A $7.5M (MassMutual Ventures) | Remote / Bangalore
+245: AIndra Systems | https://aindra.in | 15-30 | Seed $1.2M (Villgro, Millennium Alliance) | Remote / Bangalore
+246: Aikenist | https://aikenist.com | 10-25 | Seed $500K (Indian angel networks) | Remote / Bangalore
+247: Dozee | https://dozee.io | 60-90 | Series A $6M (State Bank of India, Gokul Rajaram) | Remote / Bangalore
+248: 5C Network | https://5cnetwork.com | 45-75 | Series A $4.6M (Celesta Capital, Unitus) | Remote / Bangalore
+249: DeepTek.ai | https://deeptek.ai | 45-75 | Series A $3M (TATA Capital Healthcare Fund) | Remote / Pune / Bangalore
+250: Synapsica Healthcare | https://synapsica.com | 25-45 | Seed $4.2M (Y Combinator, IvyCap Ventures) | Remote / New Delhi / Bangalore
+251: Niramai | https://niramai.com | 30-55 | Seed $6M (Dream Incubator, Beenext, Ankur) | Remote / Bangalore
+252: Wysa | https://wysa.io | 60-90 | Series B $20M (HealthQuad, British International) | Remote / Bangalore
+253: BrainSightAI | https://brainsightai.com | 15-30 | Seed $1.2M (Indian Angel Network, Stanford) | Remote / Bangalore
+254: Predible Health | https://prediblehealth.com | 15-30 | Seed $1M (Indian angel syndicates) | Remote / Bangalore
+255: Stanplus (Red.Health) | https://red.health | 75-100 | Series A $20M (HealthQuad) | Remote / Hyderabad / Delhi-NCR
+256: Otipy (Crofarm) | https://www.otipy.com | 75-100 | Series B $32M (WestBridge Capital, SIG Venture Capital) | Delhi-NCR (Gurgaon) / Hybrid
+257: Agrim | https://agrim.app | 65-90 | Series A $10M (Kalaari Capital, Omnivore) | Delhi-NCR (Gurgaon) / Hybrid
+258: AquaExchange | https://aquaexchange.com | 45-75 | Series A $6M (Ocean 14 Capital, Endiya Partners) | Remote / Vijayawada / Delhi-NCR friendly
+259: Locad | https://golocad.com | 60-90 | Series B $9M (Global Ventures, Reefknot Investments) | Remote / Bangalore / Delhi-NCR friendly
+260: Increff | https://www.increff.com | 75-100 | Series A $12M (TVS Capital Funds, Premji Invest) | Remote / Bangalore / Delhi-NCR friendly
+261: Pazo | https://www.gopazo.com | 25-45 | Seed $1.2M (Prominent enterprise SaaS angels) | Remote / Bangalore / Delhi-NCR friendly
+262: SingleInterface | https://www.singleinterface.com | 60-90 | Series A $30M (Asia Partners, PayPal Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+263: Bik.ai | https://www.bik.ai | 30-55 | Seed $1.3M (Tsingyuan Ventures, prominent consumer angels) | Remote / Bangalore / Delhi-NCR friendly
+264: QuickSell | https://quicksell.co | 20-40 | Seed $2M (Info Edge Ventures, Silicon Valley angels) | Remote / Mumbai / Delhi-NCR friendly
+265: Flash.co | https://flash.co | 35-60 | Series A $12.5M (Matrix Partners India / Z47, PeerCapital) | Remote / Bangalore / Delhi-NCR friendly
+266: CityMall | https://citymall.live | 75-100 | Series B $75M (Norwest Venture Partners, Elevation Capital) | Delhi-NCR (Gurgaon) / Hybrid
+267: Kiko Live | https://kiko.live | 20-45 | Pre-Series A $1.5M (SOSV, Venture Catalysts) | Remote / Mumbai / Delhi-NCR friendly
+268: Biddano | https://biddano.com | 45-75 | Pre-Series A $2M (Gokul Rajaram, angel syndicates) | Remote / Pune / Delhi-NCR friendly
+269: Procol | https://www.procol.ai | 40-70 | Series A $6.5M (Blume Ventures, Peak XV Surge) | Delhi-NCR (Gurgaon) / Hybrid
+270: Geniemode | https://www.geniemode.com | 70-95 | Series B $28M (Tiger Global, Info Edge Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+271: Bijnis | https://www.bijnis.com | 65-95 | Series B $30M (Westbridge, Info Edge, Matrix Partners) | Delhi-NCR (New Delhi) / Hybrid
+272: Rupifi | https://www.rupifi.com | 50-80 | Series A $25M (Bessemar Venture Partners, Tiger Global) | Remote / Bangalore / Delhi-NCR friendly
+273: PayGlocal | https://payglocal.in | 35-65 | Series B $12M (Tiger Global, Peak XV Surge) | Remote / Bangalore / Delhi-NCR friendly
+274: Bimaplan | https://www.bimaplan.com | 30-55 | Seed $3.5M (Y Combinator, 2am VC, Fin VC) | Remote / Bangalore / Delhi-NCR friendly
+275: Finsire | https://www.finsire.com | 15-30 | Seed $1.3M (DevX Venture Fund, angel investors) | Remote / Chennai / Delhi-NCR friendly
+276: Card91 | https://www.card91.io | 25-45 | Seed $2M (Infinity Ventures, prominent fintech angels) | Remote / Bangalore / Delhi-NCR friendly
+277: Climes.io | https://climes.io | 20-40 | Seed $1.2M (Peak XV Surge, Kalaari Capital) | Delhi-NCR (Delhi/Gurgaon) / Hybrid
+278: Loopify | https://www.loopify.world | 15-30 | Seed $1M (Indian angel networks & ESG funds) | Remote / Mumbai / Delhi-NCR friendly
+279: Breathe ESG | https://breatheesg.com | 15-30 | Seed $1M (Prominent institutional seed funds) | Remote / Bangalore / Delhi-NCR friendly
+280: Ecolibrium | https://www.ecolibrium.io | 45-75 | Series A $5M (Swordfish Investments, Infuse Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+281: Infinite Uptime | https://www.infinite-uptime.com | 70-100 | Series B $19M (Tiger Global, GSR Ventures) | Remote / Pune / Delhi-NCR friendly
+282: VoltUp | https://voltup.in | 35-60 | Seed $2M (AdvantEdge, prominent clean mobility angels) | Delhi-NCR (Gurgaon) / Hybrid
+283: MoEVing | https://moeving.com | 45-75 | Series A $5M (Beyond Capital, Stride Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+284: Statiq | https://www.statiq.in | 45-75 | Series A $25M (Shell Ventures, Y Combinator W20) | Delhi-NCR (Gurgaon) / Hybrid
+285: River Mobility | https://www.riverind.com | 70-95 | Series B $40M (Yamaha Motor, Mitsui & Co, Lowercarbon) | Remote / Bangalore / Delhi-NCR friendly
+286: KalaGato | https://kalagato.co | 20-35 | Seed $4M (9Unicorns, Village Global) | Delhi-NCR (New Delhi) / Hybrid
+287: Tagalys | https://tagalys.com | 20-35 | Pre-Series A $1M (Indian angel networks & seed funds) | Remote / Chennai / Delhi-NCR friendly
+288: Zippee | https://www.zippee.delivery | 25-50 | Seed $2M (Haldiram's Family Office, prominent D2C angels) | Delhi-NCR (Gurgaon) / Hybrid
+289: Tartan | https://www.tartaninvestments.com | 25-45 | Seed $4.5M (500 Global, InfoEdge Ventures) | Delhi-NCR (Gurgaon) / Bangalore / Remote
+290: Fold | https://fold.money | 15-30 | Seed $1.5M (Prominent fintech founders & angels) | Fully Remote (India) / Bangalore
+291: Hyperface | https://hyperface.co | 30-55 | Seed $9M (3one4 Capital, Flipkart Ventures) | Remote / Bangalore / Delhi-NCR friendly
+292: Zenskar | https://www.zenskar.com | 20-40 | Seed $3.5M (Bessemer Venture Partners, Shine Capital) | Remote / Bangalore / Delhi-NCR friendly
+293: Everstage | https://www.everstage.com | 70-95 | Series B $30M (Eight Roads Ventures, 3one4 Capital) | Fully Remote (India) / Chennai / Delhi-NCR friendly
+294: Fibr.ai | https://fibr.ai | 15-30 | Seed $1.8M (Accel, prominent marketing tech angels) | Delhi-NCR (Gurgaon) / Remote
+295: Bureau.id | https://www.bureau.id | 50-80 | Series A $16M (Quona Capital, Commerce Ventures) | Fully Remote (India) / Bangalore
+296: Syntizen | https://syntizen.com | 30-55 | Pre-Series A $1.5M (Mastercard, prominent fintech funds) | Remote / Hyderabad / Delhi-NCR friendly
+297: FidyPay | https://fidypay.com | 25-45 | Seed $1.5M (Prominent fintech angel networks) | Remote / Indore / Delhi-NCR friendly
+298: MonsterAPI | https://monsterapi.ai | 20-40 | Seed $2M (Prominent AI compute angels) | Delhi-NCR (Noida) / Fully Remote
+299: Avesha | https://avesha.io | 20-40 | Seed $4M (Prominent cloud infrastructure funds) | Fully Remote (India) / Bangalore
+300: Cynlr | https://www.cynlr.com | 30-55 | Pre-Series A $4.5M (Special Invest, InfoEdge Ventures) | Remote / Bangalore / Delhi-NCR friendly
+301: Voiro | https://voiro.com | 30-55 | Pre-Series A $2.5M (1Crowd, prominent media angels) | Remote / Bangalore / Delhi-NCR friendly
+302: Spacenos | https://spacenos.com | 20-40 | Seed $1.5M (Institutional seed & financial angels) | Delhi-NCR (Noida) / Remote
+303: Credgenics | https://www.credgenics.com | 75-100 | Series B $50M (Westbridge Capital, Accel, Tanglin) | Delhi-NCR (Noida) / Hybrid Remote
+304: BlueSky Analytics | https://blueskyhq.in | 20-40 | Seed $2M (Beenext, Rainmatter Capital) | Delhi-NCR (Gurgaon) / Remote
+305: SuperKalam | https://kalam.in | 15-30 | Seed $2M (Y Combinator, prominent education angels) | Delhi-NCR (Delhi/Noida) / Remote
+306: HexaHealth | https://www.hexahealth.com | 55-85 | Seed $4.5M (Oommen Vadaketh, prominent healthcare angels) | Delhi-NCR (Gurgaon) / Hybrid
+307: Eka Care | https://www.eka.care | 65-95 | Series A $15M (Hummingbird Ventures, 3one4 Capital) | Fully Remote (India) / Bangalore
+308: Medulance | https://medulance.com | 50-80 | Series A $3M (Alkemi Growth Capital) | Delhi-NCR (Delhi/Noida) / Hybrid
+309: Janitri | https://janitri.in | 30-55 | Pre-Series A $1.5M (SIDBI, angel investors) | Remote / Bangalore / Delhi-NCR friendly
+310: Curebay | https://curebay.com | 65-95 | Series A $7.5M (Elevar Equity) | Delhi-NCR / Bhubaneswar / Remote
+311: Ultrahuman | https://www.ultrahuman.com | 70-95 | Series B $35M (Blume Ventures, Steadview Capital) | Remote / Bangalore / Delhi-NCR friendly
+312: Sugar.fit | https://www.sugarfit.com | 55-85 | Series A $11M (MassMutual Ventures, Cure.fit / Cult.fit) | Remote / Bangalore / Delhi-NCR friendly
+313: Orange Health | https://www.orangehealth.in | 70-100 | Series B $25M (General Catalyst, Bertelsmann India) | Delhi-NCR (Gurgaon) / Bangalore
+314: Doceree | https://doceree.com | 60-90 | Series B $35M (Creaegis, Eight Roads Ventures) | Delhi-NCR (Noida) / Hybrid Remote
+315: ClaimBuddy | https://claimbuddy.in | 45-75 | Series A $5M (Bharat Innovation Fund, Chiratae Ventures) | Delhi-NCR (Gurgaon) / Hybrid
+316: Vital | https://www.getvital.in | 25-45 | Seed $3M (BLinC Invest, Venture Catalysts) | Delhi-NCR (Gurgaon) / Hybrid
+317: Clinikk | https://clinikk.com | 45-75 | Series A $4M (MassMutual Ventures, Times Internet) | Remote / Bangalore / Delhi-NCR friendly
+318: Fitelo | https://fitelo.co | 60-90 | Series A $5M (CareCapital, angel syndicates) | Delhi-NCR (Chandigarh/Delhi) / Hybrid
+319: Fitterfly | https://www.fitterfly.com | 65-95 | Series A $12M (Amazon Smbhav Venture Fund, Fireside) | Remote / Mumbai / Delhi-NCR friendly
+320: Wellthy Therapeutics | https://www.wellthytherapeutics.com | 40-65 | Pre-Series A $4M (Saama Capital, prominent funds) | Remote / Mumbai / Delhi-NCR friendly
+321: Stage | https://stage.in | 65-95 | Series A $4.8M (Blume Ventures, Inflection Point Ventures) | Delhi-NCR (Noida) / Hybrid Remote
+322: Bolo Live | https://bolo.live | 30-55 | Series A $2.4M (TBN, prominent angels) | Delhi-NCR (Gurgaon) / Hybrid
+323: Khabri | https://khabri.app | 25-50 | Seed $2.1M (Y Combinator, Liquid 2 Ventures) | Delhi-NCR (Gurgaon/Delhi) / Remote
+324: STAN | https://getstan.app | 25-45 | Seed $2.5M (General Catalyst, GFR Fund) | Remote / Bangalore / Delhi-NCR friendly
+325: Rooter | https://www.rooter.gg | 65-95 | Series A $25M (Lightbox, March Capital) | Delhi-NCR (New Delhi) / Hybrid
+326: Kutumb | https://kutumb.app | 55-80 | Series A $26M (Tiger Global, Peak XV Surge) | Remote / Bangalore / Delhi-NCR friendly
+327: Kratos Studios | https://kratosstudios.com | 30-55 | Seed $20M (Accel, Prosus Ventures) | Remote / Bangalore / Delhi-NCR friendly
+328: Gamerji | https://gamerji.com | 20-35 | Pre-Series A $1M (Unicorn India Ventures) | Remote / Ahmedabad / Delhi-NCR friendly
+329: HyperGro.ai | https://hypergro.ai | 15-30 | Seed $1.4M (Silverneedle Ventures, prominent angels) | Fully Remote (India) / Bangalore
+330: NeuralGarage | https://www.neuralgarage.com | 15-30 | Seed $1.45M (Exfinity Venture Partners) | Remote / Bangalore / Delhi-NCR friendly
+331: Ayna.ai | https://ayna.ai | 15-30 | Seed $1.5M (Inflexor Ventures, prominent retail angels) | Remote / Bangalore / Delhi-NCR friendly
+332: Zeko.ai | https://zeko.ai | 12-25 | Seed $1M (Indian angel networks & fashion founders) | Remote / Bangalore / Delhi-NCR friendly
+333: Kubric | https://kubric.io | 20-35 | Seed $1.5M (Peak XV Surge, prominent SaaS angels) | Fully Remote (India) / Bangalore
+334: Flowace | https://flowace.ai | 20-35 | Seed $1M (Indian angel networks & seed funds) | Delhi-NCR (Noida) / Hybrid
+335: Knorish | https://knorish.com | 35-60 | Pre-Series A $1.5M (Pentathlon Ventures, 100X.VC) | Delhi-NCR (Gurgaon) / Hybrid
+336: Bito.ai | https://bito.ai | 25-45 | Seed $3.2M (Eniac Ventures, prominent engineering angels) | Fully Remote (India) / Pune
+337: Wurkr | https://wurkr.uk | 20-40 | Seed $2M (Hindustan Media Ventures, prominent angels) | Fully Remote (India) / Bangalore / Delhi-NCR friendly
+338: Skit.ai | https://skit.ai | 60-90 | Series B $23M (WestBridge Capital, Kalaari Capital) | Remote / Bangalore / Delhi-NCR friendly
+339: Quest Labs | https://www.questlabs.ai | 15-30 | Seed $1.5M (Y Combinator W24) | Remote / Bangalore / Delhi-NCR friendly
+340: VectorShift | https://www.vectorshift.ai | 12-25 | Seed $3M (Y Combinator W24, prominent Silicon Valley angels) | Fully Remote (India team / Global)
+341: Maya AI | https://cselect.ai | 45-75 | Series A $8M (Covalent Fund, prominent institutional funds) | Remote / Bangalore / Delhi-NCR friendly
+342: Kaedim | https://www.kaedim3d.com | 20-40 | Series A $15M (A16Z Games, Pioneer Fund) | Fully Remote (India team / Global)
+343: OpenPipe | https://openpipe.ai | 10-20 | Seed $6.7M (Costanoa Ventures, Y Combinator) | Fully Remote (India / Global)
+344: Dub.co | https://dub.co | 10-20 | Seed $2M (Open core investors, prominent developer angels) | Fully Remote (India / Global)
+345: Leegality | https://www.leegality.com | 65-95 | Series A $5M (IIFL, prominent domestic funds) | Delhi-NCR (Gurgaon) / Hybrid
+346: Bluecopa | https://bluecopa.com | 25-45 | Seed $2.3M (Blume Ventures, Chiratae Ventures) | Remote / Hyderabad / Bangalore / Delhi-NCR friendly
+347: Spry | https://www.spryhealth.com | 30-55 | Seed $7M (Two Culture Capital, Together Fund) | Remote / Delhi-NCR / Bangalore
+348: Datafold | https://www.datafold.com | 20-40 | Series A $22M (Amplify Partners, Y Combinator) | Fully Remote (India / Global)
+349: Fingerprint | https://fingerprint.com | 65-95 | Series B $32M (Craft Ventures, Nexus Venture Partners) | Fully Remote (India / Global)
+350: QuestDB | https://questdb.com | 20-40 | Series A $12M (468 Capital, Nexus VP, Y Combinator) | Fully Remote (India / Global)
+351: Unstructured.io | https://unstructured.io | 30-55 | Series B $40M (Menlo Ventures, Databricks Ventures) | Fully Remote (India / Global)
+352: LlamaIndex | https://www.llamaindex.ai | 20-40 | Seed $8.5M (Greylock Partners, prominent AI angels) | Fully Remote (India / Global)
+353: Baseten | https://www.baseten.co | 30-55 | Series B $40M (IVP, Spark Capital) | Fully Remote (India / Global)
+354: Modal Labs | https://modal.com | 20-40 | Series A $16M (Redpoint Ventures, Amplify Partners) | Fully Remote (India / Global)
+355: CrewAI | https://www.crewai.com | 10-25 | Seed $2.5M (Prominent open-source & AI angels) | Fully Remote (India / Global)

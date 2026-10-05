@@ -1,0 +1,10 @@
+.git
+.kilo
+__pycache__
+scripts/
+*.py
+*.pyc
+*.docx
+*.txt
+*.csv
+*.log

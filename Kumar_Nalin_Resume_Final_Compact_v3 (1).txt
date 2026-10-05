@@ -1,0 +1,61 @@
+KUMAR NALIN
+kumarnalin.me | New Delhi, India | +91 8178919116 | nalinkt.23@gmail.com | LinkedIn | GitHub
+
+Software Developer | AI & Full-Stack Engineering | LLM Systems
+SUMMARY
+Software developer focused on AI-powered products, full-stack applications, and LLM systems, with hands-on experience
+shipping production features across frontend, backend, databases, and AI pipelines. Strong in product iteration, debugging,
+performance optimization, and turning ambiguous requirements into working systems.
+
+EXPERIENCE
+Software Developer Intern / Backend Intern | NimitAI | New Delhi, India June 2026 – Present
+• Built the Prep War Room from scratch, owning backend and frontend workflows for practice modules including card-pitch TTS
+analysis, mind maps, podcasts, cheat sheets, pitch decks, and pitch-deck analysis.
+• Optimized the MVP LLM generation and research pipeline through model changes, parallel execution, pipeline improvements, and
+prompt optimization, reducing processing time from 317s to 117s (~63%).
+• Migrated production PostgreSQL data from Supabase to Azure PostgreSQL and cleaned 20+ GB of critical production data,
+reducing the database footprint to ~16 GB.
+• Redesigned the application dashboard and multi-page landing site, built its CMS, and resolved 50+ GitHub issues plus 100+ issues
+from internal bug tracking.
+Software Development Intern | Lexley.ai (Zangerrr.ai) | Remote February 2025 – August 2025
+• Developed AI-integrated frontend prototypes using Next.js, React, Tailwind CSS, and Gemini API for feature experimentation and
+conversational workflows.
+• Collaborated with backend engineers to resolve 30+ issues across FastAPI, MongoDB, and PostgreSQL, improving application
+stability and reliability.
+
+EDUCATION
+University School of Automation and Robotics (USAR), Guru Gobind Indraprastha University | New Delhi, India
+B.Tech in Artificial Intelligence and Data Science | CGPA: 8.07/10 | September 2023 – August 2027
+
+PROJECTS
+AI-Powered Notes Platform | Notovo.in
+• Built and deployed an EdTech platform for automated note generation and contextual document understanding; reached #1 Google
+Search ranking for “Notovo” and generated 190+ notes during beta testing.
+• Developed a LangGraph-based multi-agent AI workflow with streaming responses and optimized performance to 1.1s FCP and
+48ms INP using Supabase.
+Tech: Next.js, Supabase, LangGraph, TypeScript, Vercel, Google OAuth
+AI Codebase Audit System | Code Sage
+• Built an AI-powered static analysis system for vulnerability, bug, and technical-debt detection across large repositories using
+LangGraph multi-agent workflows and AST-driven repository indexing.
+• Eliminated hallucinated code references through structural validation against real file coordinates with token-efficient deterministic
+chunk retrieval.
+Tech: Python, LangGraph, AST Parsing, Pydantic, Gemini API
+Mood-Based Travel Discovery Platform | Voyatri.in
+• Built a full-stack travel discovery platform with personalized mood-based recommendations, a TikTok-style vertical feed, and
+curated Decks for sharing itineraries.
+• Reduced image storage costs by 80%+ through browser-side compression and optimized tag-based recommendation APIs to
+~50ms latency.
+Tech: Next.js, React, Supabase, PostgreSQL, Tailwind CSS, Framer Motion, Vercel
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, SQL
+AI / LLM: NLP, LangChain, LangGraph, Google ADK, Gemini API
+Backend / Data: Node.js, FastAPI, REST APIs, PostgreSQL, MongoDB, Redis, Supabase, Azure PostgreSQL
+Frontend / DevOps: React, Next.js, Tailwind CSS, Docker, CI/CD, Git
+
+LEADERSHIP
+Web Team Lead | ACTS USAR November 2024 – January 2026
+• Mentored 20+ peers in web development and DevOps through workshops and hands-on technical sessions; led technical
+operations for a college tech fest with 300+ participants.
+
+
