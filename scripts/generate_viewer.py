@@ -281,6 +281,54 @@ def generate_html_viewer():
             font-family: 'JetBrains Mono', monospace;
         }}
 
+        .storage-status-btn {{
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+            background: var(--bg-surface-elevated);
+            color: var(--text-primary);
+            padding: 7px 12px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 600;
+            border: 1px solid var(--border-medium);
+            cursor: pointer;
+            transition: background 0.15s, border-color 0.15s;
+            font-family: inherit;
+        }}
+
+        .storage-status-btn:hover {{
+            background: var(--bg-surface-hover);
+            border-color: var(--border-strong);
+        }}
+
+        .storage-dot {{
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #10b981;
+            display: inline-block;
+            transition: transform 0.2s;
+        }}
+
+        [data-theme="dark"] .storage-dot {{
+            background: #34d399;
+        }}
+
+        [data-theme="light"] .storage-dot {{
+            background: #059669;
+        }}
+
+        .storage-dot.saved {{
+            animation: storagePulse 1s ease-out;
+        }}
+
+        @keyframes storagePulse {{
+            0% {{ transform: scale(1.8); }}
+            50% {{ transform: scale(1.3); }}
+            100% {{ transform: scale(1); }}
+        }}
+
         /* Metrics Row */
         .metrics-grid {{
             display: grid;
@@ -1715,6 +1763,10 @@ def generate_html_viewer():
                         <span>More</span>
                     </button>
                     <div class="more-actions-dropdown" id="more-actions-menu">
+                        <button class="more-action-item" onclick="openStorageModal()">
+                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path></svg>
+                            <span>Storage &amp; Backup</span>
+                        </button>
                         <button class="more-action-item" onclick="document.getElementById('btn-export-json').click()">
                             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
                             <span>Export JSON</span>
@@ -1738,6 +1790,10 @@ def generate_html_viewer():
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
                     </span>
                     <span class="theme-text">Light Mode</span>
+                </button>
+                <button id="btn-storage-modal" class="storage-status-btn" title="View Local Storage sync status &amp; backup options">
+                    <span class="storage-dot" id="storage-status-dot"></span>
+                    <span id="storage-status-text">Storage: Saved</span>
                 </button>
                 <div class="header-badge" id="pipeline-stat">0 / {total_count} In Pipeline</div>
             </div>
@@ -2134,6 +2190,22 @@ def generate_html_viewer():
                 <button class="close-btn" id="close-analytics-modal" aria-label="Close analytics">&times;</button>
             </div>
             <div id="analytics-modal-body">
+                <!-- Rendered dynamically -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Local Storage & Data Persistence Modal -->
+    <div class="modal" id="storage-modal" role="dialog" aria-modal="true" aria-labelledby="storage-modal-title">
+        <div class="modal-card" style="max-width: 680px;">
+            <div class="modal-head">
+                <div>
+                    <h2 id="storage-modal-title">Local Storage &amp; Data Persistence</h2>
+                    <p style="color: var(--text-secondary); font-size: 12px; margin-top: 3px;">Auto-saved in browser LocalStorage. Persists permanently across page refreshes and sessions.</p>
+                </div>
+                <button class="close-btn" id="close-storage-modal" aria-label="Close storage modal">&times;</button>
+            </div>
+            <div id="storage-modal-body">
                 <!-- Rendered dynamically -->
             </div>
         </div>

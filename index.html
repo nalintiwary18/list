@@ -251,6 +251,54 @@
             font-family: 'JetBrains Mono', monospace;
         }
 
+        .storage-status-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+            background: var(--bg-surface-elevated);
+            color: var(--text-primary);
+            padding: 7px 12px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 600;
+            border: 1px solid var(--border-medium);
+            cursor: pointer;
+            transition: background 0.15s, border-color 0.15s;
+            font-family: inherit;
+        }
+
+        .storage-status-btn:hover {
+            background: var(--bg-surface-hover);
+            border-color: var(--border-strong);
+        }
+
+        .storage-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #10b981;
+            display: inline-block;
+            transition: transform 0.2s;
+        }
+
+        [data-theme="dark"] .storage-dot {
+            background: #34d399;
+        }
+
+        [data-theme="light"] .storage-dot {
+            background: #059669;
+        }
+
+        .storage-dot.saved {
+            animation: storagePulse 1s ease-out;
+        }
+
+        @keyframes storagePulse {
+            0% { transform: scale(1.8); }
+            50% { transform: scale(1.3); }
+            100% { transform: scale(1); }
+        }
+
         /* Metrics Row */
         .metrics-grid {
             display: grid;
@@ -1685,6 +1733,10 @@
                         <span>More</span>
                     </button>
                     <div class="more-actions-dropdown" id="more-actions-menu">
+                        <button class="more-action-item" onclick="openStorageModal()">
+                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path></svg>
+                            <span>Storage &amp; Backup</span>
+                        </button>
                         <button class="more-action-item" onclick="document.getElementById('btn-export-json').click()">
                             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
                             <span>Export JSON</span>
@@ -1708,6 +1760,10 @@
                         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
                     </span>
                     <span class="theme-text">Light Mode</span>
+                </button>
+                <button id="btn-storage-modal" class="storage-status-btn" title="View Local Storage sync status &amp; backup options">
+                    <span class="storage-dot" id="storage-status-dot"></span>
+                    <span id="storage-status-text">Storage: Saved</span>
                 </button>
                 <div class="header-badge" id="pipeline-stat">0 / 355 In Pipeline</div>
             </div>
@@ -2109,6 +2165,22 @@
         </div>
     </div>
 
+    <!-- Local Storage & Data Persistence Modal -->
+    <div class="modal" id="storage-modal" role="dialog" aria-modal="true" aria-labelledby="storage-modal-title">
+        <div class="modal-card" style="max-width: 680px;">
+            <div class="modal-head">
+                <div>
+                    <h2 id="storage-modal-title">Local Storage &amp; Data Persistence</h2>
+                    <p style="color: var(--text-secondary); font-size: 12px; margin-top: 3px;">Auto-saved in browser LocalStorage. Persists permanently across page refreshes and sessions.</p>
+                </div>
+                <button class="close-btn" id="close-storage-modal" aria-label="Close storage modal">&times;</button>
+            </div>
+            <div id="storage-modal-body">
+                <!-- Rendered dynamically -->
+            </div>
+        </div>
+    </div>
+
     <!-- Notification Toast -->
     <div id="toast">Copied to clipboard.</div>
 
@@ -2141,7 +2213,8 @@ const svgIcons = {
     table: '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>',
     cards: '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>',
     more: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="1.5"></circle><circle cx="19" cy="12" r="1.5"></circle><circle cx="5" cy="12" r="1.5"></circle></svg>',
-    resume: '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>'
+    resume: '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>',
+    database: '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path></svg>'
 };
 
 // 10 Pipeline Stages
@@ -2174,19 +2247,104 @@ function safeOutreachHref(value) {
     }
 }
 
+// Storage Keys & Unified State Management
+const STORAGE_KEYS = {
+    COMPANIES: 'target_startups_companies_v2',
+    STATES: 'target_startups_states_v2',
+    LEGACY_COMPANIES: 'custom_companies_data',
+    LAST_SAVED: 'target_startups_last_saved',
+    THEME: 'theme_preference',
+    VIEW_MODE: 'layout_view_mode',
+    FILTER_PILL: 'filter_pill',
+    FILTER_STATUS: 'filter_status',
+    SORT_ORDER: 'sort_order'
+};
+
 function storageGet(key) {
     try { return localStorage.getItem(key); }
     catch { return null; }
 }
 
 function storageSet(key, value) {
-    try { localStorage.setItem(key, value); return true; }
-    catch { return false; }
+    try {
+        localStorage.setItem(key, value);
+        return true;
+    } catch (e) {
+        console.warn('LocalStorage save error for key:', key, e);
+        return false;
+    }
 }
 
 function storageDelete(key) {
-    try { localStorage.removeItem(key); return true; }
-    catch { return false; }
+    try {
+        localStorage.removeItem(key);
+        return true;
+    } catch {
+        return false;
+    }
+}
+
+function getStorageUsageInfo() {
+    let totalBytes = 0;
+    try {
+        for (let i = 0; i < localStorage.length; i++) {
+            const k = localStorage.key(i);
+            const val = localStorage.getItem(k);
+            if (val) totalBytes += (k.length + val.length) * 2;
+        }
+    } catch {}
+    const kb = (totalBytes / 1024).toFixed(1);
+    return `${kb} KB`;
+}
+
+let _masterStatesCache = null;
+
+function getMasterStatesMap() {
+    if (_masterStatesCache) return _masterStatesCache;
+    const raw = storageGet(STORAGE_KEYS.STATES);
+    if (raw) {
+        try {
+            _masterStatesCache = JSON.parse(raw) || {};
+            return _masterStatesCache;
+        } catch {}
+    }
+    _masterStatesCache = {};
+    return _masterStatesCache;
+}
+
+function updateMasterStateForId(id, state) {
+    const map = getMasterStatesMap();
+    map[String(id)] = state;
+}
+
+let _persistTimeout = null;
+
+function debouncedPersistAllData() {
+    clearTimeout(_persistTimeout);
+    _persistTimeout = setTimeout(() => {
+        persistAllData(true);
+    }, 200);
+}
+
+function persistAllData(showIndicator = true) {
+    if (!window.companyData) return;
+    try {
+        const json = JSON.stringify(window.companyData);
+        storageSet(STORAGE_KEYS.COMPANIES, json);
+        storageSet(STORAGE_KEYS.LEGACY_COMPANIES, json); // Legacy backward compatibility
+        
+        const masterMap = getMasterStatesMap();
+        storageSet(STORAGE_KEYS.STATES, JSON.stringify(masterMap));
+        
+        const nowIso = new Date().toISOString();
+        storageSet(STORAGE_KEYS.LAST_SAVED, nowIso);
+
+        if (showIndicator) {
+            updateStorageIndicator(true);
+        }
+    } catch (e) {
+        console.error('LocalStorage persist error:', e);
+    }
 }
 
 function getTodayIso() {
@@ -2256,60 +2414,137 @@ function feedbackCopyButton(btn) {
 
 // Company List Persistence & State Management
 function initCompanyData() {
-    const custom = storageGet('custom_companies_data');
-    if (custom) {
+    let loadedData = null;
+
+    // 1. Try modern v2 data from LocalStorage
+    const rawV2 = storageGet(STORAGE_KEYS.COMPANIES);
+    if (rawV2) {
         try {
-            const parsed = JSON.parse(custom);
+            const parsed = JSON.parse(rawV2);
             if (Array.isArray(parsed) && parsed.length > 0) {
-                window.companyData = parsed;
-                return;
+                loadedData = parsed;
             }
         } catch (e) {
-            console.error('Error parsing custom_companies_data', e);
+            console.error('Error parsing STORAGE_KEYS.COMPANIES', e);
         }
     }
-    if (typeof companies !== 'undefined' && Array.isArray(companies)) {
-        window.companyData = JSON.parse(JSON.stringify(companies));
-    } else {
-        window.companyData = [];
+
+    // 2. Try legacy custom_companies_data
+    if (!loadedData) {
+        const rawLegacy = storageGet(STORAGE_KEYS.LEGACY_COMPANIES);
+        if (rawLegacy) {
+            try {
+                const parsed = JSON.parse(rawLegacy);
+                if (Array.isArray(parsed) && parsed.length > 0) {
+                    loadedData = parsed;
+                }
+            } catch (e) {
+                console.error('Error parsing legacy custom_companies_data', e);
+            }
+        }
     }
+
+    // 3. Fall back to base companies list embedded in HTML
+    if (!loadedData) {
+        if (typeof companies !== 'undefined' && Array.isArray(companies)) {
+            loadedData = JSON.parse(JSON.stringify(companies));
+        } else {
+            loadedData = [];
+        }
+    }
+
+    window.companyData = loadedData;
+
+    // 4. Merge any individual saved states into window.companyData
+    const masterMap = getMasterStatesMap();
+    window.companyData.forEach(comp => {
+        const sId = String(comp.id);
+        const state = getCompanyState(comp.id);
+        if (state) {
+            comp.outreach_status = state.status || comp.outreach_status || 'To Contact';
+            comp.connection_sent_date = state.connection_sent_date || comp.connection_sent_date || '';
+            comp.connection_accepted_date = state.connection_accepted_date || comp.connection_accepted_date || '';
+            comp.dm_sent_date = state.dm_sent_date || comp.dm_sent_date || '';
+            comp.email_sent_date = state.email_sent_date || comp.email_sent_date || '';
+            comp.followup_due_date = state.followup_due_date || comp.followup_due_date || '';
+            comp.last_touched_date = state.last_touched_date || comp.last_touched_date || '';
+            comp.custom_notes = state.custom_notes || comp.custom_notes || '';
+            comp.custom_signal = state.custom_signal || comp.custom_signal || '';
+            comp.custom_observation = state.custom_observation || comp.custom_observation || '';
+            comp.selected_proof = state.selected_proof || comp.selected_proof || '';
+            comp.contact_verified = (state.contact_verified !== undefined) ? state.contact_verified : Boolean(comp.contact_verified);
+            masterMap[sId] = state;
+        }
+    });
+
+    // Save unified synchronized data to LocalStorage
+    persistAllData(false);
+    updateStorageIndicator(false);
 }
 
 function saveCustomCompaniesList() {
     if (!window.companyData) return;
-    storageSet('custom_companies_data', JSON.stringify(window.companyData));
+    persistAllData(true);
     updateDynamicMetrics();
     render();
 }
 
 function getCompanyState(id) {
+    const sId = String(id);
+    const masterMap = getMasterStatesMap();
+    if (masterMap[sId]) {
+        return masterMap[sId];
+    }
+
     const raw = storageGet('comp_state_' + id);
     if (raw) {
-        try { return JSON.parse(raw); } catch {}
+        try {
+            const parsed = JSON.parse(raw);
+            if (parsed && typeof parsed === 'object') {
+                masterMap[sId] = parsed;
+                return parsed;
+            }
+        } catch {}
     }
+
+    const comp = (window.companyData && window.companyData.find(c => String(c.id) === sId)) ||
+                 (typeof companies !== 'undefined' && companies.find(c => String(c.id) === sId)) || {};
+
     const legacyStatus = storageGet('status_comp_' + id);
-    return {
-        status: legacyStatus || 'To Contact',
-        connection_sent_date: '',
-        connection_accepted_date: '',
-        dm_sent_date: '',
-        email_sent_date: '',
-        followup_due_date: '',
-        last_touched_date: '',
-        custom_notes: '',
-        custom_signal: '',
-        custom_observation: '',
-        selected_proof: '',
-        contact_verified: storageGet('contact_verified_' + id) === 'true'
+    const legacyVerified = storageGet('contact_verified_' + id);
+
+    const fallbackState = {
+        status: legacyStatus || comp.outreach_status || 'To Contact',
+        connection_sent_date: comp.connection_sent_date || '',
+        connection_accepted_date: comp.connection_accepted_date || '',
+        dm_sent_date: comp.dm_sent_date || '',
+        email_sent_date: comp.email_sent_date || '',
+        followup_due_date: comp.followup_due_date || '',
+        last_touched_date: comp.last_touched_date || '',
+        custom_notes: comp.custom_notes || '',
+        custom_signal: comp.custom_signal || '',
+        custom_observation: comp.custom_observation || '',
+        selected_proof: comp.selected_proof || comp.recommended_proof || "NimitAI 317s->117s Pipeline Win",
+        contact_verified: legacyVerified !== null ? (legacyVerified === 'true') : Boolean(comp.contact_verified)
     };
+
+    masterMap[sId] = fallbackState;
+    return fallbackState;
 }
 
-function saveCompanyState(id, state) {
+function saveCompanyState(id, state, shouldPersist = true) {
+    const sId = String(id);
+    updateMasterStateForId(sId, state);
+
+    // Save individual legacy keys for maximum compatibility
     storageSet('comp_state_' + id, JSON.stringify(state));
     storageSet('status_comp_' + id, state.status);
+    if (state.contact_verified !== undefined) {
+        storageSet('contact_verified_' + id, String(state.contact_verified));
+    }
     
     // Also update company object in memory
-    const comp = window.companyData && window.companyData.find(c => String(c.id) === String(id));
+    const comp = window.companyData && window.companyData.find(c => String(c.id) === sId);
     if (comp) {
         comp.outreach_status = state.status;
         comp.connection_sent_date = state.connection_sent_date;
@@ -2319,9 +2554,17 @@ function saveCompanyState(id, state) {
         comp.followup_due_date = state.followup_due_date;
         comp.last_touched_date = state.last_touched_date;
         comp.custom_notes = state.custom_notes;
+        comp.custom_signal = state.custom_signal;
+        comp.custom_observation = state.custom_observation;
+        comp.selected_proof = state.selected_proof;
+        comp.contact_verified = state.contact_verified;
     }
 
     updateDynamicMetrics();
+
+    if (shouldPersist) {
+        debouncedPersistAllData();
+    }
 }
 
 function updateCompanyStatus(id, newStatus) {
@@ -2353,7 +2596,7 @@ function updateCompanyStatus(id, newStatus) {
         state.followup_due_date = '';
     }
 
-    saveCompanyState(id, state);
+    saveCompanyState(id, state, true);
     outreachToast(`Status: ${newStatus}`);
     
     // Refresh modal if open
@@ -2605,7 +2848,7 @@ function renderConversionDashboard() {
     document.getElementById('analytics-modal').classList.add('open');
 }
 
-// 1-Click Export and Import CSV / JSON
+// 1-Click Export, Import, Clipboard Sync & Backup
 function exportTrackerDataJson() {
     if (!window.companyData) return;
     const comps = window.companyData.map(c => {
@@ -2620,6 +2863,10 @@ function exportTrackerDataJson() {
             followup_due_date: state.followup_due_date || c.followup_due_date || '',
             last_touched_date: state.last_touched_date || c.last_touched_date || '',
             custom_notes: state.custom_notes || c.custom_notes || '',
+            custom_signal: state.custom_signal || c.custom_signal || '',
+            custom_observation: state.custom_observation || c.custom_observation || '',
+            selected_proof: state.selected_proof || c.selected_proof || '',
+            contact_verified: Boolean(state.contact_verified),
             tracker_state: state
         };
     });
@@ -2630,7 +2877,100 @@ function exportTrackerDataJson() {
     a.download = `companies_data.json`;
     a.click();
     URL.revokeObjectURL(url);
-    outreachToast('Exported updated companies_data.json');
+    outreachToast('Exported complete companies_data.json backup');
+}
+
+async function copyStateToClipboard() {
+    if (!window.companyData) return;
+    const comps = window.companyData.map(c => {
+        const state = getCompanyState(c.id);
+        return {
+            ...c,
+            outreach_status: state.status || c.outreach_status || 'To Contact',
+            connection_sent_date: state.connection_sent_date || c.connection_sent_date || '',
+            connection_accepted_date: state.connection_accepted_date || c.connection_accepted_date || '',
+            dm_sent_date: state.dm_sent_date || c.dm_sent_date || '',
+            email_sent_date: state.email_sent_date || c.email_sent_date || '',
+            followup_due_date: state.followup_due_date || c.followup_due_date || '',
+            last_touched_date: state.last_touched_date || c.last_touched_date || '',
+            custom_notes: state.custom_notes || c.custom_notes || '',
+            custom_signal: state.custom_signal || c.custom_signal || '',
+            custom_observation: state.custom_observation || c.custom_observation || '',
+            selected_proof: state.selected_proof || c.selected_proof || '',
+            contact_verified: Boolean(state.contact_verified),
+            tracker_state: state
+        };
+    });
+    const text = JSON.stringify(comps, null, 2);
+    try {
+        await navigator.clipboard.writeText(text);
+        outreachToast('Copied full JSON state to clipboard!');
+    } catch {
+        const ta = document.createElement('textarea');
+        ta.value = text;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        ta.remove();
+        outreachToast('Copied full JSON state to clipboard!');
+    }
+}
+
+async function restoreStateFromClipboard() {
+    try {
+        let text = '';
+        if (navigator.clipboard && navigator.clipboard.readText) {
+            try { text = await navigator.clipboard.readText(); } catch {}
+        }
+        if (!text || !text.trim().startsWith('[')) {
+            text = prompt('Paste your JSON backup data here:');
+        }
+        if (!text) return;
+        applyJsonImportString(text);
+    } catch (e) {
+        outreachToast('Could not read clipboard. Please use file import.');
+    }
+}
+
+function applyJsonImportArray(data) {
+    if (!Array.isArray(data) || data.length === 0) {
+        outreachToast('Invalid backup data format.');
+        return;
+    }
+    window.companyData = data;
+    data.forEach(item => {
+        if (item.id) {
+            const state = item.tracker_state || {
+                status: item.outreach_status || item.status || 'To Contact',
+                connection_sent_date: item.connection_sent_date || '',
+                connection_accepted_date: item.connection_accepted_date || '',
+                dm_sent_date: item.dm_sent_date || '',
+                email_sent_date: item.email_sent_date || '',
+                followup_due_date: item.followup_due_date || '',
+                last_touched_date: item.last_touched_date || '',
+                custom_notes: item.custom_notes || '',
+                custom_signal: item.custom_signal || '',
+                custom_observation: item.custom_observation || '',
+                selected_proof: item.selected_proof || item.recommended_proof || '',
+                contact_verified: Boolean(item.contact_verified)
+            };
+            saveCompanyState(item.id, state, false);
+        }
+    });
+    persistAllData(true);
+    render();
+    updateDynamicMetrics();
+    renderStorageModalBody();
+    outreachToast(`Restored ${data.length} startups to Local Storage!`);
+}
+
+function applyJsonImportString(jsonStr) {
+    try {
+        const parsed = JSON.parse(jsonStr);
+        applyJsonImportArray(parsed);
+    } catch {
+        outreachToast('Import failed: invalid JSON format.');
+    }
 }
 
 function exportTrackerDataCsv() {
@@ -2697,16 +3037,7 @@ function importTrackerData(event) {
             const content = e.target.result;
             if (file.name.endsWith('.json')) {
                 const data = JSON.parse(content);
-                if (Array.isArray(data)) {
-                    window.companyData = data;
-                    data.forEach(item => {
-                        if (item.id && item.tracker_state) {
-                            saveCompanyState(item.id, item.tracker_state);
-                        }
-                    });
-                    saveCustomCompaniesList();
-                    outreachToast(`Imported ${data.length} startups from JSON.`);
-                }
+                applyJsonImportArray(data);
             } else if (file.name.endsWith('.csv')) {
                 const lines = content.split('\n');
                 let restoredCount = 0;
@@ -2725,33 +3056,50 @@ function importTrackerData(event) {
                         if (parts[20]) state.email_sent_date = parts[20].replace(/"/g, '').trim();
                         if (parts[21]) state.followup_due_date = parts[21].replace(/"/g, '').trim();
                         if (parts[22]) state.last_touched_date = parts[22].replace(/"/g, '').trim();
-                        saveCompanyState(id, state);
+                        saveCompanyState(id, state, false);
                         restoredCount++;
                     }
                 }
+                persistAllData(true);
+                render();
+                updateDynamicMetrics();
+                renderStorageModalBody();
                 outreachToast(`Updated ${restoredCount} company states from CSV.`);
             }
-            render();
-            updateDynamicMetrics();
         } catch (err) {
             outreachToast('Import failed: invalid file format.');
         }
+        event.target.value = '';
     };
     reader.readAsText(file);
 }
 
 // Reset List to Initial Dataset
 function resetCompanyList() {
-    if (confirm('Reset directory back to original 355 verified startups? Custom additions and modifications will be cleared.')) {
-        storageDelete('custom_companies_data');
+    if (confirm('Reset directory back to original 355 verified startups? Custom additions and modifications will be cleared from Local Storage.')) {
+        storageDelete(STORAGE_KEYS.COMPANIES);
+        storageDelete(STORAGE_KEYS.LEGACY_COMPANIES);
+        storageDelete(STORAGE_KEYS.STATES);
+        _masterStatesCache = {};
+
+        for (let i = localStorage.length - 1; i >= 0; i--) {
+            const key = localStorage.key(i);
+            if (key && (key.startsWith('comp_state_') || key.startsWith('status_comp_') || key.startsWith('contact_verified_'))) {
+                storageDelete(key);
+            }
+        }
+
         if (typeof window.initialCompaniesData !== 'undefined') {
             window.companyData = JSON.parse(JSON.stringify(window.initialCompaniesData));
         } else if (typeof companies !== 'undefined') {
             window.companyData = JSON.parse(JSON.stringify(companies));
         }
+        persistAllData(false);
         render();
         updateDynamicMetrics();
-        outreachToast('Directory reset to original 355 startups.');
+        updateStorageIndicator(true);
+        renderStorageModalBody();
+        outreachToast('Directory reset to original 355 startups in Local Storage.');
     }
 }
 
@@ -3054,6 +3402,9 @@ function openOutreachModal(id) {
 }
 
 function closeOutreachModal() {
+    if (currentModalComp) {
+        saveModalNotes(true);
+    }
     const modal = document.getElementById('outreach-modal');
     if (modal) modal.classList.remove('open');
     document.body.style.overflow = '';
@@ -3169,7 +3520,7 @@ function generateFollowupDraft() {
 }
 
 // Save Modal Notes & Mark as Sent Actions
-function saveModalNotes() {
+function saveModalNotes(quiet = false) {
     if (!currentModalComp) return;
     const id = currentModalComp.id;
     const state = getCompanyState(id);
@@ -3177,14 +3528,16 @@ function saveModalNotes() {
     state.custom_observation = document.getElementById('input-observation').value;
     state.selected_proof = document.getElementById('select-proof').value;
     state.custom_notes = document.getElementById('modal-custom-notes').value;
-    saveCompanyState(id, state);
-    outreachToast('Saved research notes.');
+    saveCompanyState(id, state, true);
+    if (!quiet) {
+        outreachToast('Saved research notes to Local Storage.');
+    }
 }
 
 function markModalStepSent(channel) {
     if (!currentModalComp) return;
     const id = currentModalComp.id;
-    saveModalNotes();
+    saveModalNotes(true);
     if (channel === 'linkedin') {
         updateCompanyStatus(id, 'Connection Sent');
     } else if (channel === 'dm') {
@@ -3226,6 +3579,148 @@ function updateThemeToggleUI(theme) {
         <span class="theme-text">${isDark ? 'Light Mode' : 'Dark Mode'}</span>
     `;
     btn.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+}
+
+// Local Storage Modal & Live Persistence Indicator
+function updateStorageIndicator(justSaved = false) {
+    const dot = document.getElementById('storage-status-dot');
+    const text = document.getElementById('storage-status-text');
+    if (!text) return;
+
+    const lastSaved = storageGet(STORAGE_KEYS.LAST_SAVED);
+    let timeStr = 'Saved';
+    if (lastSaved) {
+        try {
+            const d = new Date(lastSaved);
+            timeStr = d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+        } catch {}
+    }
+
+    text.innerText = justSaved ? `Saved (${timeStr})` : `Storage: Saved (${timeStr})`;
+
+    if (dot) {
+        if (justSaved) {
+            dot.classList.add('saved');
+            setTimeout(() => dot.classList.remove('saved'), 1000);
+        }
+    }
+}
+
+function openStorageModal() {
+    renderStorageModalBody();
+    const modal = document.getElementById('storage-modal');
+    if (modal) modal.classList.add('open');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeStorageModal() {
+    const modal = document.getElementById('storage-modal');
+    if (modal) modal.classList.remove('open');
+    document.body.style.overflow = '';
+}
+
+function renderStorageModalBody() {
+    const body = document.getElementById('storage-modal-body');
+    if (!body) return;
+
+    const comps = window.companyData || [];
+    const inPipeline = comps.filter(c => {
+        const st = getCompanyState(c.id).status;
+        return st && st !== 'To Contact' && st !== 'Archived';
+    }).length;
+
+    const withNotes = comps.filter(c => {
+        const s = getCompanyState(c.id);
+        return Boolean(s.custom_notes || s.custom_signal || s.custom_observation);
+    }).length;
+
+    const verified = comps.filter(c => getCompanyState(c.id).contact_verified).length;
+    const usage = getStorageUsageInfo();
+    const lastSaved = storageGet(STORAGE_KEYS.LAST_SAVED);
+    let timeStr = 'Just now';
+    if (lastSaved) {
+        try {
+            timeStr = new Date(lastSaved).toLocaleString();
+        } catch {}
+    }
+
+    body.innerHTML = `
+        <div style="background: var(--bg-surface-elevated); padding: 14px 16px; border-radius: 8px; border: 1px solid var(--border-subtle); margin-bottom: 18px; font-size: 13px; line-height: 1.5; color: var(--text-secondary);">
+            <strong style="color: var(--text-primary); display: flex; align-items: center; gap: 6px; margin-bottom: 4px;">
+                <span class="storage-dot" style="width: 8px; height: 8px;"></span> Browser Local Storage is Active &amp; Persistent
+            </strong>
+            All edits (pipeline stages, timestamps, research observations, custom notes, verified contacts, and newly added startups) are saved immediately to your browser's persistent Local Storage. On static hosts like <strong>Vercel</strong>, this ensures 100% of your progress remains intact across page refreshes and visits.
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 10px; margin-bottom: 20px;">
+            <div class="analytics-card" style="padding: 12px;">
+                <div class="analytics-label">Active Records</div>
+                <div class="analytics-val" style="font-size: 20px;">${comps.length}</div>
+            </div>
+            <div class="analytics-card" style="padding: 12px;">
+                <div class="analytics-label">In Pipeline</div>
+                <div class="analytics-val" style="font-size: 20px;">${inPipeline}</div>
+            </div>
+            <div class="analytics-card" style="padding: 12px;">
+                <div class="analytics-label">With Notes</div>
+                <div class="analytics-val" style="font-size: 20px;">${withNotes}</div>
+            </div>
+            <div class="analytics-card" style="padding: 12px;">
+                <div class="analytics-label">Verified</div>
+                <div class="analytics-val" style="font-size: 20px;">${verified}</div>
+            </div>
+            <div class="analytics-card" style="padding: 12px;">
+                <div class="analytics-label">Storage Used</div>
+                <div class="analytics-val" style="font-size: 20px;">${usage}</div>
+                <div class="analytics-sub">of ~5MB quota</div>
+            </div>
+        </div>
+
+        <div style="font-size: 12px; color: var(--text-muted); margin-bottom: 16px; font-family: 'JetBrains Mono', monospace;">
+            Last auto-saved: <span style="color: var(--text-primary); font-weight: 600;">${timeStr}</span>
+        </div>
+
+        <h4 style="font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; margin: 16px 0 8px; color: var(--text-muted);">Sync Across Devices &amp; Vercel URLs</h4>
+        <p style="font-size: 12px; color: var(--text-secondary); margin-bottom: 12px; line-height: 1.4;">
+            Because Vercel preview deployments use different domain URLs, you can move your work in 1 click using the clipboard or download a backup file:
+        </p>
+
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px;">
+            <button class="action-btn action-btn-primary" id="modal-copy-clipboard" style="padding: 8px 14px;">
+                ${svgIcons.copy} <span>Copy State to Clipboard</span>
+            </button>
+            <button class="action-btn" id="modal-restore-clipboard" style="padding: 8px 14px;">
+                ${svgIcons.draft} <span>Restore from Clipboard</span>
+            </button>
+            <button class="action-btn" id="modal-download-json" style="padding: 8px 14px;">
+                ${svgIcons.download} <span>Download JSON</span>
+            </button>
+            <button class="action-btn" id="modal-download-csv" style="padding: 8px 14px;">
+                ${svgIcons.download} <span>Download CSV</span>
+            </button>
+            <button class="action-btn" id="modal-import-file" style="padding: 8px 14px;">
+                ${svgIcons.upload} <span>Import Backup File</span>
+            </button>
+        </div>
+
+        <div style="border-top: 1px solid var(--border-subtle); padding-top: 14px; display: flex; justify-content: flex-end;">
+            <button class="action-btn btn-danger" id="modal-reset-storage" style="padding: 8px 14px;">
+                ${svgIcons.reset} <span>Reset Storage to Default (355 Startups)</span>
+            </button>
+        </div>
+    `;
+
+    document.getElementById('modal-copy-clipboard')?.addEventListener('click', copyStateToClipboard);
+    document.getElementById('modal-restore-clipboard')?.addEventListener('click', restoreStateFromClipboard);
+    document.getElementById('modal-download-json')?.addEventListener('click', exportTrackerDataJson);
+    document.getElementById('modal-download-csv')?.addEventListener('click', exportTrackerDataCsv);
+    document.getElementById('modal-import-file')?.addEventListener('click', () => {
+        document.getElementById('file-import-input')?.click();
+    });
+    document.getElementById('modal-reset-storage')?.addEventListener('click', () => {
+        resetCompanyList();
+        closeStorageModal();
+    });
 }
 
 // Global Filter & State variables
@@ -3528,28 +4023,39 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Restore filter and sort preferences from LocalStorage
+    activeFilter = storageGet(STORAGE_KEYS.FILTER_PILL) || 'all';
+    activeStatusFilter = storageGet(STORAGE_KEYS.FILTER_STATUS) || 'all';
+    currentSort = storageGet(STORAGE_KEYS.SORT_ORDER) || 'score-desc';
+
     // Filter Buttons
     document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.getAttribute('data-filter') === activeFilter);
         btn.addEventListener('click', () => {
             document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             activeFilter = btn.getAttribute('data-filter') || 'all';
+            storageSet(STORAGE_KEYS.FILTER_PILL, activeFilter);
             render();
         });
     });
 
     const statusFilterSelect = document.getElementById('status-filter-select');
     if (statusFilterSelect) {
+        statusFilterSelect.value = activeStatusFilter;
         statusFilterSelect.addEventListener('change', (e) => {
             activeStatusFilter = e.target.value;
+            storageSet(STORAGE_KEYS.FILTER_STATUS, activeStatusFilter);
             render();
         });
     }
 
     const sortSelect = document.getElementById('sort-select');
     if (sortSelect) {
+        sortSelect.value = currentSort;
         sortSelect.addEventListener('change', (e) => {
             currentSort = e.target.value;
+            storageSet(STORAGE_KEYS.SORT_ORDER, currentSort);
             render();
         });
     }
@@ -3598,6 +4104,22 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Storage Modal handlers
+    const btnStorageModal = document.getElementById('btn-storage-modal');
+    if (btnStorageModal) {
+        btnStorageModal.addEventListener('click', openStorageModal);
+    }
+    const closeStorageModalBtn = document.getElementById('close-storage-modal');
+    if (closeStorageModalBtn) {
+        closeStorageModalBtn.addEventListener('click', closeStorageModal);
+    }
+    const storageModal = document.getElementById('storage-modal');
+    if (storageModal) {
+        storageModal.addEventListener('click', (e) => {
+            if (e.target.id === 'storage-modal') closeStorageModal();
+        });
+    }
+
     // Workbench Modal listeners
     const closeBtn = document.getElementById('close-modal');
     if (closeBtn) closeBtn.addEventListener('click', closeOutreachModal);
@@ -3628,19 +4150,28 @@ document.addEventListener('DOMContentLoaded', () => {
             closeOutreachModal();
             closeCompanyFormModal();
             if (analyticsModal) analyticsModal.classList.remove('open');
+            closeStorageModal();
         }
     });
 
-    // Inputs inside modal triggers regeneration
+    // Inputs inside modal auto-save to Local Storage immediately
     const inputFeature = document.getElementById('input-feature-signal');
     const inputObs = document.getElementById('input-observation');
     const selectProof = document.getElementById('select-proof');
     const modalNotes = document.getElementById('modal-custom-notes');
 
-    if (inputFeature) inputFeature.addEventListener('input', generateAllDrafts);
-    if (inputObs) inputObs.addEventListener('input', generateAllDrafts);
-    if (selectProof) selectProof.addEventListener('change', generateAllDrafts);
-    if (modalNotes) modalNotes.addEventListener('input', saveModalNotes);
+    if (inputFeature) inputFeature.addEventListener('input', () => { generateAllDrafts(); saveModalNotes(true); });
+    if (inputObs) inputObs.addEventListener('input', () => { generateAllDrafts(); saveModalNotes(true); });
+    if (selectProof) selectProof.addEventListener('change', () => { generateAllDrafts(); saveModalNotes(true); });
+    if (modalNotes) modalNotes.addEventListener('input', () => { saveModalNotes(true); });
+
+    // Flush pending saves on page exit
+    window.addEventListener('beforeunload', () => {
+        if (_persistTimeout) {
+            clearTimeout(_persistTimeout);
+            persistAllData(false);
+        }
+    });
 
     // LinkedIn Char Limit Tabs
     document.querySelectorAll('.char-limit-tab').forEach(tab => {
@@ -3673,7 +4204,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (btnMarkFollowup) btnMarkFollowup.addEventListener('click', () => markModalStepSent('followup'));
 
     const btnSaveNotes = document.getElementById('btn-save-notes');
-    if (btnSaveNotes) btnSaveNotes.addEventListener('click', saveModalNotes);
+    if (btnSaveNotes) btnSaveNotes.addEventListener('click', () => saveModalNotes(false));
 
     // Global Delegated click handler
     document.body.addEventListener('click', event => {
